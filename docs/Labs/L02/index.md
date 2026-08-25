@@ -4,4 +4,5 @@ One guideline I found is anisotropy awareness, which means that additive manufac
 source- https://www.addmangroup.com/wp-content/uploads/2024/08/ADDMAN_DfAM-Guide2024.pdf
 ## Research 2
 When designing threads using FDM, it is recommended that you avoid creating sharp edges. Sharp edges can be a center point for stress and deformation. Dog-point threads or using an ACME thread design by rounding off the roots and crests are an easy way to avoid creating sharp edges.
+source-https://www.stratasys.com/siteassets/sdm/content---website-storage/design-guides/dg_sdm_fdm_0725a.pdf?v=490918
 <img width="577" height="295" alt="image" src="https://github.com/user-attachments/assets/881b93c9-2cfe-4540-8090-dca6db5e4f6e" />
