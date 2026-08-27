@@ -1,8 +1,5 @@
-# Individual Research
-## Research 1
-One guideline I found is anisotropy awareness, which means that additive manufacturing parts have directional strength. Engineers should design with build orientations in mind so that weak points and failures do not occur. This is crucial in design because we can't just design anything we want to with no safety checks; otherwise, people can get hurt or worse. We have to keep in mind weak points and possible failures and avoid those so engineering accidents do not happen. 
-source- https://www.addmangroup.com/wp-content/uploads/2024/08/ADDMAN_DfAM-Guide2024.pdf
-## Research 2
-When designing threads using FDM, it is recommended that you avoid creating sharp edges. Sharp edges can be a center point for stress and deformation. Dog-point threads or using an ACME thread design by rounding off the roots and crests are an easy way to avoid creating sharp edges.
-source-https://www.stratasys.com/siteassets/sdm/content---website-storage/design-guides/dg_sdm_fdm_0725a.pdf?v=490918
-<img width="577" height="295" alt="image" src="https://github.com/user-attachments/assets/881b93c9-2cfe-4540-8090-dca6db5e4f6e" />
+# Print Something Small
+## design 
+<img width="450" height="337" alt="image" src="https://github.com/user-attachments/assets/92d1e091-53ca-4792-bd39-065aecb02996" />
+https://www.printables.com/model/377697-spherical-bird-v2?lang=en&theme=light
+For my small print, I chose this small spherical bird. I chose it because I like birds and find them very interesting to watch, and the fact that they can naturally fly is one of the coolest things on Earth. This object was also very simple and easy to print for my first time using a 3D printer.
