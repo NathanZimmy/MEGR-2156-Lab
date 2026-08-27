@@ -10,4 +10,12 @@ For my small print, I chose this small spherical bird. I chose it because I like
 
 <img width="311" height="276" alt="image" src="https://github.com/user-attachments/assets/bfa66de3-24ad-4a80-bcf7-5d01f094e450" />
 
-Here you can see the print settings, the filament used, and the scale factor I set. I used PETG for printing with a 15% infill and scaled the original size down to 40% so it would be easier to fit with my other groupmates' prints and so it would print faster. 
+Here you can see the print settings, the filament used, and the scale factor I set. I used PETG for printing with a 15% infill and scaled the original size down to 40% so it would be easier to fit with my other groupmates' prints and so it would print faster. There was a slight overhang with the tail, but it was at a high enough angle that supports were not needed.
+
+<img width="404" height="221" alt="image" src="https://github.com/user-attachments/assets/753cd87e-214c-4fbf-b0b6-e8842dd4c45a" />
+
+Here are all three small prints chosen by my groupmates and me. We oriented the objects close together so the printing nozzle wouldn't have to move as far, shortening our print time.
+
+
+
+
