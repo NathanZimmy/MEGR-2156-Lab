@@ -16,6 +16,8 @@ Here you can see the print settings, the filament used, and the scale factor I s
 
 Here are all three small prints chosen by my groupmates and me. We oriented the objects close together so the printing nozzle wouldn't have to move as far, shortening our print time.
 
+https://github.com/user-attachments/assets/26ee7dcc-917e-4be6-b917-ebcaa7660b0f
+
 
 
 
