@@ -18,6 +18,7 @@ Here are all three small prints chosen by my groupmates and me. We oriented the 
 
 https://github.com/user-attachments/assets/26ee7dcc-917e-4be6-b917-ebcaa7660b0f
 
+https://github.com/user-attachments/assets/984fc25e-577f-4aff-a2fc-40fa356f9975
 
-
+<img width="4284" height="5712" alt="IMG_1294" src="https://github.com/user-attachments/assets/ceea8c76-7f98-46de-883f-0ccae0d3da6d" />
 
