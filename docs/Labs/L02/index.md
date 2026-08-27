@@ -22,3 +22,4 @@ https://github.com/user-attachments/assets/984fc25e-577f-4aff-a2fc-40fa356f9975
 
 <img width="4284" height="5712" alt="IMG_1294" src="https://github.com/user-attachments/assets/ceea8c76-7f98-46de-883f-0ccae0d3da6d" />
 
+We used printer 2 for our pieces. My groupmates were Sebastian and Eshan. I videoed the start and finish of the printing process, as well as a picture of the three complete prints. Mine was the bird on the front right, Eshan's was the bird in the back, and Sebastian's was a mini packman figure in the front left.
