@@ -2,9 +2,9 @@
 
 > **Engineering is the art of making decisions you can defend.**
 
-**Welcome to your design portfolio.**
+**Welcome to my design portfolio.**
 
-This site is the working record of your design decisions across MEGR 2156. Every entry documents your process — what you designed, how you designed it for the specific technology you were using, and what you learned from building it. Engineering documentation is a skill developed through deliberate practice. Each lab is an opportunity to improve the precision, clarity, and professional quality of how you record your work. As you progress through the semester your design capability will grow alongside your documentation — this portfolio is the record of that journey.
+Hello, my name is Nathaneal, and I am currently a mechanical engineering major at the University of North Carolina at Charlotte. This will be my portfolio for documenting all the work and designs I complete throughout this semester, and I'm excited to see my progression in design and overall understanding of engineering grow through this class. This portfolio will be like a scrapbook of all the things I design and will show my working process, decision-making, and finished products throughout each assignment.
 
 ---
 
