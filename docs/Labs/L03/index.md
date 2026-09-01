@@ -1,13 +1,16 @@
-# A3 – [Topic]
+# A3 – Design Something Small
 
-## Objective
-
-
-## Analyze
+## Design
+<img width="372" height="217" alt="image" src="https://github.com/user-attachments/assets/75e7f6ec-f91b-482f-8877-0c1a9683967a" />
 
 
-## Decide
+## Research
 
 
-## Communicate
+## Preprocessor and Printing
+
+
+## Print
+
+## Lessons Learned
 
