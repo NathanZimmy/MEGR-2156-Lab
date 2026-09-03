@@ -27,6 +27,20 @@ To start my model, I simply sketched a circle on the top plane and made the diam
 
 I then wanted to add holes into the cracker. So I did a bunch of extrude cuts onto the top surface of the cracker. I chose not to do a pattern here because no cracker is the same, and I want it to be more authentic, even if it took longer to model. I set the extrude cuts to through all, and the diameters of the holes ranged from 0.03-0.08in.
 
+<img width="341" height="233" alt="image" src="https://github.com/user-attachments/assets/eb637a1b-3380-4cd0-8d83-0ea196422453" />
+
+<img width="422" height="253" alt="image" src="https://github.com/user-attachments/assets/bf1d1e59-c796-49b4-bb4d-c7aab0a84ad9" />
+
+<img width="289" height="211" alt="image" src="https://github.com/user-attachments/assets/2b56bd5b-f9b4-4c91-b32b-887ca2b6cac3" />
+
+Next, I did a fillet on both outer edges to make the shape more round. I set the radius of the fillet to 0.05in. I also went into my display options and turned off display tangent edges so it wouldn't have a crease line.
+
+<img width="364" height="259" alt="image" src="https://github.com/user-attachments/assets/a57133da-b4cd-436f-909d-0f8dee5e4c81" />
+
+<img width="384" height="233" alt="image" src="https://github.com/user-attachments/assets/e3a2afc9-dacd-4c7c-b3b0-c19bbf41fb24" />
+
+I then wanted to make all the holes more rounded. So, I did another fillet and set the radius to 0.01in. I did this for the top and bottom of the cracker.
+
 ## Research
 
 
