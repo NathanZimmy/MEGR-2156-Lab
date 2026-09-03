@@ -39,7 +39,18 @@ Next, I did a fillet on both outer edges to make the shape more round. I set the
 
 <img width="384" height="233" alt="image" src="https://github.com/user-attachments/assets/e3a2afc9-dacd-4c7c-b3b0-c19bbf41fb24" />
 
-I then wanted to make all the holes more rounded. So, I did another fillet and set the radius to 0.01in. I did this for the top and bottom of the cracker.
+I then wanted to make all the holes more rounded. So, I did another fillet and set the radius to 0.01in. I did this for the top and bottom of the cracker. This was the final step in modeling my design.
+
+## PrusaSlicer
+
+<img width="265" height="196" alt="image" src="https://github.com/user-attachments/assets/937c032c-0e0f-4337-ae30-2f8ebed90f46" />
+
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/e64a2d80-7cae-4c9d-96c0-01b0981e0895" />
+
+<img width="180" height="163" alt="image" src="https://github.com/user-attachments/assets/f956a912-acca-4d4c-9a52-8fdc2a1cfa51" />
+
+The next step was to save my SolidWorks file as an STL file and import it into PrusaSlicer. When I did this, though, it imported vertically, so I needed to rotate it so I could make it flat on the plate to print properly. I quickly ran into a problem, though, because I could not find a way to set an exact angle of rotation to make it flat. I then started experimenting with buttons and found one that is labeled "place on face". I hit this and selected the flat part of the cracker, and it automatically aligned my design with the plate.
+
 
 ## Research
 
