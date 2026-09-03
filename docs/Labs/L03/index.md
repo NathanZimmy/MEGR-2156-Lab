@@ -51,6 +51,11 @@ I then wanted to make all the holes more rounded. So, I did another fillet and s
 
 The next step was to save my SolidWorks file as an STL file and import it into PrusaSlicer. When I did this, though, it imported vertically, so I needed to rotate it so I could make it flat on the plate to print properly. I quickly ran into a problem, though, because I could not find a way to set an exact angle of rotation to make it flat. I then started experimenting with buttons and found one that is labeled "place on face". I hit this and selected the flat part of the cracker, and it automatically aligned my design with the plate.
 
+<img width="959" height="440" alt="image" src="https://github.com/user-attachments/assets/87f8a6e7-3379-45ca-9311-66906b70ef5d" />
+
+<img width="362" height="116" alt="image" src="https://github.com/user-attachments/assets/8b864be6-3f4e-447c-93f2-8d4ccf005f75" />
+
+Now it's time to slice my print and decide on an infill percentage and pattern. The default infill is 15%, but I chose to go down to 10% because I want it to be realistic, and less infill will make it weaker and more brittle. I also chose to go with a lighting pattern because it is one of the quickest and most efficient patterns, but it is also very brittle under lateral or vertical stress.
 
 ## Research
 
