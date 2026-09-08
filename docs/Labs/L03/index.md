@@ -55,7 +55,7 @@ The next step was to save my SolidWorks file as an STL file and import it into P
 
 <img width="362" height="116" alt="image" src="https://github.com/user-attachments/assets/8b864be6-3f4e-447c-93f2-8d4ccf005f75" />
 
-Now it's time to slice my print and decide on an infill percentage and pattern. The default infill is 15%, but I chose to go down to 10% because I want it to be realistic, and less infill will make it weaker and more brittle. I also chose to go with a lighting pattern because it is one of the quickest and most efficient patterns, but it is also very brittle under lateral or vertical stress.
+Now it's time to slice my print and decide on an infill percentage and pattern. The default infill is 15%, but I chose to go down to 10% because I want it to be realistic, and less infill will make it weaker and more brittle. I also chose to go with a lighting pattern because it is one of the quickest and most efficient patterns, but it is also very brittle under lateral or vertical stress. We printed using a white color PLA fillament.
 
 https://github.com/user-attachments/assets/1a042c97-20c3-4af2-84c0-619faf00f093
 
