@@ -96,5 +96,10 @@ https://3dinsider.com/lightning-infill/
 https://help.prusa3d.com/article/infill-patterns_177130
 
 ## Lessons Learned
+The main lessons I learned is what it is like to start from nothing and end up with a final product. We were given a criteria and free rein to design whatever it was we wanted. I learned what it was like to engineer and design something to then produce it and be able to hold a final product/ prototype. Every other class I have had I would do math and CAD model something and that was the end. But in this class, I was able to make something I can hold and document every step I took alone the way which is really cool to me because it actually feel like I'm learning and doing engineering. A more specific lesson I learn was how infills work and what some of the different type are and their uses. My previous knowledge of 3D printing is sparse, so I always assumed that all prints were solid objects but it's completely different from that. There are different patters than control how load is dispersed and there is infill percentage that allows you to control the weight, density, and strength of an object. 
 
+<ins>What would happen if you scaled this decision up?</ins>
+If I scaled my decision to change the infill percentage to 10% was applied to a critical part instead of a decorative print, there would most likely be a catastrophic failure. Bending, cracking, or complete failure would most likely happen because I chose to make my object very weak and hollow to resemble the properties of a cracker. It was not made to be a load bearing structurally sound object. 
+
+<ins>How does this connect to a real product decision?</ins> 
 
