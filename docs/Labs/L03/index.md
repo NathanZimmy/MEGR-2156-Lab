@@ -71,13 +71,14 @@ Finished artifact compared to my hand.
 
 <img width="1280" height="604" alt="image" src="https://github.com/user-attachments/assets/2906e827-bf8e-49dc-8a06-b33329c34d53" />
 
+<img width="254" height="259" alt="image" src="https://github.com/user-attachments/assets/d23e24ad-210a-46c6-9977-2c0a2a6201f7" />
+
+This is what lightning infill would look like on my design if I used a 70% infill.
+
 <ins>Lightning Infill-</ins> 
 Lightning infill is a fast and efficient infill focusing purely on filament usage and reducing printing time. But this come with a cost of very minimal structural support. comparing it to other infills it is one of the most brittle infills and offers very little load support. It is mainly used for decorative prints or prototypes and not used for functional or load bearing objects. Lightning infill does not have any repeating patterns and is automatically generated based on the geometry of the object. It gets its name from its unique geometry which can sometimes resemble a lightning bolt.
 
 <img width="723" height="405" alt="image" src="https://github.com/user-attachments/assets/bdbd2997-a7c7-4c57-aba6-ebad2400e02c" />
-
-<img width="269" height="306" alt="image" src="https://github.com/user-attachments/assets/0f0db885-dec8-4d58-83bc-cbe072550ada" />
-Stars infill on my design.
 
 <ins>Stars Infill-</ins> 
 The stars infill is based on triangle geometry where two triangles intersect each other to make a six point star. It is very similar to a grid pattern infill where material collects at the intersect points making it stronger and more supported in those areas. Stars is different because it has more intersect points allowing for more coverage of supported areas. This come with a downfall of printing failure at times when the nozzle goes over the high material accumulation areas. The stars infill is used for its ability to control strength vs. material usage. If you want a stronger object you can up the density but if you want it to use less material you can lower the density while still holding more support than other infills might offer,
@@ -88,11 +89,12 @@ The stars infill is based on triangle geometry where two triangles intersect eac
 Archimedean chords is a spiral like shape that helps with leaving you design hollow for filling with liquids as well as making a more flexible shape depending on the filament you use. It provides support from the top but is more frigile if loaded on the side. 
 
 <ins>Infill Percentage-</ins> 
-
+Infill percentage is how much material is used to fill the inside of your object. In other words it's how full your object is to being with 0% being hollow and 100% being a solid object. This directly relates to the overall strength and ability to withstand a load. It also contributes to the weight and density of the object. However the infill percentage does not affect how the object distributes force. This is controlled by the infill pattern. The infill pattern can change how a load force is distributed through and object and where you may need more or less support inside the object.
 #### Sources
 https://3dinsider.com/lightning-infill/
 
 https://help.prusa3d.com/article/infill-patterns_177130
 
 ## Lessons Learned
+
 
