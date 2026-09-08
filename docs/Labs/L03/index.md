@@ -62,6 +62,7 @@ https://github.com/user-attachments/assets/1a042c97-20c3-4af2-84c0-619faf00f093
 https://github.com/user-attachments/assets/e778040b-af66-4aa1-b4e2-a949f74056c7
 
 https://github.com/user-attachments/assets/f84d7b4f-b142-4650-920a-8f03a81449b2
+These are videos of the beginning, middle, and end of the printing process. The print went very smooth with no issues and we only had to print once. The print time took about 24 minutes and the total times from starting design to finished product took about 2 hours.
 
 <img width="4284" height="5712" alt="image" src="https://github.com/user-attachments/assets/0d880925-a738-4b87-aefa-7d7ab7fb6a68" />
 Finished artifact compared to my hand.
