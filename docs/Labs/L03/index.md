@@ -57,6 +57,10 @@ The next step was to save my SolidWorks file as an STL file and import it into P
 
 Now it's time to slice my print and decide on an infill percentage and pattern. The default infill is 15%, but I chose to go down to 10% because I want it to be realistic, and less infill will make it weaker and more brittle. I also chose to go with a lighting pattern because it is one of the quickest and most efficient patterns, but it is also very brittle under lateral or vertical stress.
 
+
+https://github.com/user-attachments/assets/a7519ac3-bbcb-478a-910a-bb94edf7097e
+
+
 ## Research
 
 
