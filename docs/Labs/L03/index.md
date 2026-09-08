@@ -58,12 +58,19 @@ The next step was to save my SolidWorks file as an STL file and import it into P
 Now it's time to slice my print and decide on an infill percentage and pattern. The default infill is 15%, but I chose to go down to 10% because I want it to be realistic, and less infill will make it weaker and more brittle. I also chose to go with a lighting pattern because it is one of the quickest and most efficient patterns, but it is also very brittle under lateral or vertical stress.
 
 
+
+https://github.com/user-attachments/assets/e778040b-af66-4aa1-b4e2-a949f74056c7
+
+
 https://github.com/user-attachments/assets/a7519ac3-bbcb-478a-910a-bb94edf7097e
 
 
+<img width="4284" height="5712" alt="image" src="https://github.com/user-attachments/assets/0d880925-a738-4b87-aefa-7d7ab7fb6a68" />
+Finished artifact compared to my hand.
 
 ## Research
-<ins>underlined</ins>Lightning Infill:
+<ins>Lightning Infill</ins> 
+Lightning infill is a fast and efficient infill but is very brittle compared to others when 
 
 ## Preprocessor and Printing
 
