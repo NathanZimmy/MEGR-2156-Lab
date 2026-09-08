@@ -61,8 +61,9 @@ Now it's time to slice my print and decide on an infill percentage and pattern. 
 https://github.com/user-attachments/assets/a7519ac3-bbcb-478a-910a-bb94edf7097e
 
 
-## Research
 
+## Research
+<ins>underlined</ins>Lightning Infill:
 
 ## Preprocessor and Printing
 
