@@ -1,5 +1,6 @@
-# A4 – [Topic]
-
+# A4 – [Benchmark A Parameter]
+## objective
+The goal of this assignment is to 
 <img width="371" height="247" alt="image" src="https://github.com/user-attachments/assets/b3513b47-7c1b-4363-a211-a2510c78df1b" />
 
 <img width="524" height="221" alt="image" src="https://github.com/user-attachments/assets/6aadd65d-51c6-4dc9-ac3d-a80f927c9711" />
