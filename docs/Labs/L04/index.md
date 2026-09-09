@@ -1,13 +1,5 @@
 # A4 – [Topic]
 
-## Objective
-
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
+## Resources
+https://help.prusa3d.com/article/modeling-with-3d-printing-in-mind_164135
 
