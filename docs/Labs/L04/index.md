@@ -21,7 +21,7 @@ Next, I had to build the curves. My thought was to build one side at a time, the
 
 <img width="463" height="284" alt="image" src="https://github.com/user-attachments/assets/7c445d27-0c1f-432b-be18-c78f81deb075" />
 
-Next, I mirrored the inner and outer surfaces of the arch sketch about the centerline. This, however, did not work and caused my sketch to be unsolvable, and I wasn't able to find out why, so I moved on to doing it the long way and drawing the other side of the arches. It was easy because SolidWorks allows me to set the points for the spline on the same axis as the other points I previously set.
+Next, I mirrored the inner and outer surfaces of the arch sketch about the centerline. This, however, did not work and caused my sketch to be unsolvable, and I wasn't able to find out why, so I moved on to doing it the long way and drawing the other side of the arches. It was easy because SolidWorks allows me to set the points for the spline on the same axis as the other points I previously set. I wasn't worried about setting the angles of the arches equal to each other here because I am going to change them next.
 
 <img width="740" height="317" alt="image" src="https://github.com/user-attachments/assets/a3881a5c-a1c4-4ba8-9f0b-a14a91296614" />
 
@@ -30,7 +30,7 @@ Next, I mirrored the inner and outer surfaces of the arch sketch about the cente
 <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/5188be22-81d2-4cec-9d7a-e5716b0d9728" />
 
 
-next
+Next, I had to stretch and shrink the arches so I could actually test the parameter of the Prusa Core 1. To do this, I had to change a lot of stuff around because, as I was modeling it, I realized that my heights may become an issue with print time if I leave it this tall as well as make it as wide as I did. So I set the right arch to a distance of 60mm from the middle foot, and I shrunk the heights to 40mm and 37mm for the outer and inner surface lengths from the bottom. I also set the width of the third foot to 3mm. This is much thinner than what I previously had at 10mm because I want it to be thin enough for it to actually fail properly, and I thought if I make it too thick it will actually work properly because it would have more material to work on. 
 
 <img width="524" height="221" alt="image" src="https://github.com/user-attachments/assets/6aadd65d-51c6-4dc9-ac3d-a80f927c9711" />
 
