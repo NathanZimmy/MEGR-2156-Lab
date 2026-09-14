@@ -21,11 +21,14 @@ Next, I had to build the curves. My thought was to build one side at a time, the
 
 <img width="463" height="284" alt="image" src="https://github.com/user-attachments/assets/7c445d27-0c1f-432b-be18-c78f81deb075" />
 
-Next, I mirrored the inner and outer surfaces of the arch sketch about the centerline.
+Next, I mirrored the inner and outer surfaces of the arch sketch about the centerline. This, however, did not work and caused my sketch to be unsolvable, and I wasn't able to find out why, so I moved on to doing it the long way and drawing the other side of the arches. It was easy because SolidWorks allows me to set the points for the spline on the same axis as the other points I previously set.
 
 <img width="740" height="317" alt="image" src="https://github.com/user-attachments/assets/a3881a5c-a1c4-4ba8-9f0b-a14a91296614" />
 
-<img width="371" height="247" alt="image" src="https://github.com/user-attachments/assets/b3513b47-7c1b-4363-a211-a2510c78df1b" />
+<img width="470" height="278" alt="image" src="https://github.com/user-attachments/assets/ca976be1-3546-4e60-ab12-4a68eba32eac" />
+
+<img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/5188be22-81d2-4cec-9d7a-e5716b0d9728" />
+
 
 next
 
