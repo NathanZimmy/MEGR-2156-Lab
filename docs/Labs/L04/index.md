@@ -17,14 +17,27 @@ To start my model, I created a sketch on the top plane and drew three lines of e
 
 <img width="344" height="155" alt="image" src="https://github.com/user-attachments/assets/0de9673d-4571-4a73-9ac7-bb559b47cee8" />
 
-Next, I had to build the curves. 
+Next, I had to build the curves. My thought was to build one side at a time, then mirror the arch using a centerline onto the other side. So I used the spline tool to create the arches, just picking a point at the top and connecting it to the middle foot. The for the top edge of the arch creating another spline, and puting the first point in line with the inner surface and going to the middle of the middle foot. I had to place a centerline to find the middle. I also went and set the heights of the arches to 60mm for the top surface and 50mm for the inner surface, creating a 10 mm thickness. I also set the height of the other surface to the bottom of the foot to 10mm to keep that same uniform thickness around and not just guess.
+
+<img width="463" height="284" alt="image" src="https://github.com/user-attachments/assets/7c445d27-0c1f-432b-be18-c78f81deb075" />
+
+next
+
 <img width="371" height="247" alt="image" src="https://github.com/user-attachments/assets/b3513b47-7c1b-4363-a211-a2510c78df1b" />
+
+next
 
 <img width="524" height="221" alt="image" src="https://github.com/user-attachments/assets/6aadd65d-51c6-4dc9-ac3d-a80f927c9711" />
 
+next
+
 <img width="837" height="255" alt="image" src="https://github.com/user-attachments/assets/e1bfc411-157b-4da9-b638-3dda30fd0065" />
 
+next
+
 <img width="533" height="300" alt="image" src="https://github.com/user-attachments/assets/077c7d05-86ed-4453-8438-59564a8de1b8" />
+
+next
 
 <img width="958" height="487" alt="image" src="https://github.com/user-attachments/assets/b764495c-78cf-4000-8864-70efae49021d" />
 
