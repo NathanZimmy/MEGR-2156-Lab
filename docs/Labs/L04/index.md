@@ -6,9 +6,14 @@ The objective of this lab is to create a design or benchmark that will push the 
 Print may not exceed one hour total print time
 
 ## Parameter Choice and Prediction
-The parameter I want to test is the overhang angle test, and I want to do this by designing an archway that is long enough to gauge how far the machine can print before the filament is too weak to support its own mass. The parameter says it can go up to a 45% angle, but a lot of archways are wider than this, so I want to see how angled I can make the archway. This is a different test than most people do by using a linear plane with a set angle to test. While that is effective, I want to test it slightly different by adding curvature. A lot of components use arches and curvature rather than straight-cornered angles, so I want to know the capabilities of using this in a future design. I predict that the printer will fail after 45% because these machines are pretty advanced, and I think the 45% is a safety net, but it can really do more.
+The parameter I want to test is the overhang angle test, and I want to do this by designing an archway that is long enough to gauge how far the machine can print before the filament is too weak to support its own mass. The parameter says it can go up to a 45% angle, but a lot of archways are wider than this, so I want to see how angled I can make the archway. This is a different test than most people do by using a linear plane with a set angle to test. While that is effective, I want to test it slightly differently by adding curvature. A lot of components use arches and curvature rather than straight-cornered angles, so I want to know the capabilities of using this in a future design. I predict that the printer will fail after 45% because these machines are pretty advanced, and I think the 45% is a safety net, but it can really do more.
 
 ## Design 
+The design I chose will have two arches, each of different geometry. It is similar to the McDonald's Golden Arches, and I based this idea on McDonald's because I am a thorough enjoyer of McDonald's. One arch is going to be very steep and skinny, while the other will be wider and stretched out. This is to see what it can and can't do. I think it will be able to do the steep, skinny arch because it does not surpass the 45% angle rule, but the wider arch will have issues printing towards the top.
+
+To start my model I created a sketch on the top plane and drew three lines of equal length and distance apart from each other. These will be the footholds that touch the plate when printing. I first changed the units to mm instead of inches so I would have a better idea of how it will fit onto the plate when printing. I set the base lines to 8mm and the spacing in between to 18mm for now, but this will have to be changed later after I get the initial arch built.
+
+<img width="479" height="415" alt="image" src="https://github.com/user-attachments/assets/e75b5a6a-70bb-436c-954a-3eab3666bb2a" />
 
 <img width="371" height="247" alt="image" src="https://github.com/user-attachments/assets/b3513b47-7c1b-4363-a211-a2510c78df1b" />
 
