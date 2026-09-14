@@ -42,7 +42,7 @@ This is my finished SolidWorks file.
 
 <img width="533" height="300" alt="image" src="https://github.com/user-attachments/assets/077c7d05-86ed-4453-8438-59564a8de1b8" />
 
-Now it was time to import my file into PrusaSlicer. I saved my CAD model as an STL file and imported it into the plater.
+Now it was time to import my file into PrusaSlicer. I saved my CAD model as an STL file and imported it into the plater. I used generic PLA with a 10% infill and did not change the infill pattern. It said the print time should take 34 minutes.
 
 <img width="958" height="487" alt="image" src="https://github.com/user-attachments/assets/b764495c-78cf-4000-8864-70efae49021d" />
 
