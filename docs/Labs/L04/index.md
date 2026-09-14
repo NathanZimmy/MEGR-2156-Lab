@@ -6,7 +6,7 @@ The objective of this lab is to create a design or benchmark that will push the 
 Print may not exceed one hour total print time
 
 ## Parameter Choice and Prediction
-The parameter I want to test is the overhang angle test, and I want to do this by designing an archway that is long enough to gauge how far the machine can print before the filament is too weak to support its own mass. The parameter says it can go up to a 45% angle, but most archways are wider than this, so I want to see how angled I can make the archway. I predict that the printer will fail after 45% because these machines are pretty advanced, and I think the 45% is a safety net, but it can really do more.
+The parameter I want to test is the overhang angle test, and I want to do this by designing an archway that is long enough to gauge how far the machine can print before the filament is too weak to support its own mass. The parameter says it can go up to a 45% angle, but a lot of archways are wider than this, so I want to see how angled I can make the archway. This is a different test than most people do by using a linear plane with a set angle to test. While that is effective, I want to test it slightly different by adding curvature. A lot of components use arches and curvature rather than straight-cornered angles, so I want to know the capabilities of using this in a future design. I predict that the printer will fail after 45% because these machines are pretty advanced, and I think the 45% is a safety net, but it can really do more.
 
 ## Design 
 
