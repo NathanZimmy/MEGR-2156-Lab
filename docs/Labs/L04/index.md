@@ -30,11 +30,11 @@ Next, I mirrored the inner and outer surfaces of the arch sketch about the cente
 <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/5188be22-81d2-4cec-9d7a-e5716b0d9728" />
 
 
-Next, I had to stretch and shrink the arches so I could actually test the parameter of the Prusa Core 1. To do this, I had to change a lot of stuff around because, as I was modeling it, I realized that my heights may become an issue with print time if I leave it this tall as well as make it as wide as I did. So I set the right arch to a distance of 60mm from the middle foot, and I shrunk the heights to 40mm and 37mm for the outer and inner surface lengths from the bottom. I also set the width of the third foot to 3mm. This is much thinner than what I previously had at 10mm because I want it to be thin enough for it to actually fail properly, and I thought if I make it too thick it will actually work properly because it would have more material to work on. 
+Next, I had to stretch and shrink the arches so I could actually test the parameter of the Prusa Core 1. To do this, I had to change a lot of stuff around because, as I was modeling it, I realized that my heights may become an issue with print time if I leave it this tall, as well as make it as wide as I did. So I set the right arch to a distance of 60mm from the middle foot, and I shrunk the heights to 40mm and 37mm for the outer and inner surface lengths from the bottom. I also set the width of the third foot to 3mm. This is much thinner than what I previously had at 10mm because I want it to be thin enough for it to actually fail properly, and I thought that if I made it too thick, it would actually work properly because it would have more material to work on. On the left side, I left the distance between the feet the same and only changed the height of the arch to match the right side. 
 
 <img width="524" height="221" alt="image" src="https://github.com/user-attachments/assets/6aadd65d-51c6-4dc9-ac3d-a80f927c9711" />
 
-next
+Lastly, I had to extrude the sketch to a thickness of 
 
 <img width="837" height="255" alt="image" src="https://github.com/user-attachments/assets/e1bfc411-157b-4da9-b638-3dda30fd0065" />
 
