@@ -34,15 +34,15 @@ Next, I had to stretch and shrink the arches so I could actually test the parame
 
 <img width="524" height="221" alt="image" src="https://github.com/user-attachments/assets/6aadd65d-51c6-4dc9-ac3d-a80f927c9711" />
 
-Lastly, I had to extrude the sketch to a thickness of 
+Lastly, I had to extrude the sketch to a thickness of 10mm
 
 <img width="837" height="255" alt="image" src="https://github.com/user-attachments/assets/e1bfc411-157b-4da9-b638-3dda30fd0065" />
 
-next
+This is my finished SolidWorks file.
 
 <img width="533" height="300" alt="image" src="https://github.com/user-attachments/assets/077c7d05-86ed-4453-8438-59564a8de1b8" />
 
-next
+Now it was time to import my file into PrusaSlicer. I saved my CAD model as an STL file and imported it into the plater.
 
 <img width="958" height="487" alt="image" src="https://github.com/user-attachments/assets/b764495c-78cf-4000-8864-70efae49021d" />
 
