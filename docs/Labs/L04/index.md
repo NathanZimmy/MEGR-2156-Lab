@@ -21,7 +21,9 @@ Next, I had to build the curves. My thought was to build one side at a time, the
 
 <img width="463" height="284" alt="image" src="https://github.com/user-attachments/assets/7c445d27-0c1f-432b-be18-c78f81deb075" />
 
-next
+Next, I mirrored the inner and outer surfaces of the arch sketch about the centerline.
+
+<img width="740" height="317" alt="image" src="https://github.com/user-attachments/assets/a3881a5c-a1c4-4ba8-9f0b-a14a91296614" />
 
 <img width="371" height="247" alt="image" src="https://github.com/user-attachments/assets/b3513b47-7c1b-4363-a211-a2510c78df1b" />
 
