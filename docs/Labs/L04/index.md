@@ -42,10 +42,12 @@ This is my finished SolidWorks file.
 
 <img width="533" height="300" alt="image" src="https://github.com/user-attachments/assets/077c7d05-86ed-4453-8438-59564a8de1b8" />
 
-Now it was time to import my file into PrusaSlicer. I saved my CAD model as an STL file and imported it into the plater. I used generic PLA with a 10% infill and did not change the infill pattern. It said the print time should take 34 minutes.
+Now it was time to import my file into PrusaSlicer. I saved my CAD model as an STL file and imported it into the slicer. I used generic PLA with a 10% infill and did not change the infill pattern. I did have to select which surface I wanted to be touching the plate, so I moved it to standing upright. When I imported the model, it was set flat on its back. It said the print time should take 34 minutes. I used printer 3 for the print
 
 <img width="958" height="487" alt="image" src="https://github.com/user-attachments/assets/b764495c-78cf-4000-8864-70efae49021d" />
 
+## Lessons Learned
+I learned a lot from this assignment. I was really surprized at how well the Prusa Core 1 was able to print the archways, failing far later than I predicted it would. It was able to create both arches almost completely until the very tops of each. It mainly failed on the wider arch, which is what I predicted; however, it also messed up very slightly on the left arch towards the very top. Before starting this assignment, I learned a lot about the actual parameters of the Prusa Core, such as it can't print over a 45-degree angle and it can't print a detail past a .4mm dimension. This is because the nozzle is a .4mm nozzel. If I were to do something differently next time, it would be to make the arches even wider and skinnier to really make the printer fail to a point where it doesn't come out as an arch. 
 ## Resources
 https://help.prusa3d.com/article/modeling-with-3d-printing-in-mind_164135
 
