@@ -46,6 +46,16 @@ Now it was time to import my file into PrusaSlicer. I saved my CAD model as an S
 
 <img width="958" height="487" alt="image" src="https://github.com/user-attachments/assets/b764495c-78cf-4000-8864-70efae49021d" />
 
+<img width="4284" height="5712" alt="IMG_1367" src="https://github.com/user-attachments/assets/31fcd53e-4551-45b5-8cc8-6334241f291e" />
+
+Videos during the printing process and the finished print.
+
+## Failure points
+
+<img width="3024" height="4032" alt="IMG_1428" src="https://github.com/user-attachments/assets/ffc4fc00-0889-4b61-8cdc-4ed2da39b1ee" />
+
+<img width="4284" height="5712" alt="IMG_1427" src="https://github.com/user-attachments/assets/b4e7de91-3347-4ecb-b282-d3e63c509c85" />
+
 ## Lessons Learned
 I learned a lot from this assignment. I was really surprized at how well the Prusa Core 1 was able to print the archways, failing far later than I predicted it would. It was able to create both arches almost completely until the very tops of each. It mainly failed on the wider arch, which is what I predicted; however, it also messed up very slightly on the left arch towards the very top. Before starting this assignment, I learned a lot about the actual parameters of the Prusa Core, such as it can't print over a 45-degree angle and it can't print a detail past a .4mm dimension. This is because the nozzle is a .4mm nozzel. I also learned that orientation can change everything. The parameter I tested would've completely worked if I oriented my model lying down instead of upright. This seems like an obvious fix but can really help in later projects if I am worried about a certain dimension printing properly. Lastly I learned that trial and error and prototyping help a lot when working with spicific dimensions such as benchmarking a paramter. I went in before the class and printed early because I was worried that it wouldn't work and the printer would complete the print with no issues. Luckily, that didn't happen, but it saved me time if it didn't work during the class period. I can continue this method to make sure all my future projects work and go accordingly on the time I have. If I were to do something differently next time, it would be to make the arches even wider and skinnier to really make the printer fail to a point where it doesn't come out as an arch. 
 
