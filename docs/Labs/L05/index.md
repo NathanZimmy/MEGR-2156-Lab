@@ -16,7 +16,7 @@ I wanted to research my choices for snap-fit connections to brainstorm what kind
 
 
 ## Model
-
+### Part 1
 <img width="377" height="204" alt="image" src="https://github.com/user-attachments/assets/b572dbe6-b668-4d17-a313-f55a70176abe" />
 
 <img width="275" height="245" alt="image" src="https://github.com/user-attachments/assets/4c1b8f52-40d2-44ce-87dd-eba2876a2da6" />
@@ -28,6 +28,13 @@ I wanted to research my choices for snap-fit connections to brainstorm what kind
 <img width="626" height="323" alt="image" src="https://github.com/user-attachments/assets/0672e866-bfe4-431b-ab0a-6c85df633791" />
 
 <img width="530" height="272" alt="image" src="https://github.com/user-attachments/assets/bb1e2868-9c39-4a4a-bfdc-e7ec332c4c8c" />
+
+### Part 2
+<img width="216" height="182" alt="image" src="https://github.com/user-attachments/assets/87bba827-2caa-4a27-aaee-af089ea4aecc" />
+
+<img width="203" height="304" alt="image" src="https://github.com/user-attachments/assets/6ef86741-a137-4319-9068-241322ea7c2f" />
+
+<img width="371" height="314" alt="image" src="https://github.com/user-attachments/assets/87c4991f-93a3-4a75-8187-3cf696c5e602" />
 
 ## Communicate
 
