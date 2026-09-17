@@ -5,18 +5,29 @@ The goal of this lab is to design and print a snap fit connection. A snap fit co
 
 ## Pre-design research
 
-What is a snap fit? A snap fit is a connection that uses elastic deformation to flex and unflex to create a fit. Common examples of snap fits are bookbag clips, LEGOs, battery casings, remote control backs.
+What is a snap fit? A snap fit is a connection that uses elastic deformation to flex and unflex to create a fit. Common examples of snap fits are bookbag clips, LEGOs, battery casings, and remote control back plates.
 <img width="535" height="309" alt="image" src="https://github.com/user-attachments/assets/d95f57aa-76d2-4363-a280-53873b7ce0f8" />
 
 <img width="1920" height="1094" alt="image" src="https://github.com/user-attachments/assets/fac16a4a-88ba-4838-80fe-a3cbe3e7cf69" />
 
 <img width="1429" height="803" alt="image" src="https://github.com/user-attachments/assets/3b3e2483-5e98-44c1-b76b-3624120aa182" />
 
-I wanted to research my choices for snap-fit connections to brainstorm what kind of design I wanted to create. I found there are many kinds of snap-fit connections, giving me a lot of variety and freedom in what I want to design. Some common ones I found are cantilever, ball-and-socket, L-shaped, and U-shaped joints. I decided i wanted to try
+I wanted to research my choices for snap-fit connections to brainstorm what kind of design I wanted to create. I found there are many kinds of snap-fit connections, giving me a lot of variety and freedom in what I want to design. Some common ones I found are cantilever, ball-and-socket, L-shaped, and U-shaped joints. I decided I wanted to try
 
 
-## Decide
+## Model
 
+<img width="377" height="204" alt="image" src="https://github.com/user-attachments/assets/b572dbe6-b668-4d17-a313-f55a70176abe" />
+
+<img width="275" height="245" alt="image" src="https://github.com/user-attachments/assets/4c1b8f52-40d2-44ce-87dd-eba2876a2da6" />
+
+<img width="405" height="300" alt="image" src="https://github.com/user-attachments/assets/0c475dd6-95af-409d-be8d-5b3ffd9e5e59" />
+
+<img width="654" height="293" alt="image" src="https://github.com/user-attachments/assets/f9da580e-a6e1-4677-83b0-63b0a6475bce" />
+
+<img width="626" height="323" alt="image" src="https://github.com/user-attachments/assets/0672e866-bfe4-431b-ab0a-6c85df633791" />
+
+<img width="530" height="272" alt="image" src="https://github.com/user-attachments/assets/bb1e2868-9c39-4a4a-bfdc-e7ec332c4c8c" />
 
 ## Communicate
 
