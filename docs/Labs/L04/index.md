@@ -48,6 +48,15 @@ Now it was time to import my file into PrusaSlicer. I saved my CAD model as an S
 
 <img width="4284" height="5712" alt="IMG_1367" src="https://github.com/user-attachments/assets/31fcd53e-4551-45b5-8cc8-6334241f291e" />
 
+
+
+https://github.com/user-attachments/assets/7bbfb76a-8ee5-4464-9f50-d6a6327cce79
+
+
+
+https://github.com/user-attachments/assets/589c6202-5b51-41b3-ad83-97069e8641e7
+
+
 Videos during the printing process and the finished print.
 
 ## Failure points
