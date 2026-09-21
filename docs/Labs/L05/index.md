@@ -15,7 +15,7 @@ What is a snap fit? A snap fit is a connection that uses elastic deformation to 
 I wanted to research my choices for snap-fit connections to brainstorm what kind of design I wanted to create. I found there are many kinds of snap-fit connections, giving me a lot of variety and freedom in what I want to design. Some common ones I found are cantilever, ball-and-socket, L-shaped, and U-shaped joints. I decided I wanted to try
 
 
-## CAD Model (parametric)
+## CAD Model prototype (parametric)
 ### Part 1
 
 To start this project, I wanted to start off by prototyping my CAD model. The assignment states for us to select the initial geometry of the design and solve for the flexure dimensions depending on which type of snap fit we make, as well as what initial geometry we choose to create. We have to solve for the flexure length later because the length will depend on how much force needs to be applied to the end of your snap-fit to unlock it. For my project, I chose to create a simple cantilever beam with a hook end that will snap into place after sliding into the hole I will create in part two. So my flexure length (the length of the arm connected to the rigid base) will depend on how far I have to push the hook over to fit it back into the hole after it snaps into place, as well as how much force is required.
@@ -30,7 +30,7 @@ To start this project, I wanted to start off by prototyping my CAD model. The as
 
 For the model itself, I started with a simple 2in by 2in base and extruded it to a thickness of .5in. Next, I needed to add the flexure to the middle of the base. I started by adding a center plane in the middle of the base. I did this because sketching on top of the base would've been more difficult to extrude since I have an overhang for the hook part of my flexure. I would've had to split it into 2 extrudes to be able to create the hook. So instead, I can create a center plane and sketch the flexure from the side, allowing me to extrude the piece as a whole. The downfall of this is that this piece has a certain thickness, and I need that thickness to be the exact center of the base, and since the plane is at the center, I can't do that. So I would just have to mirror the extrusion about that same plane I'm sketching on to have it be at the center. I just had to take this into account for my dimensions when modeling. Since I am going to mirror the extrusion, I have to make my thickness dimension half of what I actually want it to be so that when I mirror it about the plane, the thickness dimensions will add together to the value I want. 
 
-To model the flexure, I started a sketch on the plane I created earlier and made a cantilever beam shape with a cook end with a total height of .50in and a total width of .20in. I made the hook end stick out from the shaft of the shape by .05in. I then extruded this shape by .05in. This will add up to .1in after mirroring. 
+To model the flexure, I started a sketch on the plane I created earlier and made a cantilever beam shape with a hook end with a total height of .50in and a total width of .20in. I made the hook end stick out from the shaft of the shape by .05in. I then extruded this shape by .05in. This will add up to .1in after mirroring. 
 
 <img width="626" height="323" alt="image" src="https://github.com/user-attachments/assets/0672e866-bfe4-431b-ab0a-6c85df633791" />
 
@@ -53,6 +53,7 @@ I wanted to print the prototype to see initially how it would turn out. I did th
 
 <img width="947" height="443" alt="image" src="https://github.com/user-attachments/assets/c85f0652-da99-4d85-9cd3-5b9b75519d2c" />
 
+## Calculating the Length of the Flexure
 
 ## Communicate
 
