@@ -46,7 +46,7 @@ I wanted to print the prototype to see initially how it would turn out. I did th
 
 <img width="674" height="335" alt="image" src="https://github.com/user-attachments/assets/093d5091-7b63-4011-9302-41cd4323a8ef" />
 
-<img width="957" height="472" alt="image" src="https://github.com/user-attachments/assets/38868ee0-d3b7-48d8-820b-bd640b607d03" />
+<img width="959" height="437" alt="image" src="https://github.com/user-attachments/assets/62795351-a7b2-4e6c-9035-5dbda7ef90f6" />
 
 <img width="947" height="443" alt="image" src="https://github.com/user-attachments/assets/c85f0652-da99-4d85-9cd3-5b9b75519d2c" />
 
