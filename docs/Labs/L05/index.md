@@ -41,5 +41,15 @@ Here is where I implemented the mirror, about the same plan I sketched, which is
 
 <img width="371" height="314" alt="image" src="https://github.com/user-attachments/assets/87c4991f-93a3-4a75-8187-3cf696c5e602" />
 
+## Printing the Prototype
+I wanted to print the prototype to see initially how it would turn out. I did this for a few reasons: one, to see if the snap fit I created before taking forces and math into account would work, and two, simply to feel and touch what I had made to get a better understanding of what needs to happen in my next steps. I had to add supports for the hook end, which I did by going into the print settings and auto-generating the supports and support material. I also scaled it down 70% to make it print a little faster since this isn't my final product. I tried to scale it down smaller to 50%, but the supports wouldn't come out right if I made it that small. 
+
+<img width="674" height="335" alt="image" src="https://github.com/user-attachments/assets/093d5091-7b63-4011-9302-41cd4323a8ef" />
+
+<img width="957" height="472" alt="image" src="https://github.com/user-attachments/assets/38868ee0-d3b7-48d8-820b-bd640b607d03" />
+
+<img width="947" height="443" alt="image" src="https://github.com/user-attachments/assets/c85f0652-da99-4d85-9cd3-5b9b75519d2c" />
+
+
 ## Communicate
 
