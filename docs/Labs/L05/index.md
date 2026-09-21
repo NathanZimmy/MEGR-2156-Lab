@@ -15,8 +15,10 @@ What is a snap fit? A snap fit is a connection that uses elastic deformation to 
 I wanted to research my choices for snap-fit connections to brainstorm what kind of design I wanted to create. I found there are many kinds of snap-fit connections, giving me a lot of variety and freedom in what I want to design. Some common ones I found are cantilever, ball-and-socket, L-shaped, and U-shaped joints. I decided I wanted to try
 
 
-## Model
+## CAD Model (parametric)
 ### Part 1
+
+To start this project, I wanted to start off by prototyping my CAD model. The assignment states for us to select the initial geometry of the design and solve for the flexure dimensions depending on which type of snap fit we make, as well as what initial geometry we choose to create. We have to solve for the flexure length later because the length will depend on how much force needs to be applied to the end of your snap-fit to unlock it. For my project, I chose to create a simple cantilever beam with a hook end that will snap into place after sliding into the hole I will create in part two. So my flexure length (the length of the arm connected to the rigid base) will depend on how far I have to push the hook over to fit it back into the hole after it snaps into place as well as how much force is requireed.
 <img width="377" height="204" alt="image" src="https://github.com/user-attachments/assets/b572dbe6-b668-4d17-a313-f55a70176abe" />
 
 <img width="275" height="245" alt="image" src="https://github.com/user-attachments/assets/4c1b8f52-40d2-44ce-87dd-eba2876a2da6" />
@@ -29,6 +31,7 @@ I wanted to research my choices for snap-fit connections to brainstorm what kind
 
 <img width="530" height="272" alt="image" src="https://github.com/user-attachments/assets/bb1e2868-9c39-4a4a-bfdc-e7ec332c4c8c" />
 
+For the model itself, I started with a simple 2in by 2in base and extruded it to a thickness of .5in. Next, I needed to add the flexure to the middle of the base. . 
 ### Part 2
 <img width="216" height="182" alt="image" src="https://github.com/user-attachments/assets/87bba827-2caa-4a27-aaee-af089ea4aecc" />
 
