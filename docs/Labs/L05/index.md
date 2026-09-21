@@ -64,5 +64,20 @@ After printing, though, I realized I made quite a few careless mistakes, and I l
 
 After doing the calculations for the dimensions I chose, I ran into the issue that my design does not meet the required safety factor. The maximum allowable bending stress is 1873psi, and I calculated my design to have a bending stress of 2850psi. To fix this, I have two options: I could one change my value of P, but in return that would cause me to have a smaller length, and as I previously ran into before, my design is already small, so I don't want to go smaller. My other option is to change the base dimensions I set and recalculate for a new L-value and bending stress. This is the option im going to go with becuase i want my design to be bigger.
 
+### New Calculations
+
 ## CAD Model Final
 
+<img width="308" height="227" alt="image" src="https://github.com/user-attachments/assets/4678b434-5149-4c21-bc0c-ffd98eff5569" />
+
+<img width="305" height="249" alt="image" src="https://github.com/user-attachments/assets/3adbe699-23d0-40ad-be46-aa256d4ac308" />
+
+For my new attempt I started with the same base of 2in by 2in and extruded it to a thickness of .5in. I then went in and added the same midplane and started a sketch on that plane. 
+
+<img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/291e4ef2-848f-47e0-a8d3-323a8ab0ae6d" />
+
+<img width="817" height="275" alt="image" src="https://github.com/user-attachments/assets/3b4c0208-384f-466b-b54e-41643518e173" />
+
+<img width="859" height="323" alt="image" src="https://github.com/user-attachments/assets/cc278933-e814-454b-9914-787163cec8e5" />
+
+Next I sketch the new dimensions I calculated for and tested. I did the same shape and style just different lengths and widths. I then extruded it to the new thickness of .15in and mirrored it about the centerplane to make it a total of .30in.
