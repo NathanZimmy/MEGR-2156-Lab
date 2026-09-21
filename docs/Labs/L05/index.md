@@ -53,6 +53,7 @@ I wanted to print the prototype to see initially how it would turn out. I did th
 
 <img width="947" height="443" alt="image" src="https://github.com/user-attachments/assets/c85f0652-da99-4d85-9cd3-5b9b75519d2c" />
 
+After printing, though, I realized I made quite a few careless mistakes, and I learned that my dimensions were not going to work. To start, the base did not have to be this big, for it doesn't serve much purpose besides holding the flexure in place. So I can shrink it down next time and save a lot of printing time. Secondly, I realized that when I scaled down my print, I only scaled one of the pieces, so they came out different sizes from each other. So next time I need to make sure I'm looking at everything carefully. I also learned that I can't scale down my print because this makes the flexure smaller, and the dimensions I made are already reasonably small. So when I printed the prototype, the print failed and did not come out clean, with the supports breaking off. 
 ## Calculating the Length of the Flexure
 
 ## Communicate
