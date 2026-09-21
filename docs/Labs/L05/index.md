@@ -80,4 +80,6 @@ For my new attempt I started with the same base of 2in by 2in and extruded it to
 
 <img width="859" height="323" alt="image" src="https://github.com/user-attachments/assets/cc278933-e814-454b-9914-787163cec8e5" />
 
+<img width="445" height="308" alt="image" src="https://github.com/user-attachments/assets/d368f0dc-5ad0-4796-82ef-7f68b003dca1" />
+
 Next I sketch the new dimensions I calculated for and tested. I did the same shape and style just different lengths and widths. I then extruded it to the new thickness of .15in and mirrored it about the centerplane to make it a total of .30in.
