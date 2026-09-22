@@ -97,3 +97,8 @@ For part 2, I started with a sketch on the top plane and made a 1x1in base and e
 <img width="536" height="290" alt="image" src="https://github.com/user-attachments/assets/e4f434b7-9e27-4969-b108-13b5f853a2b3" />
 
 I then drew two center lines on the top of the shape to find the center so I could put my hole extrude in the proper place. I sketched a rectangle to match the width and thickness of the hook end of part 1. I then realized if I made the hole the exact same measurements as the flexure, it would just slide smoothly in and out. So I made a slight tolerance change and shrunk one of the dimensions just a little so it would snap into place. 
+
+## Final Print
+<img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/a4511e78-3715-4ce5-934e-e77d2098d30e" />
+
+For the print, I had to change a few things to make it go faster. I went with a 10% infill with a lightning pattern. I didn't scale down for fear the supports would not work, or it would come out too small like the first time. I used printer 10 with PLA.
