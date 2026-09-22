@@ -67,12 +67,12 @@ After doing the calculations for the dimensions I chose, I ran into the issue th
 ### New Calculations
 
 ## CAD Model Final
-
+### Part 1
 <img width="308" height="227" alt="image" src="https://github.com/user-attachments/assets/4678b434-5149-4c21-bc0c-ffd98eff5569" />
 
 <img width="305" height="249" alt="image" src="https://github.com/user-attachments/assets/3adbe699-23d0-40ad-be46-aa256d4ac308" />
 
-For my new attempt I started with the same base of 2in by 2in and extruded it to a thickness of .5in. I then went in and added the same midplane and started a sketch on that plane. 
+For my new attempt, I started with the same base of 2in by 2in and extruded it to a thickness of .5in. I then went in and added the same midplane and started a sketch on that plane. 
 
 <img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/291e4ef2-848f-47e0-a8d3-323a8ab0ae6d" />
 
@@ -82,4 +82,18 @@ For my new attempt I started with the same base of 2in by 2in and extruded it to
 
 <img width="445" height="308" alt="image" src="https://github.com/user-attachments/assets/d368f0dc-5ad0-4796-82ef-7f68b003dca1" />
 
-Next I sketch the new dimensions I calculated for and tested. I did the same shape and style just different lengths and widths. I then extruded it to the new thickness of .15in and mirrored it about the centerplane to make it a total of .30in.
+Next, I sketched the new dimensions I calculated and tested. I did the same shape and style, just different lengths and widths. I then extruded it to the new thickness of .15in and mirrored it about the center plane to make it a total of .30in.
+
+### Part 2
+
+<img width="243" height="242" alt="image" src="https://github.com/user-attachments/assets/54aa34b4-9821-4de4-961d-06973de66d24" />
+
+For part 2, I started with a sketch on the top plane and made a 1x1in base and extruded it to the same height as my flexure without the hook end. This is so the hook can stick out of the top and snap into place. 
+
+<img width="405" height="322" alt="image" src="https://github.com/user-attachments/assets/cebba30a-d1c4-4d64-8801-a881cf82c3d2" />
+
+<img width="484" height="346" alt="image" src="https://github.com/user-attachments/assets/d5907590-3394-4fed-97ee-d207307bd62c" />
+
+<img width="536" height="290" alt="image" src="https://github.com/user-attachments/assets/e4f434b7-9e27-4969-b108-13b5f853a2b3" />
+
+I then drew two center lines on the top of the shape to find the center so I could put my hole extrude in the proper place. I sketched a rectangle to match the width and thickness of the hook end of part 1. I then realized if I made the hole the exact same measurements as the flexure, it would just slide smoothly in and out. So I made a slight tolerance change and shrunk one of the dimensions just a little so it would snap into place. 
