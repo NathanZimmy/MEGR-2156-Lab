@@ -103,6 +103,10 @@ I then drew two center lines on the top of the shape to find the center so I cou
 ## Final Print
 <img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/a4511e78-3715-4ce5-934e-e77d2098d30e" />
 
+https://github.com/user-attachments/assets/cfe584cf-2b4a-43e7-86e3-98855eb8680a
+
+https://github.com/user-attachments/assets/3dce65c6-ec20-4d55-9d03-a36e79edfc9f
+
 <img width="4284" height="5712" alt="IMG_1495" src="https://github.com/user-attachments/assets/3e53f615-0eee-4372-b6b8-a5fcbfb6fe97" />
 
 <img width="4284" height="5712" alt="IMG_1496" src="https://github.com/user-attachments/assets/853937d2-93d1-41a6-8b84-1d5a32a07e2c" />
