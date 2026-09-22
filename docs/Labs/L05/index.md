@@ -103,6 +103,7 @@ I then drew two center lines on the top of the shape to find the center so I cou
 ## Final Print
 <img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/a4511e78-3715-4ce5-934e-e77d2098d30e" />
 
+
 For the print, I had to change a few things to make it go faster. I went with a 10% infill with a lightning pattern. I didn't scale down for fear the supports would not work, or it would come out too small like the first time. I used printer 10 with PLA.
 
 ## Outcome and Lessons Learned
