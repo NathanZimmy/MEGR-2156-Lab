@@ -62,9 +62,11 @@ After printing, though, I realized I made quite a few careless mistakes, and I l
 ## Calculating the Length of the Flexure
 <img width="4238" height="5214" alt="IMG_1472" src="https://github.com/user-attachments/assets/eb8c1741-28a8-4a0b-836b-4a5a6c081bcf" />
 
-After doing the calculations for the dimensions I chose, I ran into the issue that my design does not meet the required safety factor. The maximum allowable bending stress is 1873psi, and I calculated my design to have a bending stress of 2850psi. To fix this, I have two options: I could one change my value of P, but in return that would cause me to have a smaller length, and as I previously ran into before, my design is already small, so I don't want to go smaller. My other option is to change the base dimensions I set and recalculate for a new L-value and bending stress. This is the option im going to go with becuase i want my design to be bigger.
+After doing the calculations for the dimensions I chose, I ran into the issue that my design does not meet the required safety factor. The maximum allowable bending stress is 1873psi, and I calculated my design to have a bending stress of 2850psi. To fix this, I have two options: I could one change my value of P, but in return that would cause me to have a smaller length, and as I previously ran into before, my design is already small, so I don't want to go smaller. My other option is to change the base dimensions I set and recalculate for a new L-value and bending stress. This is the option I'm going to go with because I want my design to be bigger.
 
 ### New Calculations
+
+<img width="4284" height="5712" alt="image" src="https://github.com/user-attachments/assets/6712cbfb-9d3a-4dfd-bf70-067a340add35" />
 
 ## CAD Model Final
 ### Part 1
@@ -96,7 +98,7 @@ For part 2, I started with a sketch on the top plane and made a 1x1in base and e
 
 <img width="536" height="290" alt="image" src="https://github.com/user-attachments/assets/e4f434b7-9e27-4969-b108-13b5f853a2b3" />
 
-I then drew two center lines on the top of the shape to find the center so I could put my hole extrude in the proper place. I sketched a rectangle to match the width and thickness of the hook end of part 1. I then realized if I made the hole the exact same measurements as the flexure, it would just slide smoothly in and out. So I made a slight tolerance change and shrunk one of the dimensions just a little so it would snap into place. 
+I then drew two center lines on the top of the shape to find the center so I could put my hole extrude in the proper place. I sketched a rectangle to match the width and thickness of the hook end of part 1. I then realized if I made the hole the same measurements as the flexure, it would just slide smoothly in and out. So I made a slight tolerance change and shrunk one of the dimensions just a little so it would snap into place. 
 
 ## Final Print
 <img width="959" height="495" alt="image" src="https://github.com/user-attachments/assets/a4511e78-3715-4ce5-934e-e77d2098d30e" />
