@@ -26,8 +26,6 @@ To start his project, I drew out my idea on paper and kept adding and changing t
 ## Prototype 1
 Learning from my previous mistakes I wanted to start with a simple prototype of just the snap fit feature before adding the rest of the mount to the model. I did this so I could make sure the values I measured with the vernier caliper were correct and the motor will fit into the space properly. I also wanted to test that the snap fit would break by undergoing too much deflection. 
 
-### SolidWorks Prototype
-
 <img width="397" height="335" alt="image" src="https://github.com/user-attachments/assets/5add42fc-21e2-4fc0-a9f9-a999b4afe070" />
 
 <img width="824" height="372" alt="image" src="https://github.com/user-attachments/assets/6ef06a99-d2fe-4066-b83d-266310d00e29" />
@@ -76,3 +74,22 @@ For this print I oriented it differently to have the biggest surface on bottom b
 <img width="804" height="364" alt="image" src="https://github.com/user-attachments/assets/d5c4078f-76e2-402e-ae47-24f6ac496a1f" />
 
 For my third prototype I'm continuing my previous prototype and adding on to the design I already had. I started a sketch on the bottom surface and created two centerline one horizontal and one vertical so I could find the middle of the shape easier. I then drew two circles of equal diameter of .1in on the horizontal centerline. I set both of those circles an equal distance of .2in from the vertical centerline. I then extruded these circles to a length of .2in. These prongs will be what connects the snap fit piece to the actual motor mount itself allowing me to attach the motor to a surface. 
+
+Next I started a new part. This part will be the part of the motor mount that allows the motor to be screwed in, bolted, or attached to a surface in however way needed. The motor itself doesn't have screw holes, so I have to mount the motor by creating a plate allowing me to do so. 
+
+<img width="747" height="332" alt="image" src="https://github.com/user-attachments/assets/71c46a42-2874-4adb-950b-bcb42e75461d" />
+
+I created a sketch on the top plane and made a 1in by 1in plate and extruded it to a thickness of .2in. This is the same thickness as the prongs I made on the bottom of the snap flexure. 
+
+<img width="423" height="356" alt="image" src="https://github.com/user-attachments/assets/a76cd66e-08e7-4a44-9c87-b300984ae801" />
+
+<img width="725" height="361" alt="image" src="https://github.com/user-attachments/assets/55c0b101-7649-462a-9bf7-34f522daa2fe" />
+
+Next I made another sketch on the top surface of the extrusion. I drew two centerlines one vertical and one horizontal. I then drew two circles on the horizontal vertical line and set them both to .2 in from the center with a diameter of .1in. This is the same dimensions as the prongs on the flexure. I then did an extrude cut and set it to through all so the prongs will be flush with the bottom of the surface. 
+
+<img width="394" height="358" alt="image" src="https://github.com/user-attachments/assets/1fb932f1-1112-4c95-96f1-6ad04d0094ea" />
+
+<img width="647" height="371" alt="image" src="https://github.com/user-attachments/assets/4f151b31-fec6-4e4e-9a9e-9df9873f5ae4" />
+
+I then did another sketch on the same surface. This sketch will be the screw holes for the mount to be attached to a surface. I drew four holes in each corner of the plate and set them all to equal distances from the edges. I then extrude cut these and set to through all. 
+
