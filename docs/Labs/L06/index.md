@@ -23,7 +23,7 @@ For my artifact, I chose to use a 3-6V motor from an Arduino kit. I am going to 
 <img width="156" height="96" alt="image" src="https://github.com/user-attachments/assets/c2e76667-e158-4f45-9e8b-76580cc278f2" />
 
 To start his project, I drew out my idea on paper and kept adding and changing things around until i got to a point i was satified with and though would work for a starting prototype. 
-## First Prototype
+## Prototype 1
 Learning from my previous mistakes I wanted to start with a simple prototype of just the snap fit feature before adding the rest of the mount to the model. I did this so I could make sure the values I measured with the vernier caliper were correct and the motor will fit into the space properly. I also wanted to test that the snap fit would break by undergoing too much deflection. 
 
 ### SolidWorks Prototype
@@ -35,6 +35,8 @@ Learning from my previous mistakes I wanted to start with a simple prototype of 
 I started with a sketch on the top plane where I drew this shape shown using an assortment of arcs, centerlines, dimensions, and relations such as coincident. I then extruded that shape a thickness of .880in. which was the heigh of the flat part of the motor I measured using the caliper.
 
 <img width="952" height="446" alt="image" src="https://github.com/user-attachments/assets/1754351d-8ebe-483a-b494-6624d7a36754" />
+
+### First Print
 
 Next I imported my CAD file into Prusa slicer to get ready for printing. I used PetG and did not change the infill pattern or percentage nor did I scale it at all because I want all the dimensions to same how I created them since the were all measured to an exact value.
 
@@ -62,3 +64,15 @@ My first change was to make the thickness .778in. I got this from measuring the 
 <img width="599" height="371" alt="image" src="https://github.com/user-attachments/assets/fdb71f13-7a52-45d2-91bb-4d2de5cbf67d" />
 
 I then added a sketch plane in line with the top hook of the mount. I did this because the length back hook holding in the motor from sliding in an out of the mount will be equal to the distance between the hooks up top. I then sketch my desired shape and extruded it to a distant of .207in which is the distance between the hooks. I then did another sketch extrusion on the other side but I made it flush with the snap fit part because there is no part of the motor that stick out of the front. 
+
+### Print 2
+
+<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/aaf08ca4-7f1c-44e2-a2a4-6910605cbc45" />
+
+For this print I oriented it differently to have the biggest surface on bottom because now that I have the tabs on the side to hold the motor in place I can't print it laying on its side. I did also have to use supports here so I set Prusa slicer to autofill the supports and I increased the infill to 20% so it would be a little stronger just to be safe.
+
+## Prototype 3
+
+<img width="804" height="364" alt="image" src="https://github.com/user-attachments/assets/d5c4078f-76e2-402e-ae47-24f6ac496a1f" />
+
+For my third prototype I'm continuing my previous prototype and adding on to the design I already had. I started a sketch on the bottom surface and created two centerline one horizontal and one vertical so I could find the middle of the shape easier. I then drew two circles of equal diameter of .1in on the horizontal centerline. I set both of those circles an equal distance of .2in from the vertical centerline. I then extruded these circles to a length of .2in. These prongs will be what connects the snap fit piece to the actual motor mount itself allowing me to attach the motor to a surface. 
