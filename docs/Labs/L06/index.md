@@ -69,6 +69,8 @@ I then added a sketch plane in line with the top hook of the mount. I did this b
 
 For this print I oriented it differently to have the biggest surface on bottom because now that I have the tabs on the side to hold the motor in place I can't print it laying on its side. I did also have to use supports here so I set Prusa slicer to autofill the supports and I increased the infill to 20% so it would be a little stronger just to be safe.
 
+<img width="800" height="1422" alt="IMG_1552-ezgif com-optimize" src="https://github.com/user-attachments/assets/515b68c8-6ffd-4796-b7a3-29959c9a69c8" />
+
 ## Prototype 3
 
 <img width="804" height="364" alt="image" src="https://github.com/user-attachments/assets/d5c4078f-76e2-402e-ae47-24f6ac496a1f" />
