@@ -16,6 +16,11 @@ For my artifact, I chose to use a 3-6V motor from an Arduino kit. I am going to 
 
 ## Brainstorming
 
+<img width="218" height="287" alt="image" src="https://github.com/user-attachments/assets/35672cd7-86fb-4bbe-bbd6-7ddd1fad9c4c" />
+
+<img width="156" height="96" alt="image" src="https://github.com/user-attachments/assets/c2e76667-e158-4f45-9e8b-76580cc278f2" />
+
+To start his project, I drew out my idea on paper and kept adding and changing things around until i got to a point i was satified with and though would work for a starting prototype. 
 ## Solidworks Model
 
 
