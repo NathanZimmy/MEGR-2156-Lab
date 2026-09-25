@@ -71,6 +71,14 @@ For this print I oriented it differently to have the biggest surface on bottom b
 
 <img width="800" height="1422" alt="IMG_1552-ezgif com-optimize" src="https://github.com/user-attachments/assets/515b68c8-6ffd-4796-b7a3-29959c9a69c8" />
 
+<img width="800" height="800" alt="ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/a98adb56-3763-42a2-ad5e-e962090ca906" />
+
+<img width="229" height="299" alt="image" src="https://github.com/user-attachments/assets/44552654-a878-4f36-a62e-08068a772687" />
+
+<img width="223" height="296" alt="image" src="https://github.com/user-attachments/assets/30ced489-330d-48e0-b70b-aba5ccf6cdce" />
+
+<img width="800" height="800" alt="ezgif com-optimize (2)" src="https://github.com/user-attachments/assets/ff96b750-1e96-4e1d-8538-c0535aed649e" />
+
 ## Prototype 3
 
 <img width="804" height="364" alt="image" src="https://github.com/user-attachments/assets/d5c4078f-76e2-402e-ae47-24f6ac496a1f" />
