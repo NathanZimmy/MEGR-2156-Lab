@@ -109,6 +109,10 @@ I then did another sketch on the same surface. This sketch will be the screw hol
 
 For the third print, I placed both pieces on the plater and set the infill percentage to 20%. I also selected auto-generated supports. I used printer 12 for this print using black PETG.
 
+<img width="417" height="482" alt="image" src="https://github.com/user-attachments/assets/ff8bf9fd-0ce2-4040-9ede-f3fc8977c89c" />
+
+<img width="800" height="1422" alt="ezgif com-optimize (3)" src="https://github.com/user-attachments/assets/23dd5351-5529-4c89-91e5-d52af23eea1b" />
+
 After being printed, I went to test the design and found two major flaws. One was that the two pieces did not fit together. I think this was because of the supports I used, which added a little bit of material at the footings of the cylinder extrusions. This caused them not to fit in the holes I made, as I made them with zero tolerance. Secondly, when I went to test the design, it broke on the first use when I tried to snap the motor in place. This was due to the print orientation. 
 
 To fix both of these problems, I am, one, going to scrap the two-piece idea and make it all one print, and two, change the orientation at which I printed the design.
@@ -137,5 +141,10 @@ Lastly, I used the extrude cut feature and set the holes to "up to next" so it w
 
 ### Final print
 
+<img width="492" height="376" alt="image" src="https://github.com/user-attachments/assets/261422fd-11b0-4a01-ae61-15d518f73f73" />
+
+<img width="1913" height="875" alt="image" src="https://github.com/user-attachments/assets/f7719cb9-1d2f-41c2-8666-b667703cc4f9" />
+
+During my third prototype, the mounting piece broke, and I thought this was due to the orientation at which I had my design printed. My first print did not break, and I had it oriented so that each layer printed along the height of the mount or went with the direction of deflection. But my third, I printed os that each layer went along the direction of width, opposite of how it deflects. So it broke because when I tried putting the motor in the mount, the bonds holding each layer together were not strong enough to support the force causing deflection. To fix this, I went with the original orientation of setting the design upright. The only downside to this is that I had to have more supports for it to print. 
 
 
