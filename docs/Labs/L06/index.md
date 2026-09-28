@@ -67,7 +67,7 @@ I then added a sketch plane in line with the top hook of the mount. I did this b
 
 <img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/aaf08ca4-7f1c-44e2-a2a4-6910605cbc45" />
 
-For this print, I oriented it differently to have the biggest surface on the bottom because now that I have the tabs on the side to hold the motor in place, I can't print it laying on its side. I also have to use supports here, so I set PrusaSlicer to autofill the supports, and I increased the infill to 20% so it would be a little stronger, just to be safe.
+For this print, I oriented it differently to have the biggest surface on the bottom because now that I have the tabs on the side to hold the motor in place, I can't print it lying on its side. I also have to use supports here, so I set PrusaSlicer to autofill the supports, and I increased the infill to 20% so it would be a little stronger, just to be safe.
 
 <img width="800" height="1422" alt="IMG_1552-ezgif com-optimize" src="https://github.com/user-attachments/assets/515b68c8-6ffd-4796-b7a3-29959c9a69c8" />
 
@@ -107,6 +107,18 @@ I then did another sketch on the same surface. This sketch will be the screw hol
 
 <img width="953" height="485" alt="image" src="https://github.com/user-attachments/assets/5531b91e-be87-4519-8fef-9b2b0df4e16d" />
 
-For the third print, I placed both pieces on the plater and set the infill percentage to 20%. I also selected auto-generated supports. 
+For the third print, I placed both pieces on the plater and set the infill percentage to 20%. I also selected auto-generated supports. I used printer 12 for this print using black PETG.
 
 After being printed, I went to test the design and found two major flaws. One was that the two pieces did not fit together. I think this was because of the supports I used, which added a little bit of material at the footings of the cylinder extrusions. This caused them not to fit in the holes I made, as I made them with zero tolerance. Secondly, when I went to test the design, it broke on the first use when I tried to snap the motor in place. This was due to the print orientation. 
+
+To fix both of these problems, I am one, going to scrap the two-piece idea and make it all one print, and two, change the orientation at which I printed the design.
+
+## Final Print
+
+<img width="526" height="715" alt="image" src="https://github.com/user-attachments/assets/0826478c-b906-4f87-ac1c-96dea5cd5019" />
+
+<img width="1318" height="773" alt="image" src="https://github.com/user-attachments/assets/98194303-fbb1-41b4-aea8-2ee82e95c273" />
+
+I started by deleting the extrusions I made before that would fit into the base plate. I then started another sketch on that same surface and drew a 1.5 by 1.5 plate and extruded it to a thickness of .10 inch. I used these dimensions because i wanted to have enough space around the motor to have screw holes but I don't need a largly thick base plate it just needs to be big enough to hold the small motor. Keeping it thinner will also help with print time. 
+
+Next, I started a sketch on that base plate and made a circle that has a .2in diameter and is .15in away from each edge. These dimensions were made purely by eye so that it was not too big or too small for the plate and did not interfere with the mounting piece. After making that one circle, I used a linear pattern and set it to use 2 instances in both the x and y directions at a distance of 1.2 in from the original. This length was chosen so the would all be the same length from the edges and i checked this by using a smart dimension. 
