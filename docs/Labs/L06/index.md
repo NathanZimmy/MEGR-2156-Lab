@@ -145,7 +145,19 @@ Lastly, I used the extrude cut feature and set the holes to "up to next" so it w
 
 <img width="1913" height="875" alt="image" src="https://github.com/user-attachments/assets/f7719cb9-1d2f-41c2-8666-b667703cc4f9" />
 
-During my third prototype, the mounting piece broke, and I thought this was due to the orientation at which I had my design printed. My first print did not break, and I had it oriented so that each layer printed along the height of the mount or went with the direction of deflection. But my third, I printed os that each layer went along the direction of width, opposite of how it deflects. So it broke because when I tried putting the motor in the mount, the bonds holding each layer together were not strong enough to support the force causing deflection. To fix this, I went with the original orientation of setting the design upright. The only downside to this is that I had to have more supports for it to print. I did not change the infill or pattern for this print; I left what I had used for the other prototypes. 
+During my third prototype, the mounting piece broke, and I thought this was due to the orientation at which I had my design printed. My first print did not break, and I had it oriented so that each layer printed along the height of the mount or went with the direction of deflection. But my third, I printed os that each layer went along the direction of width, opposite of how it deflects. So it broke because when I tried putting the motor in the mount, the bonds holding each layer together were not strong enough to support the force causing deflection. To fix this, I went with the original orientation of setting the design upright. The only downside to this is that I had to have more supports for it to print. I did not change the infill or pattern for this print; I left what I had used for the other prototypes.
+
+<img width="800" height="1422" alt="ezgif com-optimize (5)" src="https://github.com/user-attachments/assets/5cda4d45-4441-4216-b0a8-4822a1306c1a" />
+
+<img width="800" height="1422" alt="ezgif com-optimize (4)" src="https://github.com/user-attachments/assets/7f59da1e-86d7-448b-8113-b5295b53e573" />
+
+<img width="520" height="417" alt="image" src="https://github.com/user-attachments/assets/9b0cb652-5785-430e-ab29-f6720f5dedc1" />
+
+<img width="488" height="469" alt="image" src="https://github.com/user-attachments/assets/ffc82a75-534e-4050-800a-57c1bfade1fd" />
+
+<img width="491" height="487" alt="image" src="https://github.com/user-attachments/assets/b51f375a-26c1-4108-bbde-be9f025a00bb" />
+
+Here is the final print with the motor sitting inside. I had to remove the supports before being able to test it, and to do that I used a pair of pliers to grab and pull them off. I had to crush the supports a little to weaken them so they would pull off easier. To remove the supports inside the screw holes, I used the pliers to grab and twist them out. 
 
 ## Lessons learned
 One of the biggest lessons I learned here was print orientation. While doing this project, I had one of my prototypes break due to the way I had my print oriented before printing. I had it where the force of deflection ran against or perpendicular to the grain at which the material was printed. After doing some research, I learned that the bonds between the layers are always weaker than the continuous layer material itself. I also learned that it is better to align the force with the direction at which each layer is printed. For my design, the force acts along the height of the flexure, so I oriented my final print to have each layer printed along the height. 
