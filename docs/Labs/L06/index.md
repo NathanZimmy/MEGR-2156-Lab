@@ -111,14 +111,31 @@ For the third print, I placed both pieces on the plater and set the infill perce
 
 After being printed, I went to test the design and found two major flaws. One was that the two pieces did not fit together. I think this was because of the supports I used, which added a little bit of material at the footings of the cylinder extrusions. This caused them not to fit in the holes I made, as I made them with zero tolerance. Secondly, when I went to test the design, it broke on the first use when I tried to snap the motor in place. This was due to the print orientation. 
 
-To fix both of these problems, I am one, going to scrap the two-piece idea and make it all one print, and two, change the orientation at which I printed the design.
+To fix both of these problems, I am, one, going to scrap the two-piece idea and make it all one print, and two, change the orientation at which I printed the design.
 
-## Final Print
+## Final Part
 
 <img width="526" height="715" alt="image" src="https://github.com/user-attachments/assets/0826478c-b906-4f87-ac1c-96dea5cd5019" />
 
 <img width="1318" height="773" alt="image" src="https://github.com/user-attachments/assets/98194303-fbb1-41b4-aea8-2ee82e95c273" />
 
-I started by deleting the extrusions I made before that would fit into the base plate. I then started another sketch on that same surface and drew a 1.5 by 1.5 plate and extruded it to a thickness of .10 inch. I used these dimensions because i wanted to have enough space around the motor to have screw holes but I don't need a largly thick base plate it just needs to be big enough to hold the small motor. Keeping it thinner will also help with print time. 
+I started by deleting the extrusions I made before that would fit into the base plate. I then started another sketch on that same surface and drew a 1.5 by 1.5 plate and extruded it to a thickness of .10 inch. I used these dimensions because I wanted to have enough space around the motor to have screw holes, but I don't need a large, thick base plate; it just needs to be big enough to hold the small motor. Keeping it thinner will also help with print time. 
 
-Next, I started a sketch on that base plate and made a circle that has a .2in diameter and is .15in away from each edge. These dimensions were made purely by eye so that it was not too big or too small for the plate and did not interfere with the mounting piece. After making that one circle, I used a linear pattern and set it to use 2 instances in both the x and y directions at a distance of 1.2 in from the original. This length was chosen so the would all be the same length from the edges and i checked this by using a smart dimension. 
+<img width="242" height="263" alt="image" src="https://github.com/user-attachments/assets/4a9ceab2-565b-44da-bf97-8bfce8e66973" />
+
+<img width="796" height="673" alt="image" src="https://github.com/user-attachments/assets/638a5e53-9fe0-467b-a7db-097c6491d3cd" />
+
+<img width="689" height="650" alt="image" src="https://github.com/user-attachments/assets/22f46322-676c-470f-ab72-d73ef30bd4f6" />
+
+Next, I started a sketch on that base plate and made a circle that has a .2in diameter and is .15in away from each edge. These dimensions were made purely by eye so that it was not too big or too small for the plate and did not interfere with the mounting piece. After making that one circle, I used a linear pattern and set it to use 2 instances in both the x and y directions at a distance of 1.2 in from the original. This length was chosen so they would all be the same distance from the edges, and I checked if this dimension was correct by using a smart dimension after confirming the pattern. 
+
+<img width="1373" height="714" alt="image" src="https://github.com/user-attachments/assets/8b5f1466-2193-4afc-82f2-bb4a3777e9f7" />
+
+<img width="698" height="491" alt="image" src="https://github.com/user-attachments/assets/a7b21dde-ddaf-4bc3-ba08-631f9e21ebd1" />
+
+Lastly, I used the extrude cut feature and set the holes to "up to next" so it would cut only through the thickness of the base plate. I originally did through all, but when doing that, it added the entire height of the mounting piece in twith the cut. While this wouldn't actually remove material anymore, it was unnecessary to have ot set to that setting, so I changed it to up to next. 
+
+### Final print
+
+
+
