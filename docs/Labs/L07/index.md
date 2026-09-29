@@ -10,7 +10,7 @@ For this week's assignment, we are to research, learn, understand, and design li
 
 - Find at least two linkages or mechanisms that were developed, patented, or published within the last 5 years (2021–present)
 
--For each one, explain how it works and include an image or sketch.
+- For each one, explain how it works and include an image or sketch.
 
 - For each one, describe how it could be used in at least two different industries.
 
