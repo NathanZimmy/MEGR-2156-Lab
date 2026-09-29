@@ -23,5 +23,11 @@ For this week's assignment, we are to research, learn, understand, and design li
 ## Decide
 
 
-## Communicate
+## Sources
+
+https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
+
+https://engineerfix.com/a-complete-guide-to-linkage-mechanisms/
+
+
 
