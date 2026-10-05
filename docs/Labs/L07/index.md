@@ -61,7 +61,15 @@ When I first searched linkages and saw different members being attached by pin c
 
 <img width="575" height="295" alt="image" src="https://github.com/user-attachments/assets/9399e645-9661-4a05-a0a2-573c6d2a36fd" />
 
-I started with a sketch on the top plane and created two lines 3in long and .5in wide, parallel to each other. I chose 3in long because I am making 4 members so it will be a total of 1 foot long. I then added a 3-point arc on both sides with a radius of .35in to enclose the shape. Next, I extruded the shape to a thickness of .1 in. I chose this so it would be thin enough for all the members to attach together and not be too thick, as well as to keep the print time down. Lastly, I did a fillet on the edges to make the members rounded. 
+I started with a sketch on the top plane and created two lines 3in long and .5in wide, parallel to each other. I chose 3in long because I am making 4 members, so it will be a total of 1 foot long. I then added a 3-point arc on both sides with a radius of .35in to enclose the shape. Next, I extruded the shape to a thickness of .1 in. I chose this so it would be thin enough for all the members to attach together and not be too thick, as well as to keep the print time down. Lastly, I did a fillet on the edges to make the members rounded. 
+
+<img width="634" height="203" alt="image" src="https://github.com/user-attachments/assets/45c2ebdb-8516-445c-86b9-6d5ccc86d31a" />
+
+<img width="677" height="264" alt="image" src="https://github.com/user-attachments/assets/66e2fa1f-ac88-4384-a500-0ec8fbad5b78" />
+
+The next step was to add a hole into each side of the link to allow them to attach to each other. I created two centerlines on the 3-point arch to find the center connection point of the arc to the body of the link. I then placed a circle on that center point and set the diameter to .25in which is half of the total width of the member. I then created another centerline in the middle of the member and mirrored the circle across that line. Lastly, I did an extrude cut and set it to through all. 
+
+Next was to make the pins to connect the members together. 
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
