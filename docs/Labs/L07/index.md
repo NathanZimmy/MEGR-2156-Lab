@@ -43,11 +43,14 @@ Inventor: Brian Todd Dellon
 
 <img width="279" height="233" alt="image" src="https://github.com/user-attachments/assets/15e7f5ae-cdb0-4a5a-a49a-2bf4017d15a2" />
 
-Here is a "gripper mechanism", this mechanism has a pair of jaws, a linear actuator, and a pivoting rocker bogey. The actuator uses a lead screw and drive nut. When the motor turns the lead screw, the nut travels along the screw. That linear motion is transferred through the rocker/cam arrangement, which causes one gripper jaw to move relative to the other. The second jaw can remain fixed while the first jaw closes around the object.
+Here is a "gripper mechanism." This mechanism has a pair of jaws, a linear actuator, and a pivoting rocker bogey. The actuator uses a lead screw and drive nut. When the motor turns the lead screw, the nut travels along the screw. That linear motion is transferred through the rocker/cam arrangement, which causes one gripper jaw to move relative to the other. The second jaw can remain fixed while the first jaw closes around the object.
 
-This design can be used in amn industries around robotics and artifical intelgence. Have and gripper hadn for the robot to grab and hold things and perfeorm specific tasks. It can also be implemented into the biomedical and protetic industry with adding a way to connect the gripper to the nervouse system or being able to control it with a device to allow for grabing items like a regular hand. 
+This design can be used in many industries in robotics and artificial intelligence. It has a gripper hand for the robot to grab and hold things and perform specific tasks. It can also be implemented in the biomedical and prosthetic industry by adding a way to connect the gripper to the nervous system or being able to control it with a device to allow for grabbing items like a regular hand. 
 
-## Decide
+-source 4
+
+## Linkage Solidworks Model 
+
 
 
 ## Sources
