@@ -33,15 +33,29 @@ This design is a bicycle suspension linkage. Its purpose is to soften the blow o
 
 This design could be used in almost any two-wheeled transportation or recreational industry, including bicycles, motorcycles, and e-bikes. It could also be resized and adjusted slightly to be used on medical service equipment such as wheelchairs and stretchers to help them roll along uneven surfaces and support patients. 
 
+-Source 3
+
+### Patent 2
+<ins> Gripper mechanism </ins> 
+Inventor: Brian Todd Dellon
+
+<img width="338" height="108" alt="image" src="https://github.com/user-attachments/assets/c429a330-7329-4c6b-88a2-80b1e9d11a8d" />
+
+<img width="279" height="233" alt="image" src="https://github.com/user-attachments/assets/15e7f5ae-cdb0-4a5a-a49a-2bf4017d15a2" />
+
+Here is a "gripper mechanism", this mechanism has a pair of jaws, a linear actuator, and a pivoting rocker bogey. The actuator uses a lead screw and drive nut. When the motor turns the lead screw, the nut travels along the screw. That linear motion is transferred through the rocker/cam arrangement, which causes one gripper jaw to move relative to the other. The second jaw can remain fixed while the first jaw closes around the object.
+
+This design can be used in amn industries around robotics and artifical intelgence. Have and gripper hadn for the robot to grab and hold things and perfeorm specific tasks. It can also be implemented into the biomedical and protetic industry with adding a way to connect the gripper to the nervouse system or being able to control it with a device to allow for grabing items like a regular hand. 
 
 ## Decide
 
 
 ## Sources
 
-https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
+1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
 
-https://engineerfix.com/a-complete-guide-to-linkage-mechanisms/
+2) https://engineerfix.com/a-complete-guide-to-linkage-mechanisms/
 
-https://patents.google.com/patent/US20250065979A1/en?q=(linkage+body+part)&before=priority:20231231&after=priority:20230101&oq=2023+linkage+body+part
+3) https://patents.google.com/patent/US20250065979A1/en?q=(linkage+body+part)&before=priority:20231231&after=priority:20230101&oq=2023+linkage+body+part
 
+4) https://patents.google.com/patent/US12103164B2/en?q=(linkage+mechanism+arms)&before=priority:20231231&after=priority:20230101&oq=2023+linkage+mechanism+arms
