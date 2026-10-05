@@ -20,7 +20,7 @@ For this week's assignment, we are to research, learn, understand, and design li
 - Cite at least three credible sources, such as journal articles, patents, conference papers, or reputable industry publications.
 
 ### Patent 1
-(ins)here(ins)
+
 
 ## Decide
 
