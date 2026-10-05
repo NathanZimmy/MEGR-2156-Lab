@@ -69,7 +69,13 @@ I started with a sketch on the top plane and created two lines 3in long and .5in
 
 The next step was to add a hole into each side of the link to allow them to attach to each other. I created two centerlines on the 3-point arch to find the center connection point of the arc to the body of the link. I then placed a circle on that center point and set the diameter to .25in which is half of the total width of the member. I then created another centerline in the middle of the member and mirrored the circle across that line. Lastly, I did an extrude cut and set it to through all. 
 
-Next was to make the pins to connect the members together. 
+<img width="275" height="225" alt="image" src="https://github.com/user-attachments/assets/4328e341-cb7e-43bf-85db-84a027cdf255" />
+
+<img width="513" height="275" alt="image" src="https://github.com/user-attachments/assets/9e3cb764-a3ed-46c0-b465-db263804e62d" />
+
+Next was to make the pins to connect the members together. I started by drawing a circle with a diameter of .23 in on the top plane. I did .23 so it will be smaller than the hole diameter, but knowing how 3d printing works, I'm hoping that friction and the slight change in dimensions will be enough to allow it to slide into the hole and slide into place. I then extruded it to a thickness of .25 in, which is double the thickness of the members because it needs to hold two together plus a little more for retaining room. 
+
+
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
