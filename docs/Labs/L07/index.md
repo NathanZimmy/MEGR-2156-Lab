@@ -49,10 +49,19 @@ This design can be used in many industries in robotics and artificial intelligen
 
 -source 4
 
+## Brainstorming
+
+<img width="224" height="193" alt="image" src="https://github.com/user-attachments/assets/6fd9e449-b7f4-461a-a66f-6d383846a8a6" />
+
+When I first searched linkages and saw different members being attached by pin connections, I instantly had an idea of a tool I had seen before. An expanding ruler uses the same type of system by allowing multiple members to rotate freely relative to each other to create a longer measuring device while staying together as a whole tool. So my idea is to make four alike members, each with pin holes on each side, allowing me to connect them. I will separately design pins to fit in the holes, attaching the members together. I chose four because it allows me to either leave the design as one long, free-moving line, combine it end to end and create a square or diamond shape, or take a member out and create a triangle.
+
 ## Linkage Solidworks Model 
 
+<img width="539" height="325" alt="image" src="https://github.com/user-attachments/assets/b701c775-5308-496b-ae24-f46224ce1bba" />
 
+<img width="575" height="295" alt="image" src="https://github.com/user-attachments/assets/9399e645-9661-4a05-a0a2-573c6d2a36fd" />
 
+I started with a sketch on the top plane and created two lines 3in long and .5in wide, parallel to each other. I chose 3in long because I am making 4 members so it will be a total of 1 foot long. I then added a 3-point arc on both sides with a radius of .35in to enclose the shape. Next, I extruded the shape to a thickness of .1 in. I chose this so it would be thin enough for all the members to attach together and not be too thick, as well as to keep the print time down. Lastly, I did a fillet on the edges to make the members rounded. 
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
