@@ -75,6 +75,11 @@ The next step was to add a hole into each side of the link to allow them to atta
 
 Next was to make the pins to connect the members together. I started by drawing a circle with a diameter of .23 in on the top plane. I did .23 so it will be smaller than the hole diameter, but knowing how 3d printing works, I'm hoping that friction and the slight change in dimensions will be enough to allow it to slide into the hole and slide into place. I then extruded it to a thickness of .25 in, which is double the thickness of the members because it needs to hold two together plus a little more for retaining room. Lastly, I did another sketch on the bottom of the first feature and drew another circle from the center of the first and made it have a diameter of .3in. I then extruded that to a thickness .05in. This feature allows me to push the pin into the hole and support it from one side. 
 
+<img width="673" height="284" alt="image" src="https://github.com/user-attachments/assets/53449fe4-ff58-4987-b4c0-36b0dfd566d4" />
+
+<img width="323" height="316" alt="image" src="https://github.com/user-attachments/assets/5f12fe5a-a5f7-479f-aa6b-336ee3974d1e" />
+
+This is the design made in an assembly to test the fits and how it will look all together. Here you can also see how it will rotate about the pin. 
 
 ## Sources
 
