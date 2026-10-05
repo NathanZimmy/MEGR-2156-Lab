@@ -21,6 +21,7 @@ For this week's assignment, we are to research, learn, understand, and design li
 
 ### Patent 1
 <ins>Reducer bodies, extender bodies, suspension linkages, and two-wheeled vehicles including the same</ins>
+Inventor: Peter Zawistowski
 
 <img width="332" height="232" alt="image" src="https://github.com/user-attachments/assets/700e2372-6fe7-4888-8f7b-2736691101c3" />
 
