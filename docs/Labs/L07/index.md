@@ -147,7 +147,7 @@ I placed the other 3 pins on the plater now that I know they work as well as the
 
 ## Lessons Learned
 
-### time taken
+### Time Taken
 This entire project took about 7 hours. This consisted of 4 hours of research and portfolio creation, 2 hours of design, and 1 hour of printing. This took a lot less time than I originally expected when I saw this assignment. When I first read the assignment and saw the mechanism, I had no idea what that meant, but after research, I did a relatively simple project, which allowed me to not take as long as I was expecting. 
 
 ### Biggest Mistake
