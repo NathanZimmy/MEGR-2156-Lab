@@ -137,10 +137,18 @@ I then did an outward shell with a thickness of .01in.
 
 I placed the other 3 pins on the plater now that I know they work as well as the 4-pin caps. I used all the same settings and material as before. 
 
+<img width="800" height="1422" alt="ezgif com-optimize (6)" src="https://github.com/user-attachments/assets/27b4f524-ed43-4db9-8de2-aee1f735583a" />
+
+<img width="254" height="325" alt="image" src="https://github.com/user-attachments/assets/94e5be2e-5c07-4fdd-9a09-9db22823f7aa" />
+
+<img width="256" height="329" alt="image" src="https://github.com/user-attachments/assets/bf7a0be2-30b1-4955-89de-82abb7f080ab" />
+
+<img width="800" height="1422" alt="ezgif com-optimize (7)" src="https://github.com/user-attachments/assets/dc6abc79-f630-454b-92c7-98457cfa4671" />
+
 ## Lessons Learned
 
 ### time taken
-This entire project took about 6 hours. This consisted of 4 hours of research and portfolio creation, 1 hour of design, and 1 hour of printing. This took a lot less time than I originally expected when I saw this assignment. When I first read the assignment and saw the mechanism, I had no idea what that meant, but after research, I did a relatively simple project, which allowed me to not take as long as I was expecting. 
+This entire project took about 7 hours. This consisted of 4 hours of research and portfolio creation, 2 hours of design, and 1 hour of printing. This took a lot less time than I originally expected when I saw this assignment. When I first read the assignment and saw the mechanism, I had no idea what that meant, but after research, I did a relatively simple project, which allowed me to not take as long as I was expecting. 
 
 ### Biggest Mistake
 The biggest mistake I made was underestimating how hard it would be to make the pins to connect the links. I saw many people using already-made hardware they bought, whereas I made my own. This was my first time designing something hardware-related to hold pieces together, so I didn't really know how it works or how dimensioning is supposed to be done, such as tolerancing it and making it fit properly. 
