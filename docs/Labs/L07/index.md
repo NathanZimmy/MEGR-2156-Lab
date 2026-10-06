@@ -113,6 +113,12 @@ After finding out the pin was too small, I went into my CAD files and changed th
 
 To slice this time, I went ahead and added the other 2 links because I liked the way the first two came out and I didn't adjust them at all. I also added the new pin design. I left the infill percentage and pattern all the same with generic PLA, and this time I am printing on PC-15.
 
+<img width="800" height="1422" alt="ezgif com-optimize (7)" src="https://github.com/user-attachments/assets/42688ba5-a1eb-4cf4-8ad4-a8da6b4d27a0" />
+
+<img width="260" height="160" alt="image" src="https://github.com/user-attachments/assets/cc01eca4-4096-4fbf-b227-2fcae8c59e23" />
+
+<img width="800" height="1422" alt="ezgif com-optimize (8)" src="https://github.com/user-attachments/assets/cd38e7ab-fdd0-4518-9d20-ed1de4b62b2a" />
+
 ## Print 3
 
 For this third print, I am going to print the last pins I need, as well as caps to support the links for the other side that is open to hold them together. 
@@ -127,6 +133,9 @@ I started with a circle with a diameter of .25in and extruded it to a thickness 
 
 I then did an outward shell with a thickness of .01in.
 
+<img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/01509d60-09cf-49ef-ab85-49ccf24bbc0f" />
+
+I placed the other 3 pins on the plater now that I know they work as well as the 4-pin caps. I used all the same settings and material as before. 
 
 ## Lessons Learned
 
