@@ -109,9 +109,17 @@ After the first print, I found the pin was too small/too loose. So I am going to
 
 After finding out the pin was too small, I went into my CAD files and changed the dimensions to make it slightly bigger. I made the pin diameter .25in which is the same as the hole, and the length of the pin .3in. to give it a little more working room.
 
+<img width="959" height="412" alt="image" src="https://github.com/user-attachments/assets/da6a05d7-dfba-4aa6-bcb2-20f63cd5801e" />
+
+To slice this time, I went ahead and added the other 2 links because I liked the way the first two came out and I didn't adjust them at all. I also added the new pin design. I left the infill percentage and pattern all the same with generic PLA, and this time I am printing on PC-15.
 ## Lessons Learned
 
+### time taken
 This entire project took about 6 hours. This consisted of 4 hours of research and portfolio creation, 1 hour of design, and 1 hour of printing. This took a lot less time than I originally expected when I saw this assignment. When I first read the assignment and saw the mechanism, I had no idea what that meant, but after research, I did a relatively simple project, which allowed me to not take as long as I was expecting. 
+
+### Biggest Mistake
+The biggest mistake I made was underestimating how hard it would be to make the pins to connect the links. I saw many people using already-made hardware they bought, whereas I made my own. This was my first time designing something hardware-related to hold pieces together, so I didn't really know how it works or how dimensioning is supposed to be done, such as tolerancing it and making it fit properly. 
+
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
