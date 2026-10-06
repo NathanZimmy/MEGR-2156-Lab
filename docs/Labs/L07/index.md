@@ -75,6 +75,8 @@ The next step was to add a hole into each side of the link to allow them to atta
 
 Next was to make the pins to connect the members together. I started by drawing a circle with a diameter of .23 in on the top plane. I did .23 so it will be smaller than the hole diameter, but knowing how 3d printing works, I'm hoping that friction and the slight change in dimensions will be enough to allow it to slide into the hole and slide into place. I then extruded it to a thickness of .25 in, which is double the thickness of the members because it needs to hold two together plus a little more for retaining room. Lastly, I did another sketch on the bottom of the first feature and drew another circle from the center of the first and made it have a diameter of .3in. I then extruded that to a thickness .05in. This feature allows me to push the pin into the hole and support it from one side. 
 
+I originally thought of making a male-female connection here for the pin by shelling out on one side and making another shape to insert into the shell. But after some debating, I didn't think this would be necessary and would only complicate things and make printing harder. I tested it in CAD, and the wall thickness of the shelled piece would be very thin and have a high chance of failure. 
+
 <img width="673" height="284" alt="image" src="https://github.com/user-attachments/assets/53449fe4-ff58-4987-b4c0-36b0dfd566d4" />
 
 <img width="323" height="316" alt="image" src="https://github.com/user-attachments/assets/5f12fe5a-a5f7-479f-aa6b-336ee3974d1e" />
@@ -83,6 +85,17 @@ Next was to make the pins to connect the members together. I started by drawing 
 
 This is the design made in an assembly to test the fits and how it will look all together. Here you can also see how it will rotate about the pin. 
 
+## Print 1
+
+For my first print, I only did 2 members and one pin just to see if the pin would fit and the design would actually work before I had to wait a longer time to print all of it and it ends up not working. If it does work, then I would only have to print 2 more members and three more pins.
+
+<img width="959" height="472" alt="image" src="https://github.com/user-attachments/assets/a9b80a61-ee92-4ab5-ae94-2f4054eb7686" />
+
+I oriented everything flat so no supports would be needed, and I used PLA with a 15% infill and a regular grid infill pattern. This was printed on PC-14.
+
+## Lessons Learned
+
+This entire project took about 6 hours. This consisted of 4 hours of research and portfolio creation, 1 hour of design, and 1 hour of printing. This took a lot less time than I originally expected when I saw this assignment. When I first read the assignment and saw mechanism, I had no idea what that meant, but after research, I did a relatively simple project, which allowed me to not take as long as I was expecting. 
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
