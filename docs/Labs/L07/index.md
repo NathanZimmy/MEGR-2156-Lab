@@ -79,6 +79,8 @@ Next was to make the pins to connect the members together. I started by drawing 
 
 <img width="323" height="316" alt="image" src="https://github.com/user-attachments/assets/5f12fe5a-a5f7-479f-aa6b-336ee3974d1e" />
 
+<img width="800" height="1422" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/fc69e209-fc43-4fca-97a4-21ab7dd36616" />
+
 This is the design made in an assembly to test the fits and how it will look all together. Here you can also see how it will rotate about the pin. 
 
 ## Sources
