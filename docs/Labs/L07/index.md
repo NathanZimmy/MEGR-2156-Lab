@@ -1,7 +1,7 @@
 # A7 – [Linkage and Mechanisms]
 
 ## Objective
-For this week's assignment, we are to research, learn, understand, and design linkages and mechanisms. We will design linkages using existing hardware to fasten the pieces together. While researching, we are to document all our findings and the design process throughout the project. 
+For this week's assignment, we are to research, learn, understand, and design linkages and mechanisms. We will design linkages using existing hardware to fasten the pieces together. While researching, we will document our findings and the design process throughout the project. 
 
 ### Constraints
 - The linkage or mechanism must perform motion or a task
@@ -93,9 +93,16 @@ For my first print, I only did 2 members and one pin just to see if the pin woul
 
 I oriented everything flat so no supports would be needed, and I used PLA with a 15% infill and a regular grid infill pattern. This was printed on PC-14.
 
+<img width="800" height="1422" alt="ezgif com-optimize (6)" src="https://github.com/user-attachments/assets/804a2339-eec9-402a-9b9a-5927405e3796" />
+
+<img width="254" height="336" alt="image" src="https://github.com/user-attachments/assets/db20f89d-e1b4-4046-b9c5-e3946f69ce00" />
+
+<img width="263" height="186" alt="image" src="https://github.com/user-attachments/assets/baa216d5-52e8-4854-b493-5bb1421482bd" />
+
+After the first print, I found the pin was too small/too loose. So I am going to make the diameter wider and a little bit longer. 
 ## Lessons Learned
 
-This entire project took about 6 hours. This consisted of 4 hours of research and portfolio creation, 1 hour of design, and 1 hour of printing. This took a lot less time than I originally expected when I saw this assignment. When I first read the assignment and saw mechanism, I had no idea what that meant, but after research, I did a relatively simple project, which allowed me to not take as long as I was expecting. 
+This entire project took about 6 hours. This consisted of 4 hours of research and portfolio creation, 1 hour of design, and 1 hour of printing. This took a lot less time than I originally expected when I saw this assignment. When I first read the assignment and saw the mechanism, I had no idea what that meant, but after research, I did a relatively simple project, which allowed me to not take as long as I was expecting. 
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
