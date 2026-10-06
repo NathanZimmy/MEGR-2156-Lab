@@ -111,7 +111,7 @@ After finding out the pin was too small, I went into my CAD files and changed th
 
 <img width="959" height="412" alt="image" src="https://github.com/user-attachments/assets/da6a05d7-dfba-4aa6-bcb2-20f63cd5801e" />
 
-To slice this time, I went ahead and added the other 2 links because I liked the way the first two came out and I didn't adjust them at all. I also added the new pin design. I left the infill percentage and pattern all the same with generic PLA, and this time I am printing on PC-15.
+To slice this time, I went ahead and added the other 2 links because I liked the way the first two came out, and I didn't adjust them at all. I also added the new pin design. I left the infill percentage and pattern all the same with generic PLA, and this time I am printing on PC-15.
 
 <img width="800" height="1422" alt="ezgif com-optimize (7)" src="https://github.com/user-attachments/assets/42688ba5-a1eb-4cf4-8ad4-a8da6b4d27a0" />
 
@@ -154,7 +154,12 @@ This entire project took about 7 hours. This consisted of 4 hours of research an
 The biggest mistake I made was underestimating how hard it would be to make the pins to connect the links. I saw many people using already-made hardware they bought, whereas I made my own. This was my first time designing something hardware-related to hold pieces together, so I didn't really know how it works or how dimensioning is supposed to be done, such as tolerancing it and making it fit properly. 
 
 ### Tolerances
-My first print did not work. The dimensions I made for the pins were too small and too loose in the hole. So I made them a little longer, as well as the same diameter as the hole itself. I also wanted to support the link from both sides while still being able to take the links apart. So I made caps for the pins, and those tolerances worked the first time because I based it on my initial failure 
+My first print did not work. The dimensions I made for the pins were too small and too loose in the hole. So I made them a little longer, as well as the same diameter as the hole itself. I also wanted to support the link from both sides while still being able to take the links apart. So I made caps for the pins, and those tolerances worked the first time because I based them on my initial failure 
+
+## CAD Files
+
+[Lab A7.zip](https://github.com/user-attachments/files/33131380/Lab.A7.zip)
+
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
