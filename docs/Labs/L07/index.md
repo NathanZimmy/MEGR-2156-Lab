@@ -112,6 +112,22 @@ After finding out the pin was too small, I went into my CAD files and changed th
 <img width="959" height="412" alt="image" src="https://github.com/user-attachments/assets/da6a05d7-dfba-4aa6-bcb2-20f63cd5801e" />
 
 To slice this time, I went ahead and added the other 2 links because I liked the way the first two came out and I didn't adjust them at all. I also added the new pin design. I left the infill percentage and pattern all the same with generic PLA, and this time I am printing on PC-15.
+
+## Print 3
+
+For this third print, I am going to print the last pins I need, as well as caps to support the links for the other side that is open to hold them together. 
+
+<img width="323" height="292" alt="image" src="https://github.com/user-attachments/assets/5b5ab16f-3cb5-4892-be49-1c89608422c0" />
+
+<img width="368" height="293" alt="image" src="https://github.com/user-attachments/assets/b1c289f2-1777-4f81-ad4c-73c9abc62d46" />
+
+I started with a circle with a diameter of .25in and extruded it to a thickness of .10in
+
+<img width="372" height="269" alt="image" src="https://github.com/user-attachments/assets/94951663-a179-4a70-82b8-38e1bc1c5b93" />
+
+I then did an outward shell with a thickness of .01in.
+
+
 ## Lessons Learned
 
 ### time taken
@@ -120,6 +136,8 @@ This entire project took about 6 hours. This consisted of 4 hours of research an
 ### Biggest Mistake
 The biggest mistake I made was underestimating how hard it would be to make the pins to connect the links. I saw many people using already-made hardware they bought, whereas I made my own. This was my first time designing something hardware-related to hold pieces together, so I didn't really know how it works or how dimensioning is supposed to be done, such as tolerancing it and making it fit properly. 
 
+### Tolerances
+My first print did not work. The dimensions I made for the pins were too small and too loose in the hole. So I made them longer as well as the same diameter as the hole itself. 
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
