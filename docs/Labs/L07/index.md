@@ -154,7 +154,7 @@ This entire project took about 7 hours. This consisted of 4 hours of research an
 The biggest mistake I made was underestimating how hard it would be to make the pins to connect the links. I saw many people using already-made hardware they bought, whereas I made my own. This was my first time designing something hardware-related to hold pieces together, so I didn't really know how it works or how dimensioning is supposed to be done, such as tolerancing it and making it fit properly. 
 
 ### Tolerances
-My first print did not work. The dimensions I made for the pins were too small and too loose in the hole. So I made them longer as well as the same diameter as the hole itself. 
+My first print did not work. The dimensions I made for the pins were too small and too loose in the hole. So I made them a little longer, as well as the same diameter as the hole itself. I also wanted to support the link from both sides while still being able to take the links apart. So I made caps for the pins, and those tolerances worked the first time because I based it on my initial failure 
 ## Sources
 
 1) https://3dprinterly.com/how-to-3d-print-connecting-joints-interlocking-parts/
