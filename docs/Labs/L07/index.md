@@ -100,6 +100,15 @@ I oriented everything flat so no supports would be needed, and I used PLA with a
 <img width="263" height="186" alt="image" src="https://github.com/user-attachments/assets/baa216d5-52e8-4854-b493-5bb1421482bd" />
 
 After the first print, I found the pin was too small/too loose. So I am going to make the diameter wider and a little bit longer. 
+
+## Print 2
+
+<img width="362" height="305" alt="image" src="https://github.com/user-attachments/assets/d56005de-6f70-4112-bc21-d243c917e377" />
+
+<img width="757" height="358" alt="image" src="https://github.com/user-attachments/assets/2d52552a-3ca8-4975-8ef6-953b532cf2b5" />
+
+After finding out the pin was too small, I went into my CAD files and changed the dimensions to make it slightly bigger. I made the pin diameter .25in which is the same as the hole, and the length of the pin .3in. to give it a little more working room.
+
 ## Lessons Learned
 
 This entire project took about 6 hours. This consisted of 4 hours of research and portfolio creation, 1 hour of design, and 1 hour of printing. This took a lot less time than I originally expected when I saw this assignment. When I first read the assignment and saw the mechanism, I had no idea what that meant, but after research, I did a relatively simple project, which allowed me to not take as long as I was expecting. 
