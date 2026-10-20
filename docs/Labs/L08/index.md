@@ -19,6 +19,7 @@ Before I could begin modeling, I needed to know roughly how big to make the obje
 <img width="487" height="308" alt="image" src="https://github.com/user-attachments/assets/9801709e-f2f0-4bea-b845-4d3dbe5e05e8" />
 
 To start with the model, I did a sketch on the top plane and made an 8in by 5 in base and extruded it to .5in.
+
 <img width="646" height="356" alt="image" src="https://github.com/user-attachments/assets/5c733c6b-9743-4dcc-a1a6-c0d49a0e142c" />
 
 <img width="675" height="245" alt="image" src="https://github.com/user-attachments/assets/da2cbfb0-cc9e-432a-ae9a-63e1e9c5ac25" />
