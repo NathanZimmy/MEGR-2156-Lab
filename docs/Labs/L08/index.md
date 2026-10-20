@@ -47,5 +47,14 @@ Why does asking smart questions matter?
 
 <img width="605" height="327" alt="image" src="https://github.com/user-attachments/assets/38d20201-dcb2-4e27-944f-736a92944bd8" />
 
-## Communicate
+<img width="382" height="243" alt="image" src="https://github.com/user-attachments/assets/37180087-17ec-4d59-a4ab-05cdbf9278ef" />
 
+<img width="463" height="294" alt="image" src="https://github.com/user-attachments/assets/a4727b44-1301-49f5-a28a-6d3893fc9ab3" />
+
+## Print
+
+<img width="398" height="103" alt="image" src="https://github.com/user-attachments/assets/ce5513a2-5f48-4f8c-ada1-b0f8dacaf6f2" />
+
+<img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/3d16de31-9844-444f-9ed9-2162183cbadb" />
+
+PC-05
