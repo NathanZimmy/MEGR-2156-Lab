@@ -28,9 +28,13 @@ Next, I made the slot for a pencil/pen. I made a centerline through the middle o
 
 <img width="503" height="230" alt="image" src="https://github.com/user-attachments/assets/5cd844a6-775e-4491-86dd-e2c8cd3a1778" />
 
+<img width="559" height="243" alt="image" src="https://github.com/user-attachments/assets/4d761445-83df-4070-ba95-ad3f330403f2" />
+
 <img width="431" height="206" alt="image" src="https://github.com/user-attachments/assets/4ee0d2f4-ef99-4749-a0d6-ce9acb9d4131" />
 
 <img width="540" height="323" alt="image" src="https://github.com/user-attachments/assets/7b720b65-14f0-4bbf-8eac-9b5d5faeea0f" />
+
+Next, I made space for my wallet. For this one, I had to extrude upwards to have more height since a wallet is a lot bigger than the rest of the objects. I made a rectangle in the top left corner of the base and dimensioned it to 5 in by 1.5 in and offset it by .2in. This time the offset wasn't for wall thickness; it was just for aesthetics and to keep everything even and not on the edge of the base. I extruded that to a height of .45in. Next, I didn't add another sketch on top of that extrusion of a rectangle with each wall thickness being .1in. I didn't need to dimension the lines, only how thick the walls are to be, since this is an extrude cut. 
 
 <img width="583" height="332" alt="image" src="https://github.com/user-attachments/assets/970f2863-5ce2-441f-b19f-1393d7c82447" />
 
