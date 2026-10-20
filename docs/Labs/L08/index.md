@@ -8,7 +8,7 @@ Why does asking smart questions matter?
 
 
 ## Brainstorming
-
+This project actually took me a while to brainstorm and think of an issue I need solved. Designing something useful seems so easy, but having that much free rein over what to do can be hard since I'm new to engineering and 3d design. So I just thought: what is something I do every day, and how can I make it easier? I thought about organizing and making things in my life cleaner and easier to navigate, and that's when I thought of my nightstand. Every night I take whatever is in my pockets and just throw it all over my nightstand, scattering it everywhere, and sometimes they may roll or fall off. I carry relatively the same items with me every day, everywhere. A pencil, chapstick, my wallet, car key, AirPods, and my phone. So I decided I am going to make a organization stand completely personallized for what I use in life have a dedicated slote for each as well as as sport for extra stuff. 
 
 ## SolidWorks Model
 
@@ -57,4 +57,4 @@ Why does asking smart questions matter?
 
 <img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/3d16de31-9844-444f-9ed9-2162183cbadb" />
 
-PC-05
+For the slicing and print process, I wanted to cut as much time as possible since my object is quite large, being 8x5 in. So I set the infill all the way down to 5% since this isn't going to be load-bearing at all, besides a few ounces of the weight of the objects it holds, so it doesn't need to be strong. I also set it to a lightning pattern to save more time. I used PC-05.
