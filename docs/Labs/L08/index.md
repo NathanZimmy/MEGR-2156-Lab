@@ -40,6 +40,8 @@ Next, I made space for my wallet. For this one, I had to extrude upwards to have
 
 <img width="142" height="228" alt="image" src="https://github.com/user-attachments/assets/2ef0dafa-09ac-4c68-b676-2f8a4b6ebc09" />
 
+The next step was to make space for chapstick. I made this one very similar to the pencil spot. I started with a sketch on the original base in the bottom right beside the pencil slot. I made a rectangle with dimensions 2.8in by .6in and offset it from the edge .2in. I then did an extrude cut to a depth of .35in.
+
 <img width="509" height="210" alt="image" src="https://github.com/user-attachments/assets/a63ecf62-bc40-4577-b138-046fd7a863f7" />
 
 <img width="466" height="262" alt="image" src="https://github.com/user-attachments/assets/f13b4983-2b50-4c25-beb9-eff4bdcfdb43" />
