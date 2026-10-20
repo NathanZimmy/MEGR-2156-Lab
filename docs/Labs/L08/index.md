@@ -25,5 +25,27 @@ Why does asking smart questions matter?
 
 <img width="540" height="323" alt="image" src="https://github.com/user-attachments/assets/7b720b65-14f0-4bbf-8eac-9b5d5faeea0f" />
 
+<img width="583" height="332" alt="image" src="https://github.com/user-attachments/assets/970f2863-5ce2-441f-b19f-1393d7c82447" />
+
+<img width="142" height="228" alt="image" src="https://github.com/user-attachments/assets/2ef0dafa-09ac-4c68-b676-2f8a4b6ebc09" />
+
+<img width="509" height="210" alt="image" src="https://github.com/user-attachments/assets/a63ecf62-bc40-4577-b138-046fd7a863f7" />
+
+<img width="466" height="262" alt="image" src="https://github.com/user-attachments/assets/f13b4983-2b50-4c25-beb9-eff4bdcfdb43" />
+
+<img width="510" height="280" alt="image" src="https://github.com/user-attachments/assets/47a99196-a80e-4c37-a548-8b59da3eaf91" />
+
+<img width="582" height="352" alt="image" src="https://github.com/user-attachments/assets/b7089730-5981-4db9-8fbc-67ab3770e034" />
+
+<img width="722" height="364" alt="image" src="https://github.com/user-attachments/assets/f69cb318-8fe7-46d3-ae1a-b8ed64d51e04" />
+
+<img width="656" height="371" alt="image" src="https://github.com/user-attachments/assets/0f6c5da7-5b9b-4b91-b4e5-ed00e5a9b05c" />
+
+<img width="410" height="306" alt="image" src="https://github.com/user-attachments/assets/7c540be2-366f-4dba-b758-52c47e7d41da" />
+
+<img width="584" height="234" alt="image" src="https://github.com/user-attachments/assets/9cd485c2-89f5-4688-a380-c1b583a98e99" />
+
+<img width="605" height="327" alt="image" src="https://github.com/user-attachments/assets/38d20201-dcb2-4e27-944f-736a92944bd8" />
+
 ## Communicate
 
