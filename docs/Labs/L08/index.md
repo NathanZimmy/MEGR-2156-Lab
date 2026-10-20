@@ -40,13 +40,15 @@ Next, I made space for my wallet. For this one, I had to extrude upwards to have
 
 <img width="142" height="228" alt="image" src="https://github.com/user-attachments/assets/2ef0dafa-09ac-4c68-b676-2f8a4b6ebc09" />
 
-The next step was to make space for chapstick. I made this one very similar to the pencil spot. I started with a sketch on the original base in the bottom right beside the pencil slot. I made a rectangle with dimensions 2.8in by .6in and offset it from the edge .2in. I then did an extrude cut to a depth of .35in.
+The next step was to make space for chapstick. I made this one very similar to the pencil slot. I started with a sketch on the original base in the bottom right beside the pencil slot. I made a rectangle with dimensions 2.8in by .6in and offset it from the edge .2in. I then did an extrude cut to a depth of .35in.
 
 <img width="509" height="210" alt="image" src="https://github.com/user-attachments/assets/a63ecf62-bc40-4577-b138-046fd7a863f7" />
 
 <img width="466" height="262" alt="image" src="https://github.com/user-attachments/assets/f13b4983-2b50-4c25-beb9-eff4bdcfdb43" />
 
 <img width="510" height="280" alt="image" src="https://github.com/user-attachments/assets/47a99196-a80e-4c37-a548-8b59da3eaf91" />
+
+The next section to make is the AirPods holder. This process was relatively the same as the wallet since the AirPods case is a little bigger than .4in which would be the depth if I went ahead and extrude cut it without building the walls up. This depth may have worked, but I was worried about the case toppling over the top, so I wanted to make it a little taller but still shorter than the overall height because I want it to be loosely sitting in there and have room to grab out. 
 
 <img width="582" height="352" alt="image" src="https://github.com/user-attachments/assets/b7089730-5981-4db9-8fbc-67ab3770e034" />
 
