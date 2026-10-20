@@ -8,7 +8,7 @@ Why does asking smart questions matter?
 
 
 ## Brainstorming
-This project actually took me a while to brainstorm and think of an issue I need solved. Designing something useful seems so easy, but having that much free rein over what to do can be hard since I'm new to engineering and 3d design. So I just thought: what is something I do every day, and how can I make it easier? I thought about organizing and making things in my life cleaner and easier to navigate, and that's when I thought of my nightstand. Every night I take whatever is in my pockets and just throw it all over my nightstand, scattering it everywhere, and sometimes they may roll or fall off. I carry relatively the same items with me every day, everywhere. A pencil, chapstick, my wallet, car key, AirPods, and my phone. So I decided I am going to make a organization stand completely personallized for what I use in life have a dedicated slote for each as well as as sport for extra stuff. 
+This project actually took me a while to brainstorm and think of an issue I need solved. Designing something useful seems so easy, but having that much free rein over what to do can be hard since I'm new to engineering and 3d design. So I just thought: what is something I do every day, and how can I make it easier? I thought about organizing and making things in my life cleaner and easier to navigate, and that's when I thought of my nightstand. Every night I take whatever is in my pockets and just throw it all over my nightstand, scattering it everywhere, and sometimes they may roll or fall off. I carry relatively the same items with me every day, everywhere. A pencil, chapstick, my wallet, car key, AirPods, and my phone. So I decided I am going to make an organization stand completely personalized for what I use in life, with a dedicated slot for each as well as a spot for extra stuff. 
 
 ### Measurements
 Before I could begin modeling, I needed to know roughly how big to make the object based on how big everything it is holding is. I didn't want everything to be a tight fit; I wanted it to have some wiggly/finger room for me to grab the objects out of and easily slide them into place. With this, I rounded all the measurements up .1-.2in depending on what the object was and how it was shaped. 
@@ -18,7 +18,7 @@ Before I could begin modeling, I needed to know roughly how big to make the obje
 
 <img width="487" height="308" alt="image" src="https://github.com/user-attachments/assets/9801709e-f2f0-4bea-b845-4d3dbe5e05e8" />
 
-To start with the model, I did a sketch on the top plane and made an 8in by 5 in base and extruded it to .5in.
+To start with the model, I did a sketch on the top plane and made an 8in by 5in base and extruded it to .5in.
 
 <img width="646" height="356" alt="image" src="https://github.com/user-attachments/assets/5c733c6b-9743-4dcc-a1a6-c0d49a0e142c" />
 
