@@ -24,6 +24,8 @@ To start with the model, I did a sketch on the top plane and made an 8in by 5in 
 
 <img width="675" height="245" alt="image" src="https://github.com/user-attachments/assets/da2cbfb0-cc9e-432a-ae9a-63e1e9c5ac25" />
 
+Next, I made the slot for a pencil/pen. I made a centerline through the middle of the width of the base. I then made a rectangle with a length of 6in by .4in tall. These dimensions are straight from the micrometer measurements, but I rounded everything up for wiggle room. I also set a dimension to offset it from the bottom by .2in. This is to make my wall thickness .2in when I extruded cut it. I then did an extrude cut of the sketch to a depth of .35in. 
+
 <img width="503" height="230" alt="image" src="https://github.com/user-attachments/assets/5cd844a6-775e-4491-86dd-e2c8cd3a1778" />
 
 <img width="431" height="206" alt="image" src="https://github.com/user-attachments/assets/4ee0d2f4-ef99-4749-a0d6-ce9acb9d4131" />
