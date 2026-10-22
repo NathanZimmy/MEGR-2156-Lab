@@ -7,7 +7,7 @@
 
 - Record each value and the mean. Use the mean as your thickness variable.
 
-
+Measurement 1= 3.08mm  Measurement 2= 2.98mm Measurement 3= 2.91mm Average thickness= 2.96mm
 
 ## Brainstorming
 
