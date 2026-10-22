@@ -2,6 +2,12 @@
 
 ## Objective
 
+## Step 1-Measure The Material
+- Measure your sheet with calipers at a minimum of 3 locations.
+
+- Record each value and the mean. Use the mean as your thickness variable.
+
+
 
 ## Brainstorming
 
