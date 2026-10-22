@@ -54,6 +54,8 @@ The next section to make is the AirPods holder. This process was relatively the 
 
 <img width="722" height="364" alt="image" src="https://github.com/user-attachments/assets/f69cb318-8fe7-46d3-ae1a-b8ed64d51e04" />
 
+The next section I made was the extra spaces as well as the space where my car keys would sit. My car keys aren't a definitive shape since there is multiple pieces that move and jangle around. Making a specific spot for them to slide into would be unnecessary since I have different keys so being able to throw them all together is good enough for me. I started by loosely sketching a rectangle in the middle of all the other cuts without dimensioning it. This is because I want it to take up as much space as possible. All I did was offset it by.2in from each edge and cutout it was near. This will have it be as large as possible while being evenly spaced and organized. I then extrude cut it to .35in.
+
 <img width="656" height="371" alt="image" src="https://github.com/user-attachments/assets/0f6c5da7-5b9b-4b91-b4e5-ed00e5a9b05c" />
 
 <img width="410" height="306" alt="image" src="https://github.com/user-attachments/assets/7c540be2-366f-4dba-b758-52c47e7d41da" />
