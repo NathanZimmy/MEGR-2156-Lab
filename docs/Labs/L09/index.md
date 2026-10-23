@@ -29,6 +29,11 @@ After cutting the second time I measured the width with a vernier caliper and go
 
 - Cut and test it. Rate each fit and photograph the results.
 
+## Step 4-Choose A Clearence
+- Select the clearance that gives the most reliable fit, and explain why.
+
+- Enter it in your Parameter Table (below). Your final CAD must use this value.
+
 
 ## Brainstorming
 
