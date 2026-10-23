@@ -29,6 +29,10 @@ After cutting the second time I measured the width with a vernier caliper and go
 
 - Cut and test it. Rate each fit and photograph the results.
 
+When designing for a test fit there are a lot of variables to take into account revolving around kerf. One is the average thickness. The supposed thickness of the wood is 3mm but we measured the average thickness to be 2.96mm. So, our goal target fitment should be somewhere less than 2.96 because we want it to be an interference fit so it is snug and doesn't move naturally but we can still force it around into place. A good start to the desired clearance would be 2.7822mm which is average thickness minus the kerf in millimeters.
+So we made a design with a few different slots to test which clarence would fit our wants the best. We then made simple square that will act as a key in these slots and will slide into place and we will determine which dimension we like best based on how easily or hard it is for the key to move. 
+
+
 ## Step 4-Choose A Clearence
 - Select the clearance that gives the most reliable fit, and explain why.
 
