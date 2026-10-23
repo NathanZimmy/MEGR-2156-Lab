@@ -24,6 +24,12 @@ We made a mistake with our first cut and didn't change the settings from engrave
 
 After cutting the second time I measured the width with a vernier caliper and got .993in by .993in. 1in - .993in = .007in or .1778mm kerf.
 
+## Step 3-Run A Fit Test
+- Design a fit coupon with one tab and 3 slots at 3 different clearances (tight, target, loose), based on your measured thickness and kerf.
+
+- Cut and test it. Rate each fit and photograph the results.
+
+
 ## Brainstorming
 
 <img width="926" height="779" alt="image" src="https://github.com/user-attachments/assets/5b2f888d-bf38-476f-9622-bd4f718d6775" />
