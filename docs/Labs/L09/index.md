@@ -20,7 +20,9 @@ We made a mistake with our first cut and didn't change the settings from engrave
 
 <img width="351" height="388" alt="{605A79B2-9480-4B9D-B683-B0E21EEEFA82}" src="https://github.com/user-attachments/assets/56de63c5-2e57-47c4-8e24-b88f96b8ba0e" />
 
-After cutting the second time I measured the width with a vernier caliper and got .993in by .993in. 1in - .993in = .007in kerf.
+<img width="800" height="1422" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/9d5b7d9b-e585-4030-9bd6-8d63bc195cf5" />
+
+After cutting the second time I measured the width with a vernier caliper and got .993in by .993in. 1in - .993in = .007in or .1778mm kerf.
 
 ## Brainstorming
 
