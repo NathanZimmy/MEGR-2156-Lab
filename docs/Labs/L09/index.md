@@ -53,6 +53,10 @@ After running a test fit we decided to go with the smallest dimensions we cut be
 
 ## SolidWorks Model and Inkscape
 
+<img width="296" height="271" alt="image" src="https://github.com/user-attachments/assets/ed4a86b4-01df-484c-bc21-a35b078c4228" />
+
+<img width="327" height="259" alt="image" src="https://github.com/user-attachments/assets/93c56e81-34bd-4f89-b987-4f14a2de3a54" />
+
 ## Cutting
 
 ## Lessons Learned
