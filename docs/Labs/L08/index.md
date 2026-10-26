@@ -54,7 +54,7 @@ The next section to make is the AirPods holder. This process was relatively the 
 
 <img width="722" height="364" alt="image" src="https://github.com/user-attachments/assets/f69cb318-8fe7-46d3-ae1a-b8ed64d51e04" />
 
-The next section I made was the extra spaces as well as the space where my car keys would sit. My car keys aren't a definitive shape since there is multiple pieces that move and jangle around. Making a specific spot for them to slide into would be unnecessary since I have different keys so being able to throw them all together is good enough for me. I started by loosely sketching a rectangle in the middle of all the other cuts without dimensioning it. This is because I want it to take up as much space as possible. All I did was offset it by.2in from each edge and cutout it was near. This will have it be as large as possible while being evenly spaced and organized. I then extrude cut it to .35in.
+The next section I made was the extra spaces, as well as the space where my car keys would sit. My car keys aren't a definitive shape since there are multiple pieces that move and jangle around. Making a specific spot for them to slide into would be unnecessary since I have different keys, so being able to throw them all together is good enough for me. I started by loosely sketching a rectangle in the middle of all the other cuts without dimensioning it. This is because I want it to take up as much space as possible. All I did was offset it by 0.2 in from each edge and cut out what was near. This will make it as large as possible while being evenly spaced and organized. I then extrude cut it to .35in.
 
 <img width="656" height="371" alt="image" src="https://github.com/user-attachments/assets/0f6c5da7-5b9b-4b91-b4e5-ed00e5a9b05c" />
 
@@ -64,14 +64,20 @@ The next section I made was the extra spaces as well as the space where my car k
 
 <img width="605" height="327" alt="image" src="https://github.com/user-attachments/assets/38d20201-dcb2-4e27-944f-736a92944bd8" />
 
+The next step I wanted to do was add fillets to the pencil and chapstick spot so it would be rounded and the objects could fit nicely with the shape they are. I also thought it would make it look a little smoother and more complex than all square sections. I set the radius of both fillet sections to .2in. This dimension was chosen simply by looking at how it came out on the model. 
+
 <img width="382" height="243" alt="image" src="https://github.com/user-attachments/assets/37180087-17ec-4d59-a4ab-05cdbf9278ef" />
 
 <img width="463" height="294" alt="image" src="https://github.com/user-attachments/assets/a4727b44-1301-49f5-a28a-6d3893fc9ab3" />
 
+Lastly, I wanted to make an extra section to use the last bit of space I had so I wasn't wasting any potential. I don't have anything specific that would go here, but this gives me an opportunity to change it for later iterations of this design. It also makes it look more complete, so there isn't an open flat space in the middle of the design. 
 ## Print
 
 <img width="398" height="103" alt="image" src="https://github.com/user-attachments/assets/ce5513a2-5f48-4f8c-ada1-b0f8dacaf6f2" />
 
 <img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/3d16de31-9844-444f-9ed9-2162183cbadb" />
 
-For the slicing and print process, I wanted to cut as much time as possible since my object is quite large, being 8x5 in. So I set the infill all the way down to 5% since this isn't going to be load-bearing at all, besides a few ounces of the weight of the objects it holds, so it doesn't need to be strong. I also set it to a lightning pattern to save more time. I used PC-05.
+For the slicing and printing process, I wanted to cut as much time as possible since my object is quite large, being 8x5 in. So I set the infill all the way down to 5% since this isn't going to be load-bearing at all, besides a few ounces of the weight of the objects it holds, so it doesn't need to be strong. I also set it to a lightning pattern to save more time. I used PC-05.
+
+## CAD Files
+[Nightstand organizer 2.zip](https://github.com/user-attachments/files/33977975/Nightstand.organizer.2.zip)
