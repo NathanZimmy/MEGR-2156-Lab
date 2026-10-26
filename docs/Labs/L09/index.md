@@ -29,8 +29,14 @@ After cutting the second time, I measured the width with a vernier caliper and g
 
 - Cut and test it. Rate each fit and photograph the results.
 
+<img width="514" height="275" alt="image" src="https://github.com/user-attachments/assets/99e61952-6327-4d9c-8875-ef1dd5688f22" />
+
+<img width="516" height="275" alt="image" src="https://github.com/user-attachments/assets/e6fab20f-3ec7-44ad-96e8-0fbe6d640dfe" />
+
+<img width="512" height="272" alt="image" src="https://github.com/user-attachments/assets/df766fac-2fcc-417a-bd33-7649b5ac163f" />
+
 When designing for a test fit, there are a lot of variables to take into account revolving around kerf. One is the average thickness. The supposed thickness of the wood is 3mm, but we measured the average thickness to be 2.96mm. So, our goal target fitment should be somewhere less than 2.96 because we want it to be an interference fit so it is snug and doesn't move naturally, but we can still force it into place. A good start to the desired clearance would be 2.7822mm, which is average thickness minus the kerf in millimeters
-So we made a design with a few different slots to test which clearance would fit our wants the best. We then made a simple square that will act as a key in these slots and will slide into place, and we will determine which dimension we like best based on how easily or hard it is for the key to move. 
+So we made a design with a few different slots to test which clearance would fit our wants the best. We then made a simple square that will act as a key in these slots and will slide into place, and we will determine which dimension we like best based on how easily or how hard it is for the key to move. 
 
 
 ## Step 4-Choose A Clearance
@@ -38,6 +44,7 @@ So we made a design with a few different slots to test which clearance would fit
 
 - Enter it in your Parameter Table (below). Your final CAD must use this value.
 
+After running a test fit we decided to go with the smallest dimensions we cut because it had the best support while standing still, while still being able to insert the key piece and move it with using some force. This dimension was 2.55mm before kerf and 2.3722mm after kerf. 
 
 ## Brainstorming
 
