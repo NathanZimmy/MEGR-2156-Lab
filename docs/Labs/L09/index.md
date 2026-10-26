@@ -55,9 +55,14 @@ After running a test fit we decided to go with the smallest dimensions we cut be
 
 <img width="296" height="271" alt="image" src="https://github.com/user-attachments/assets/ed4a86b4-01df-484c-bc21-a35b078c4228" />
 
-<img width="327" height="259" alt="image" src="https://github.com/user-attachments/assets/93c56e81-34bd-4f89-b987-4f14a2de3a54" />
+<img width="949" height="440" alt="image" src="https://github.com/user-attachments/assets/5d171c9a-6c54-451c-a0c1-14812ec574f7" />
+
+<img width="217" height="201" alt="image" src="https://github.com/user-attachments/assets/f83124f3-6dae-43e3-9188-39c602e22cca" />
+
 
 ## Cutting
+
+<img width="682" height="259" alt="image" src="https://github.com/user-attachments/assets/da34b77d-1286-45fe-836a-affed3c81f60" />
 
 ## Lessons Learned
 
