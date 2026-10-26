@@ -55,11 +55,15 @@ After running a test fit we decided to go with the smallest dimensions we cut be
 
 <img width="296" height="271" alt="image" src="https://github.com/user-attachments/assets/ed4a86b4-01df-484c-bc21-a35b078c4228" />
 
+Here is the wheel design I made based on an actual Cybertruck. I had some struggles when modeling this since everything has to stay in a 2d plane and not extrude it into a 3d shape. This is vastly different from what I'm used to in 3d printing, where we make full 3d shaped and models to be printed as a whole. With this project, laser cutting has to be done on a 2d plane, and each section is layered on top of each other, and later in Inkscape we will differentiate which shapes are engraved to give definition and depth and what is fully cut out. Layering each piece on top of each other gets complicated when adding a lot of details on one sketch. 
+
+For the design itself, I did a simple 30mm diameter circle and sketched multiple polygon shapes onto it. I used a multitude of centerlines, mirror entities, and circular patterns to have this come out as the final product. I also did a rectangular cut in the center for the axle that will be cut on the base of the car. 
+
 <img width="949" height="440" alt="image" src="https://github.com/user-attachments/assets/5d171c9a-6c54-451c-a0c1-14812ec574f7" />
 
 <img width="217" height="201" alt="image" src="https://github.com/user-attachments/assets/f83124f3-6dae-43e3-9188-39c602e22cca" />
 
-
+Here are the four wheels inside Inkscape before printing. The red is what is to be engraved, and the black is what is to be cut through. To have the red filled in, I ran into some issues. When importing a sketch from SolidWorks into Inkscape, it didn't recognize the shapes as a full shape but each line segment as its own piece. So I had to rework all the shapes into fully enclosed shapes in Inkscape and then trace them using the spline pen and manually color in each part. 
 ## Cutting
 
 <img width="682" height="259" alt="image" src="https://github.com/user-attachments/assets/da34b77d-1286-45fe-836a-affed3c81f60" />
