@@ -85,6 +85,25 @@ Here are the four wheels inside Inkscape before printing. The red is what is to 
 
 To cut the wheels out it took about 3 and a half minutes. I autoset the speed and power settings to what the laser has pre set for cutting wood at 3mm.
 
+<img width="499" height="256" alt="image" src="https://github.com/user-attachments/assets/4c965613-6bd6-4230-a535-6f6b73fd0f28" />
+Front bumper
+
+<img width="509" height="350" alt="image" src="https://github.com/user-attachments/assets/82debc39-ac60-4a5c-9010-c62bdf37e96d" />
+Windshield
+
+Trunk
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/fd5eda38-2c6e-4121-b999-70bf41d67060" />
+
+Rear bumper
+<img width="498" height="194" alt="image" src="https://github.com/user-attachments/assets/488f18fd-5dae-4b2b-8cb4-4ec1026507fe" />
+
+Bottom
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/f392316e-87c8-41d4-9525-e999216835db" />
+
+Wheels
+<img width="421" height="332" alt="image" src="https://github.com/user-attachments/assets/8b8208db-a6aa-4fe6-9705-882fd023212d" />
+
+
 ## Final product
 
 <img width="263" height="347" alt="image" src="https://github.com/user-attachments/assets/e807e073-3de4-4e34-aab7-440789abb31b" />
