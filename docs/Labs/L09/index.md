@@ -12,6 +12,10 @@ Measurement 1= 3.08mm  Measurement 2= 2.98mm Measurement 3= 2.91mm Average thick
 
 ## Step 2- Measure The Kerf 
 
+<img width="511" height="271" alt="image" src="https://github.com/user-attachments/assets/06a6588b-0b30-410d-920a-3a21dd8d0b10" />
+
+<img width="511" height="260" alt="image" src="https://github.com/user-attachments/assets/9a3577d4-6202-4a98-860c-76eebdea0c9e" />
+
 We decided to make our section 25.4mm by 25.4mm because that is equivalent to 1in, so it will be easy to calculate using specific measurements. 
 
 We made a mistake with our first cut and didn't change the settings from engrave to off, so it would cut all the way through the material. 
@@ -35,6 +39,8 @@ After cutting the second time, I measured the width with a vernier caliper and g
 
 <img width="512" height="272" alt="image" src="https://github.com/user-attachments/assets/df766fac-2fcc-417a-bd33-7649b5ac163f" />
 
+<img width="503" height="328" alt="image" src="https://github.com/user-attachments/assets/4b04adb2-7283-4369-aa40-2fbb7b15c9ac" />
+
 When designing for a test fit, there are a lot of variables to take into account revolving around kerf. One is the average thickness. The supposed thickness of the wood is 3mm, but we measured the average thickness to be 2.96mm. So, our goal target fitment should be somewhere less than 2.96 because we want it to be an interference fit so it is snug and doesn't move naturally, but we can still force it into place. A good start to the desired clearance would be 2.7822mm, which is average thickness minus the kerf in millimeters
 So we made a design with a few different slots to test which clearance would fit our wants the best. We then made a simple square that will act as a key in these slots and will slide into place, and we will determine which dimension we like best based on how easily or how hard it is for the key to move. 
 
@@ -44,14 +50,19 @@ So we made a design with a few different slots to test which clearance would fit
 
 - Enter it in your Parameter Table (below). Your final CAD must use this value.
 
+<img width="497" height="311" alt="image" src="https://github.com/user-attachments/assets/bc5f79a7-f7b4-4545-9838-18d0acc0ea2d" />
+
 After running a test fit we decided to go with the smallest dimensions we cut because it had the best support while standing still, while still being able to insert the key piece and move it with using some force. This dimension was 2.55mm before kerf and 2.3722mm after kerf. 
 
 ## Brainstorming
 
 <img width="926" height="779" alt="image" src="https://github.com/user-attachments/assets/5b2f888d-bf38-476f-9622-bd4f718d6775" />
 
+Here we were just messing around with the sizing of our pieces and how the would all fit onto a 1ft by 1ft piece of wood. The back square under everything is supposed to signify the material we are using and the shapes are rough sketches of the pieces we would actually be using. 
 
 ## SolidWorks Model and Inkscape
+
+
 
 <img width="296" height="271" alt="image" src="https://github.com/user-attachments/assets/ed4a86b4-01df-484c-bc21-a35b078c4228" />
 
