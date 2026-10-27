@@ -85,6 +85,8 @@ Here are the four wheels inside Inkscape before printing. The red is what is to 
 
 <img width="800" height="1422" alt="IMG_1876-ezgif com-optimize" src="https://github.com/user-attachments/assets/7dfcc7bd-e4de-4c8e-a316-6b820cd24c46" />
 
+<img width="800" height="1422" alt="ezgif-optimized" src="https://github.com/user-attachments/assets/29577e82-ce83-4359-97be-5f636d185266" />
+
 To cut the wheels out it took about 3 and a half minutes. I autoset the speed and power settings to what the laser has pre set for cutting wood at 3mm.
 
 <img width="499" height="256" alt="image" src="https://github.com/user-attachments/assets/4c965613-6bd6-4230-a535-6f6b73fd0f28" />
