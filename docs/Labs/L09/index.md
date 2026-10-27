@@ -39,7 +39,7 @@ When designing for a test fit, there are a lot of variables to take into account
 So we made a design with a few different slots to test which clearance would fit our wants the best. We then made a simple square that will act as a key in these slots and will slide into place, and we will determine which dimension we like best based on how easily or how hard it is for the key to move. 
 
 
-## Step 4-Choose A Clearance
+## Step 4- Choose a Clearance
 - Select the clearance that gives the most reliable fit, and explain why.
 
 - Enter it in your Parameter Table (below). Your final CAD must use this value.
@@ -67,6 +67,20 @@ Here are the four wheels inside Inkscape before printing. The red is what is to 
 ## Cutting
 
 <img width="682" height="259" alt="image" src="https://github.com/user-attachments/assets/da34b77d-1286-45fe-836a-affed3c81f60" />
+
+<img width="368" height="87" alt="image" src="https://github.com/user-attachments/assets/f84bb1d2-c508-4111-a483-ad3743821dbd" />
+
+<img width="225" height="324" alt="image" src="https://github.com/user-attachments/assets/300c7e71-ffa3-4996-a66a-d845aae4e148" />
+
+To cut the wheels out it took about 3 and a half minutes. I autoset the speed and power settings to what the laser has pre set for cutting wood at 3mm.
+
+## Final product
+
+<img width="263" height="347" alt="image" src="https://github.com/user-attachments/assets/e807e073-3de4-4e34-aab7-440789abb31b" />
+
+<img width="251" height="335" alt="image" src="https://github.com/user-attachments/assets/ec220da0-c847-4cc6-9341-c41e92091440" />
+
+<img width="249" height="326" alt="image" src="https://github.com/user-attachments/assets/b39086bb-cf9a-46d4-bba6-bd1814480d44" />
 
 ## Lessons Learned
 
