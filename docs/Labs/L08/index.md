@@ -85,6 +85,8 @@ Because of it failing and me having to spend 5 hours on the first two prints, I 
 
 <img width="800" height="1422" alt="ezgif-optimized (1)" src="https://github.com/user-attachments/assets/ccd46f04-8f92-4adb-96fc-4517c3b5fd8d" />
 
+<img width="800" height="1422" alt="ezgif-optimized (2)" src="https://github.com/user-attachments/assets/d0089afc-f9d4-4c92-a82e-25eaeb1ea90a" />
+
 <img width="250" height="218" alt="image" src="https://github.com/user-attachments/assets/6bdea536-ce81-4611-9edc-6afd94cee49c" />
 
 <img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/5c9625ff-6242-48de-a62a-32fadc2b1224" />
