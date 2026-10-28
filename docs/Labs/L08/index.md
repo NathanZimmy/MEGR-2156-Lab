@@ -77,7 +77,11 @@ Lastly, I wanted to make an extra section to use the last bit of space I had so 
 
 <img width="959" height="410" alt="image" src="https://github.com/user-attachments/assets/3d16de31-9844-444f-9ed9-2162183cbadb" />
 
-For the slicing and printing process, I wanted to cut as much time as possible since my object is quite large, being 8x5 in. So I set the infill all the way down to 5% since this isn't going to be load-bearing at all, besides a few ounces of the weight of the objects it holds, so it doesn't need to be strong. I also set it to a lightning pattern to save more time. I used PC-05.
+For the slicing and printing process, I wanted to cut as much time as possible since my object is quite large, being 8x5 in. So I set the infill all the way down to 5% since this isn't going to be load-bearing at all, besides a few ounces of the weight of the objects it holds, so it doesn't need to be strong. I also set it to a lightning pattern to save more time. I used PC-05. However, these settings failed twice, and this could have been the machine or the fact that I had the infill too low. 
+
+<img width="959" height="439" alt="image" src="https://github.com/user-attachments/assets/f670e31c-5e44-43a4-9591-2ce2ddb8d274" />
+
+Because of it failing and me having to spend 5 hours on the first two prints, I decided to leave it all original and had a 15% infill with a grid pattern. 
 
 <img width="800" height="1422" alt="ezgif-optimized (1)" src="https://github.com/user-attachments/assets/ccd46f04-8f92-4adb-96fc-4517c3b5fd8d" />
 
