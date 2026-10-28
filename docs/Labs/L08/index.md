@@ -79,8 +79,14 @@ Lastly, I wanted to make an extra section to use the last bit of space I had so 
 
 For the slicing and printing process, I wanted to cut as much time as possible since my object is quite large, being 8x5 in. So I set the infill all the way down to 5% since this isn't going to be load-bearing at all, besides a few ounces of the weight of the objects it holds, so it doesn't need to be strong. I also set it to a lightning pattern to save more time. I used PC-05.
 
+<img width="800" height="1422" alt="ezgif-optimized (1)" src="https://github.com/user-attachments/assets/ccd46f04-8f92-4adb-96fc-4517c3b5fd8d" />
+
+<img width="250" height="218" alt="image" src="https://github.com/user-attachments/assets/6bdea536-ce81-4611-9edc-6afd94cee49c" />
+
+<img width="260" height="230" alt="image" src="https://github.com/user-attachments/assets/5c9625ff-6242-48de-a62a-32fadc2b1224" />
+
 ## Lessons Learned
-The hardest part of this assignment was simply thinking of something new and unique that was benefited me. With every assignment weave had we were given criteria or some directions to points us o what to make but here we had full free reign of what to do. Learning how to think on my own is difficult when throughout all of school we have been given instructions on what to do. So it was very different to now go on my own and designing whatever.
+The hardest part of this assignment was simply thinking of something new and unique that benefited me. With every assignment we had, we were given criteria or some directions to point us to what to make, but here we had full free rein of what to do. Learning how to think on my own is difficult when throughout all of school we have been given instructions on what to do. So it was very different to now go on my own and design whatever.
 
 ## CAD Files
 [Nightstand organizer 2.zip](https://github.com/user-attachments/files/33977975/Nightstand.organizer.2.zip)
