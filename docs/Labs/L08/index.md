@@ -4,7 +4,7 @@
 The task of this assignment is simply to design something useful for someone or yourself to solve a problem you come up with. We are to document who, what, and how we came by this problem and then how we are going to solve it.
 
 ## Reading- Great Questions Lead to Great Design: A Guide to the Design-thinking Process
-Why does asking smart questions matter? 
+Why does asking smart questions matter? I think asking smart questions is important because it helps you really understand what you are solving before you attempt to solve it. In engineering, no two problems are going to be the exact same. They may be similar in ways, but to solve every problem, you have to understand more than a formula and numbers. SO asking questions such as why does that happen and what makes it happen, or where do those values come from and how does it change if I do this. This avoids blindly believing every value and assuming what is happening, and you can just repeat that process for every problem. It allows you to develop a way of thinking to create solutions before solving. 
 
 
 ## Brainstorming
