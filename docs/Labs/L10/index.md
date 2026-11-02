@@ -23,8 +23,28 @@ What is an RC 2 fit? RC stands for running or sliding fit. This means that you h
 
 With this being my first time seeing and using an SLA resin printer, I wanted to do some research on what it is and how it works. Instead of plastic 3D filament, SLA printers use a liquid resin that dries when hit with a certain light. The printer aligns its build platform inside the resin, then a laser or light source will dry the resin into solid plastic in specific spots, layer by layer. When printing is finished, the object isn't completely done yet and will normally need a chemical wash to clean off all the excess resin, as well as a curing stage for it to fully take on its physical properties. This curing process should be taken into account when designing because it can cause minor changes to dimensions. 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## Planning and Brainstorming
 
-## Communicate
+For my brainstorming, I had to think of what needs to be able to move and slide freely while also being precise in those movements. What came to mind was measuring tools. Most tools, like a tape measure, can move in their respective ways, but they're also precise about how much and where they move. But a tape measure isn't a sliding fit, so what could be? Then I thought of a depth meter I've used previously at home. It slides up and down to measure the depth of a hole while still being precise in its movement nd not falling all over the place. The problem is most of those aren't cylindrical, so I'm going to somehow make mine a cylindrical sliding mechanism. 
+
+## CAD Modeling
+
+<img width="244" height="264" alt="image" src="https://github.com/user-attachments/assets/0a4cde30-eeb7-49d7-94db-46636e2882d5" />
+
+I started by making the base or body that will go around the shaft/cylindrical rod.
+
+<img width="357" height="273" alt="image" src="https://github.com/user-attachments/assets/d559faf4-e897-41b5-b568-93507313d48d" />
+
+Then I extruded it to a thickness of .15in and added drafts to the end at a 45-degree angle to make it look more unique and not so boxy. I chose .15in because I want the hole and shaft to be .10in thick; this gives me working room and space after it shrinks from curing. 
+
+<img width="487" height="268" alt="image" src="https://github.com/user-attachments/assets/b001e98d-8901-45b6-88bd-7fa787a25b77" />
+
+Next, I extrude-cut the shaft hole with a diameter of .10in through the whole body. 
+
+<img width="807" height="371" alt="image" src="https://github.com/user-attachments/assets/cef009a2-787d-4feb-8876-962eb03b7055" />
+
+I then wanted to shave off the top material so I could later engrave measurements on the side pieces beside where the shaft will go.
+
+
+
 
