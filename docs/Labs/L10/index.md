@@ -29,6 +29,8 @@ For my brainstorming, I had to think of what needs to be able to move and slide 
 
 ## CAD Modeling
 
+### Body
+
 <img width="244" height="264" alt="image" src="https://github.com/user-attachments/assets/0a4cde30-eeb7-49d7-94db-46636e2882d5" />
 
 I started by making the base or body that will go around the shaft/cylindrical rod.
@@ -49,3 +51,24 @@ I then wanted to shave off the top material so I could later engrave measurement
 
 I wanted to add a little more detail to the shape of the body, so I added a chamfer to the corners of the drafts to angle the whole arm on both sides, not just the tip end of it. 
 
+### Shaft
+
+<img width="824" height="347" alt="image" src="https://github.com/user-attachments/assets/473d7d03-b5ea-4d3d-a070-cbb476ee2e51" />
+
+To start with the shaft, I made a circle with a diameter of .1015in and extruded it to a length of 1in. I made the diameter slightly smaller for the shaft than the hole because I want it to be a tight fit but still move after curing. 
+
+<img width="279" height="323" alt="image" src="https://github.com/user-attachments/assets/95e06ff4-4c29-4372-8021-e22dc2474964" />
+
+At the end of the shaft, I added a multitude of center rectangular sketches and extrudes, as well as some drafts and fillets, to make the end have a point so it could reach deeper into smaller spaces. I took inspiration for this from actual depth micrometers. 
+
+I made an assembly in SolidWorks to see how it would look and fit, and everything worked great except I didn't account for how the shaft would not only slide but also rotate, and I don't want it to rotate. 
+
+<img width="335" height="341" alt="image" src="https://github.com/user-attachments/assets/b7d93b5f-a871-4560-9069-314c9c73eb5b" />
+
+<img width="245" height="242" alt="image" src="https://github.com/user-attachments/assets/85db54ad-a766-47e2-866e-cd93695568da" />
+
+To solve this, I'm going to make a slot and key design through the shaft and on top of the hole. To do this, I made a sketch on the end of the shaft and made a center rectangle with a length of .01in and .02 width, but only half of the rectangle actually goes in, so it's really a .01 by .01.
+
+<img width="470" height="323" alt="image" src="https://github.com/user-attachments/assets/bfe6b70b-2bb8-41ac-9090-8e83946c6e76" />
+
+I then went on to the body and added the key to the top of the hole. I made this part slightly smaller so that when it prints, it will fit into the slot. 
