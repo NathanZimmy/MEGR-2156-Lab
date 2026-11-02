@@ -72,3 +72,6 @@ To solve this, I'm going to make a slot and key design through the shaft and on 
 <img width="470" height="323" alt="image" src="https://github.com/user-attachments/assets/bfe6b70b-2bb8-41ac-9090-8e83946c6e76" />
 
 I then went on to the body and added the key to the top of the hole. I made this part slightly smaller so that when it prints, it will fit into the slot. 
+
+<img width="341" height="296" alt="image" src="https://github.com/user-attachments/assets/d8ede4b9-571c-4618-8c10-949ae6de68b3" />
+
