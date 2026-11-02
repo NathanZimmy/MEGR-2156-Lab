@@ -41,11 +41,11 @@ I started by making the base or body that will go around the shaft/cylindrical r
 
 <img width="357" height="273" alt="image" src="https://github.com/user-attachments/assets/d559faf4-e897-41b5-b568-93507313d48d" />
 
-Then I extruded it to a thickness of .15in and added drafts to the end at a 45-degree angle to make it look more unique and not so boxy. I chose .15in because I want the hole and shaft to be .10in thick; this gives me working room and space after it shrinks from curing. 
+Then I extruded it to a thickness of .15in and added drafts to the end at a 45-degree angle to make it look more unique and not so boxy. I chose .15in because I want the hole and shaft to be .10in thick; this gives me working room and space after it shrinks from curing and for tollerances from the RC 2 fit.
 
 <img width="487" height="268" alt="image" src="https://github.com/user-attachments/assets/b001e98d-8901-45b6-88bd-7fa787a25b77" />
 
-Next, I extrude-cut the shaft hole with an original diameter of .10in through the whole body, but I changed it to 1.02in after remembering I have to account for the shrinking of the resin.
+Next, I extrude-cut the shaft hole with an original diameter of .10in through the whole body, but I changed it to 1.02in after remembering I have to use the values from the book on RC 2 fits. For a nominal value of 0.12 the hole has 0 to +.25.
 
 <img width="807" height="371" alt="image" src="https://github.com/user-attachments/assets/cef009a2-787d-4feb-8876-962eb03b7055" />
 
