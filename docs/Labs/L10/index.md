@@ -39,12 +39,13 @@ Then I extruded it to a thickness of .15in and added drafts to the end at a 45-d
 
 <img width="487" height="268" alt="image" src="https://github.com/user-attachments/assets/b001e98d-8901-45b6-88bd-7fa787a25b77" />
 
-Next, I extrude-cut the shaft hole with a diameter of .10in through the whole body. 
+Next, I extrude-cut the shaft hole with an original diameter of .10in through the whole body, but I changed it to 1.02in after remembering I have to account for the shrinking of the resin.
 
 <img width="807" height="371" alt="image" src="https://github.com/user-attachments/assets/cef009a2-787d-4feb-8876-962eb03b7055" />
 
 I then wanted to shave off the top material so I could later engrave measurements on the side pieces beside where the shaft will go.
 
+<img width="773" height="325" alt="image" src="https://github.com/user-attachments/assets/dd8d24d9-db36-431f-99cc-2c5dc5b2e81e" />
 
-
+I wanted to add a little more detail to the shape of the body, so I added a chamfer to the corners of the drafts to angle the whole arm on both sides, not just the tip end of it. 
 
