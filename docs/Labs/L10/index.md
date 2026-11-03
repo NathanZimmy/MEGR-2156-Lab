@@ -85,4 +85,4 @@ I then went on to the body and added the key to the top of the hole. I made this
 
 <img width="258" height="272" alt="image" src="https://github.com/user-attachments/assets/f74aac0a-30cf-4410-b1eb-d5cc6deef30b" />
 
-My piece by itself only took 2.2ml of resin, but I printed with another person to save time and allow other people to use another machine. Together, our prints took about 2 hours with 
+My piece by itself only took 2.2ml of resin, but I printed with another person to save time and allow other people to use another machine. Together, our prints took about 2 hours using 16ml of resin. When orienting the objects in PreForm, we used the autoset button to have everything set to the preferred settings of the software. 
