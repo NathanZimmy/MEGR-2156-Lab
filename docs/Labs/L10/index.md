@@ -81,4 +81,6 @@ I then went on to the body and added the key to the top of the hole. I made this
 
 ### Printing
 
+<img width="950" height="437" alt="image" src="https://github.com/user-attachments/assets/0c9fdddf-b034-4647-91df-db08613980ae" />
+
 <img width="258" height="272" alt="image" src="https://github.com/user-attachments/assets/f74aac0a-30cf-4410-b1eb-d5cc6deef30b" />
