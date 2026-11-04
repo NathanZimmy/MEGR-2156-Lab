@@ -10,6 +10,24 @@ For my design i want to make a box that is big enough to enclose all my previous
 
 ## 3D model (SolidWorks)
 
+<img width="235" height="254" alt="image" src="https://github.com/user-attachments/assets/4322cfbc-c6e9-4bbc-a458-3b2cde35935f" />
+
+<img width="314" height="286" alt="image" src="https://github.com/user-attachments/assets/2c1756bc-1d87-42d9-93e9-3925600a061d" />
+
+I started by making a 5x5x5 inch cube. This will be the bottom body of the box. I then used a shell feature to hollow the inside and gave it a .25in wall thickness. This will leave me 4.5in inside space, which is plenty for all my previous designs since the largest one is 2 in long. 
+
+<img width="493" height="333" alt="image" src="https://github.com/user-attachments/assets/fbe4f191-a7ed-489c-9f6d-fa53770dbd0d" />
+
+<img width="440" height="305" alt="image" src="https://github.com/user-attachments/assets/4a9533f9-10a9-4bc7-835c-f197adfca061" />
+
+<img width="338" height="241" alt="image" src="https://github.com/user-attachments/assets/84c23787-1159-452d-b719-78f8053f8965" />
+
+<img width="554" height="351" alt="image" src="https://github.com/user-attachments/assets/ec4593ab-2c5f-4f8f-ad34-ac1a55bba285" />
+
+<img width="368" height="301" alt="image" src="https://github.com/user-attachments/assets/0a76ee9b-7388-442d-92c4-06d9cc196533" />
+
+Then I added the first part of the hinge. 
+
 
 
 ## Communicate
