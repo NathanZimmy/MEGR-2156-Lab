@@ -33,4 +33,21 @@ Then I added the first part of the hinge. I first made and extruded a circle on 
 <img width="254" height="320" alt="image" src="https://github.com/user-attachments/assets/bc0c8233-74c5-42dc-a7c9-44b53b2d3271" />
 
 So I kept the initial cylindrical shape I had before, but I deleted the hole and the cut. I did this because this is still the same shape I will be using, but I will be trying a different method to make a hinge. I then added more material under the cylinder using the same sketch as the circle so that when it prints, it won't have a seam there that will likely fail. This also supports the shape a lot more, so the hinge won't break off the side. 
+
+
+<img width="844" height="374" alt="image" src="https://github.com/user-attachments/assets/dd82f28e-3032-4c72-a750-bb14201b0b92" />
+
+Next, I made an extrude cut on the bottom surface so it would cut all the way through the cylinder. This is because I wanted to have just the side pieces of the cylinder for the next part. 
+
+<img width="566" height="316" alt="image" src="https://github.com/user-attachments/assets/d76e29e8-ee3e-48b4-a790-ba8f558559a5" />
+
+<img width="321" height="284" alt="image" src="https://github.com/user-attachments/assets/e5bdc044-9c27-4166-a0ed-af22ab3c9ce4" />
+
+<img width="641" height="231" alt="image" src="https://github.com/user-attachments/assets/7f395a17-b09b-4811-a2fb-bf09afde79ff" />
+
+For the next part, I am going to create divots in the remaining two pieces that will allow for the hinging mechanism. 
+
+Now It's time for the top piece
+
+
 ## Communicate
