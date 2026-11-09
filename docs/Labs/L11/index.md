@@ -5,7 +5,7 @@ For this assignment, we are to design modle and print using the SLA printers a f
 
 ## Brainstorming and Drawings
 
-For my design i want to make a box that is big enough to enclose all my previous small parts and design from this class to keep the store away as keepsakes and so they don't get lost. They currently sit on my desk scattered around, and I want them to stay organized somewhere and safe from falling off and getting lost. This won't just be a box with a lid that snaps on, though. I want to make two separate snap fits on it. One will be a hinge that will be two different parts, one connected to the lid and one connected to the body of the box. This hinge will have an opening slit on the back side that will hold the other piece in place but will also allow for insertion and the ability to be printed as a separate part. Printing a hinge as one piece isn't possible, to my knowledge, without having to break away material and causing rough surfaces and problems with rotation. The other snap fitment will be hooks that will hang from the lid after attaching the hinge and allow the box to click shut to the bottom piece. They will be cantilever beam-style pieces and have a slot on the bottom piece where they will snap into place. 
+For my design I want to make a box that is big enough to enclose all my previous small parts and design from this class to keep the store away as keepsakes and so they don't get lost. They are currently scattered on my desk, and I want them to stay organized and safe from falling off or getting lost. This won't just be a box with a lid that snaps on, though. I want to make two separate snap fits on it. One will be a hinge that will be two different parts, one connected to the lid and one connected to the body of the box. This hinge will have an opening slit on the back side that will hold the other piece in place but will also allow for insertion and the ability to be printed as a separate part. Printing a hinge as one piece isn't possible, to my knowledge, without having to break away material and causing rough surfaces and problems with rotation. The other snap fitment will be hooks that will hang from the lid after attaching the hinge and allow the box to click shut to the bottom piece. They will be cantilever beam-style pieces and will have a slot on the bottom piece where they will snap into place. 
 
 
 ## 3D model (SolidWorks)
@@ -47,7 +47,21 @@ Next, I made an extrude cut on the bottom surface so it would cut all the way th
 
 For the next part, I am going to create divots in the remaining two pieces that will allow for the hinging mechanism. 
 
+<img width="863" height="325" alt="image" src="https://github.com/user-attachments/assets/40a0c339-0fce-4010-a4fc-c16cf878ec62" />
+
+<img width="397" height="285" alt="image" src="https://github.com/user-attachments/assets/47bf2835-9ebe-4941-ab8b-2d04bc8be6eb" />
+
+<img width="438" height="308" alt="image" src="https://github.com/user-attachments/assets/df984fa6-2df1-4e96-b588-61b0d450d6b2" />
+
+<img width="770" height="353" alt="image" src="https://github.com/user-attachments/assets/160a1d52-2fc3-409f-af4a-8d35bbcc5476" />
+
+<img width="313" height="311" alt="image" src="https://github.com/user-attachments/assets/35c0d82c-3992-49a5-b091-fb81120a903a" />
+
+<img width="260" height="275" alt="image" src="https://github.com/user-attachments/assets/16a6ed49-8d28-43ee-8737-9ebe45d5647c" />
+
 Now It's time for the top piece
 
+<img width="417" height="179" alt="image" src="https://github.com/user-attachments/assets/7c5f76ee-2233-4ffb-9923-5cb1d51f1019" />
 
+After putting it into an assembly to test the fitting I dont like how big the rounded extrusings for the hinge look. Resin is not as flexable as 
 ## Communicate
