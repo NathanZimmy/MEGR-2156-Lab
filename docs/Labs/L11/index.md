@@ -26,8 +26,11 @@ I started by making a 5x5x5 inch cube. This will be the bottom body of the box. 
 
 <img width="368" height="301" alt="image" src="https://github.com/user-attachments/assets/0a76ee9b-7388-442d-92c4-06d9cc196533" />
 
-Then I added the first part of the hinge. 
+Then I added the first part of the hinge. I first made and extruded a circle on one side of the box and did a through hole as well, and extruded a cut through the side to open it up, allowing it to be a snap fit for the top piece of the hinge. I was then going to cut the center section of the whole hinge out to allow for rotation when I make the top piece, but I went and spoke to the professor about my idea and some advice for designing hinges, and he gave me a whole new idea that I really like, so I scrapped this idea. 
 
+<img width="357" height="318" alt="image" src="https://github.com/user-attachments/assets/14216545-1f2e-416a-9e9b-bc4aeb6520e6" />
 
+<img width="254" height="320" alt="image" src="https://github.com/user-attachments/assets/bc0c8233-74c5-42dc-a7c9-44b53b2d3271" />
 
+So I kept the initial cylindrical shape I had before, but I deleted the hole and the cut. I did this because this is still the same shape I will be using, but I will be trying a different method to make a hinge. I then added more material under the cylinder using the same sketch as the circle so that when it prints, it won't have a seam there that will likely fail. This also supports the shape a lot more, so the hinge won't break off the side. 
 ## Communicate
