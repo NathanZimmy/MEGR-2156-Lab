@@ -63,5 +63,9 @@ Now It's time for the top piece
 
 <img width="417" height="179" alt="image" src="https://github.com/user-attachments/assets/7c5f76ee-2233-4ffb-9923-5cb1d51f1019" />
 
-After putting it into an assembly to test the fitting I dont like how big the rounded extrusings for the hinge look. Resin is not as flexable as 
+After putting it into an assembly to test the fit, I don't like how big the rounded extrusions for the hinge look. Resin and SLA printing is not as flexible as PLA or PETG when using FDM printing and making snap fits, so I wanted to make sure that it was just enough for the rotation to work without having too much extra material, making it hard to snap into place and risk breaking the product. 
+
+<img width="742" height="293" alt="image" src="https://github.com/user-attachments/assets/659e694b-a00c-40ac-8231-25f0f514b717" />
+
+So, to fix this, I went in and halved the length of the original extrusion to .10 in, and changed the inner divot on the top piece to .15in deep. I left it slightly bigger so there would be some clearance, and I would have to worry about it being too small after the shrinking from the curing process. 
 ## Communicate
