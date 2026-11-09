@@ -67,5 +67,11 @@ After putting it into an assembly to test the fit, I don't like how big the roun
 
 <img width="742" height="293" alt="image" src="https://github.com/user-attachments/assets/659e694b-a00c-40ac-8231-25f0f514b717" />
 
+<img width="538" height="294" alt="image" src="https://github.com/user-attachments/assets/9cc3cd18-8c22-4a93-b1fe-eca9537a3c52" />
+
 So, to fix this, I went in and halved the length of the original extrusion to .10 in, and changed the inner divot on the top piece to .15in deep. I left it slightly bigger so there would be some clearance, and I would have to worry about it being too small after the shrinking from the curing process. 
+
+
+
+
 ## Communicate
