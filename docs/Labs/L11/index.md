@@ -59,11 +59,11 @@ For the next part, I am going to create divots in the remaining two pieces that 
 
 <img width="260" height="275" alt="image" src="https://github.com/user-attachments/assets/16a6ed49-8d28-43ee-8737-9ebe45d5647c" />
 
-Now It's time for the top piece
+Next, I made the lid to attach the hinge to make my snap fit. I started with a 5x5 in base and extruded it to a half-inch thickness. I then 
 
 <img width="417" height="179" alt="image" src="https://github.com/user-attachments/assets/7c5f76ee-2233-4ffb-9923-5cb1d51f1019" />
 
-After putting it into an assembly to test the fit, I don't like how big the rounded extrusions for the hinge look. Resin and SLA printing is not as flexible as PLA or PETG when using FDM printing and making snap fits, so I wanted to make sure that it was just enough for the rotation to work without having too much extra material, making it hard to snap into place and risk breaking the product. 
+After putting it into an assembly to test the fit, I don't like how big the rounded extrusions for the hinge look. Resin and SLA printing is not as flexible as PLA or PETG when using FDM printing and making snap fits, so I wanted to make sure that it was just enough for the rotation to work without having too much extra material, making it hard to snap into place and risk breaking the product. I then made the same shape I did on the base piece for the hinge piece, but instead of cutting it through the middle, I cut the sides off so this would fill in that middle section. I also made the divots in this middle piece to the dimensions, but inverted so that it will allow the right fitment for rotation. 
 
 <img width="742" height="293" alt="image" src="https://github.com/user-attachments/assets/659e694b-a00c-40ac-8231-25f0f514b717" />
 
