@@ -71,7 +71,8 @@ After putting it into an assembly to test the fit, I don't like how big the roun
 
 So, to fix this, I went in and halved the length of the original extrusion to .10 in, and changed the inner divot on the top piece to .15in deep. I left it slightly bigger so there would be some clearance, and I would have to worry about it being too small after the shrinking from the curing process. 
 
+<img width="428" height="283" alt="image" src="https://github.com/user-attachments/assets/52affc68-4214-4089-aec9-eda9c5559484" />
 
-
+After running the design in an assembly and mating the pieces together, I found that the lid actually overlaps onto the body of the box. I have a few ways I could fix this, one being to move the top piece of the hinge down or shrink the lid thickness. 
 
 ## Communicate
