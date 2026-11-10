@@ -75,4 +75,12 @@ So, to fix this, I went in and halved the length of the original extrusion to .1
 
 After running the design in an assembly and mating the pieces together, I found that the lid actually overlaps onto the body of the box. I have a few ways I could fix this, one being to move the top piece of the hinge down or shrink the lid thickness. 
 
+<img width="887" height="311" alt="image" src="https://github.com/user-attachments/assets/fcd08a16-2c46-4b51-83d5-2aa15553a1d0" />
+
+<img width="419" height="352" alt="image" src="https://github.com/user-attachments/assets/2fcbc6dc-d5f2-4d89-9eea-f9ac5b3cead1" />
+
+I decided to do an extrude cut to remove some of the thickness from the lid instead of changing to the original feature because I didn't want to mess up the hinge geometry and where it sat on the lid, since that was the area where the alignment issues were coming from. So after removing some of the thickness and running another assembly everything fit correctly with no interfernece. 
+
+
+
 ## Communicate
