@@ -79,8 +79,10 @@ After running the design in an assembly and mating the pieces together, I found 
 
 <img width="419" height="352" alt="image" src="https://github.com/user-attachments/assets/2fcbc6dc-d5f2-4d89-9eea-f9ac5b3cead1" />
 
-I decided to do an extrude cut to remove some of the thickness from the lid instead of changing to the original feature because I didn't want to mess up the hinge geometry and where it sat on the lid, since that was the area where the alignment issues were coming from. So after removing some of the thickness and running another assembly everything fit correctly with no interfernece. 
+I decided to do an extrude cut to remove some of the thickness from the lid instead of changing to the original feature because I didn't want to mess up the hinge geometry and where it sat on the lid, since that was the area where the alignment issues were coming from. So after removing some of the thickness and running another assembly, everything fit correctly with no interference. 
 
+## Printing
 
+<img width="949" height="438" alt="image" src="https://github.com/user-attachments/assets/6b44eb99-388e-4d8a-a1ad-fe8b70829b97" />
 
-## Communicate
+When loading it into Preform, I learned I actually made it too big, and it couldn't be printed by this machine. I forgot the SLA printers are much smaller than FDM printers and I didn't take into account for finding the max size of the plate. Because of this, I scaled my design all the way down to .25 to make it fit and to save time since I was printing with three other people 
