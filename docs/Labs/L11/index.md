@@ -85,4 +85,8 @@ I decided to do an extrude cut to remove some of the thickness from the lid inst
 
 <img width="949" height="438" alt="image" src="https://github.com/user-attachments/assets/6b44eb99-388e-4d8a-a1ad-fe8b70829b97" />
 
-When loading it into Preform, I learned I actually made it too big, and it couldn't be printed by this machine. I forgot the SLA printers are much smaller than FDM printers and I didn't take into account for finding the max size of the plate. Because of this, I scaled my design all the way down to .25 to make it fit and to save time since I was printing with three other people 
+When loading it into Preform, I learned I actually made it too big, and it couldn't be printed by this machine. I forgot the SLA printers are much smaller than FDM printers and I didn't take into account for finding the max size of the plate. Because of this, I scaled my design all the way down to .25 to make it fit and to save time since I was printing with three other people.
+
+## Lessons Learned
+
+One big thing I learned when doing this assignment is to always do research on the machines you are using before just going for it. We have worked on the machines before, but my last design I made was smaller, so I didn't have to worry about the size issue, whereas this time I made my design my bigger and didn't think if the machine was actually capable of something this size. It was only a 5in by 5in, so in my head I thought that was relatively small, but even still I should have looked into the machine's standards and abilities before assuming it could just do something. 
