@@ -29,12 +29,14 @@ When laser cutting you highly reflected light (laser) burns away material cuttin
 
 ## Problem Identification
 
-One problem I face on often is my garage workbench being a mess with threaded items, bolts and nails after working on stuff around the house or my car. 
+One problem I have noticed is that when working in the garage with my dad, his workbenches are an absolute mess. Specifically, if we are using wood, like when we built the back deck or working on our cars, he often just dumps hardware everywhere. If we need roofing nails or screws for boards, he will just open a pack and dump them everywhere, and they will spill on the floor because he is very impatient and tries to do everything as fast as possible. Him being my dad, I'm always the one who will clean them up. So I was thinking of making some sort of truck or wagon that, when he opens the hardware, he could pour them into the bed of it and it will stay put. Making it able to roll, or into a truck of some sort, makes it fit my dad since he is a huge car person and he's from Pennsylvania, where horse and buggies are a big thing there. 
 
+A problem I have for myself is not enough displays for my Hot Wheels. I have a lot of hot wheels and a lot more i would like to display but can't. I think it would be pretty cool to design something myself like a semi truck with slots on the back or a garage of some sort for them to sit and be displayed. For a truck type display I could use the laser cutter for the body and fenders of the truck to make the shape then FDM printing to make the wheels axles and other more defined parts to make it roll. If i made a garage i could still use the laser cutter for the walls and floor and even be able to paint and decorate on it afterwards and use the SLA printer with a clear resin to make a front window and dividers so you can see through it while keeping it secured. 
 
+Another problem I could try and solve is 
 ### Problem selection 
 
-Wagon for organizing nut bolts screws
+
 
 ## Part 1 Sources
 
