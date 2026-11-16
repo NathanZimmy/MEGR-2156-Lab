@@ -3,7 +3,7 @@
 
 ## Objectives
 
-For thi assignment we are going to use the spiral design process to start and prototype our final project. We are to have a product prototyped and a physical artifact made ready to present to the class using 2 of the three machines we learned this semester (SLA, FDM, Laser Cutter). 
+For this assignment we are going to use the spiral design process to start and prototype our final project. We are to have a product prototyped, and a physical artifact made ready to present to the class using 2 of the three machines we learned this semester (SLA, FDM, Laser Cutter). We are to decide a problem that yourself, a friend, or family member faces and try to solve it using this process and machines. 
 
 ## Research
 ### Spiral Design process
@@ -34,9 +34,27 @@ One problem I have noticed is that when working in the garage with my dad, his w
 A problem I have for myself is not enough displays for my Hot Wheels. I have a lot of hot wheels and a lot more i would like to display but can't. I think it would be pretty cool to design something myself like a semi truck with slots on the back or a garage of some sort for them to sit and be displayed. For a truck type display I could use the laser cutter for the body and fenders of the truck to make the shape then FDM printing to make the wheels axles and other more defined parts to make it roll. If i made a garage i could still use the laser cutter for the walls and floor and even be able to paint and decorate on it afterwards and use the SLA printer with a clear resin to make a front window and dividers so you can see through it while keeping it secured. 
 
 Another problem I could try and solve is 
+
 ### Problem selection 
 
 
+## Pre-design Planning and Research
+
+Since I want to make a display for hot wheels car I need to know the average size of a car. 
+
+
+## CAD and Sketches
+### Laser Cutting
+
+<img width="907" height="367" alt="image" src="https://github.com/user-attachments/assets/c1acfb23-77ff-4684-9c96-6a98dbbdf8f4" />
+
+<img width="671" height="254" alt="image" src="https://github.com/user-attachments/assets/dacbff25-2bbc-4dfa-bec9-e9f2e9e0b606" />
+
+I started with the bottom/ bed of the truck bed making a 1.5in by 10in rectangle. I made it this size because I want it to be able to hold 3 cars. I then made slots small rectangles that will act as the press fits for the walls of the bed to go into. I made the slots .114 by .25 this was to account for the kerf. I used the kerf value I previously measured in another assignment which was .007in. I also made tabs that stick out on the sides for the tailgate and smaller wall. 
+
+<img width="689" height="256" alt="image" src="https://github.com/user-attachments/assets/ff58d359-5ff1-448e-9a73-25932b52c674" />
+
+I then made the side panels of the bed basing the dimensions off the bottom of the bed. I will make two of these one for each side. 
 
 ## Part 1 Sources
 
