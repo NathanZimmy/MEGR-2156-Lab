@@ -1,12 +1,19 @@
-# Final Project – [Topic]
+# Final Project 
+# Part 1 Prototype
 
 ## Objectives
 
 
-## Problem to Solve
+
+## Research
+### Spiral Design process
 
 
-## Part 1
+
+
+## Problem Identificaton
+
+
 
 
 ## Part 2
