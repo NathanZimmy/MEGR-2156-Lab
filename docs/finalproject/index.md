@@ -56,6 +56,11 @@ I started with the bottom/ bed of the truck bed making a 1.5in by 10in rectangle
 
 I then made the side panels of the bed basing the dimensions off the bottom of the bed. I will make two of these one for each side. 
 
+<img width="583" height="281" alt="image" src="https://github.com/user-attachments/assets/d88e160b-b5d1-4082-9e7c-546ed5f95b1d" />
+
+The last part of the bed I needed to make were the front and the tailgate piece. The tailgate in the prototype will not open but I am going to try to make a hinge mechanism to open it in the final product.
+
+
 ## Part 1 Sources
 
 Spiral Design Process- https://teachingagile.com/sdlc/models/spiral
