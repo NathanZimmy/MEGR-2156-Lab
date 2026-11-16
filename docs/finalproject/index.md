@@ -24,10 +24,15 @@ When printing with resin or SLA, there is shrinkage that can happen after the cu
 
 ### Laser Cutting Kerf
 
-When laser cutting you highly reflected light (laser) burns away material cutting out shaped and engraving patterns you designed for. But since its fire more material is burned away then what you set the dimension to. This is called kerf. Kerf can depend on multiple factors including material (wood, plastic, acrylic), material thickness, and laser speed. I can account for this when making my product by doing test cuts and fits and measuring the size of the dimensions and comparing those to my models dimensions then adjusting my model based on the kerf ammount. 
+When laser cutting you highly reflected light (laser) burns away material cutting out shaped and engraving patterns you designed for. But since its fire more material is burned away then what you set the dimension to. This is called kerf. This could cause fitments to be too loose by removing too much martial. Kerf can depend on multiple factors including material (wood, plastic, acrylic), material thickness, and laser speed. I can account for this when making my product by doing test cuts and fits and measuring the size of the dimensions and comparing those to my models dimensions then adjusting my model based on the kerf amount. 
 
 
 ## Problem Identification
+
+One problem I face on often is my garage workbench being a mess with threaded items, bolts and nails after working on stuff around the house or my car. 
+
+
+### Problem selection 
 
 Wagon for organizing nut bolts screws
 
