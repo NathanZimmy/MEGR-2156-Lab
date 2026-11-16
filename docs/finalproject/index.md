@@ -60,6 +60,12 @@ I then made the side panels of the bed basing the dimensions off the bottom of t
 
 The last part of the bed I needed to make were the front and the tailgate piece. The tailgate in the prototype will not open but I am going to try to make a hinge mechanism to open it in the final product.
 
+<img width="270" height="356" alt="image" src="https://github.com/user-attachments/assets/e3b58126-3ddc-4d81-ae39-5f492a547592" />
+
+<img width="829" height="313" alt="image" src="https://github.com/user-attachments/assets/1129b5e1-f66f-4315-a2ca-4260cc0c0c50" />
+
+
+
 
 ## Part 1 Sources
 
