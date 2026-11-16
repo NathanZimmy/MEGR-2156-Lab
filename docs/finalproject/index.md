@@ -16,18 +16,22 @@ I can use this process throughout my project by identifying which real world pro
 
 ### FDM Anisotropic
 
-Anisotropic means for a material to have a different value when measure in different directions such as wood is stronger along its grain than perpendicular to the grain. Fused Deposition Modeling (FDM) is a form of 3D printing that can cause this to happen. This is because FDM prints in layers creating layer lines similar to a wood grain. The print depending on how the layering is may be stronger against a force in one direction versus another. This is why print orientation matters. print orientation allows you to decide which way you want the layer lines to be printed to you can have them facing the direction of which the force is going. Different materials also may affect this. Some materials are more flexible or stiff than others. 
+Anisotropic means for a material to have a different value when measure in different directions such as wood is stronger along its grain than perpendicular to the grain. Fused Deposition Modeling (FDM) is a form of 3D printing that can cause this to happen. This is because FDM prints in layers creating layer lines similar to a wood grain. The print depending on how the layering is may be stronger against a force in one direction versus another. This is why print orientation matters. print orientation allows you to decide which way you want the layer lines to be printed to you can have them facing the direction of which the force is going. Different materials also may affect this. Some materials are more flexible or stiff than others. Knowing these I will have to take into account what forces are acting on my design and the direction it will be facing and correlate that to how I am going to print it and which material I will use. 
 
 ### SLA Shrinkage
 
+When printing with resin or SLA, there is shrinkage that can happen after the curing stage. This can slightly adjust dimensions and  the fitments you initially designed for. This shrinkage depends on the size of your dimensions and the material used as there is no set percentage of shrinkage. Form labs however does list the typical range of shrinkage in its machines. Typical Form 4 XY dimensional tolerances of ±0.15% for features measuring 1–30 mm, ±0.2% for 31–80 mm, and ±0.3% for 81–150 mm, subject to minimum absolute tolerances. This could affect my design if not taken into account because if I design slot fits, sliding, or snap fits they may not work after shrinking or be the size I want. When prototyping I can measure how my dimensions come out versus what I initially design for and use that to adjust the value for a final product. 
 
- 
+### Laser Cutting Kerf
+
 ## Problem Identification
 
 Wagon for organizing nut bolts screws
 
 ## Part 1 Sources
 
-https://teachingagile.com/sdlc/models/spiral
+Spiral Design Process- https://teachingagile.com/sdlc/models/spiral
+
+Form labs shrinkage percentages- https://formlabs.com/global/3d-printers/resin/tech-specs/?
 
 # Part 2 Final Product
