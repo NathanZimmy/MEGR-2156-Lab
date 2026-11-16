@@ -3,7 +3,7 @@
 
 ## Objectives
 
-
+For thi assignment we are going to use the spiral design process to start and prototype our final project. We are to have a product prototyped and a physical artifact made ready to present to the class using 2 of the three machines we learned this semester (SLA, FDM, Laser Cutter). 
 
 ## Research
 ### Spiral Design process
