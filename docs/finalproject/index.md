@@ -64,6 +64,12 @@ The last part of the bed I needed to make were the front and the tailgate piece.
 
 <img width="829" height="313" alt="image" src="https://github.com/user-attachments/assets/1129b5e1-f66f-4315-a2ca-4260cc0c0c50" />
 
+Here are the settings and cut time for my pieces. 
+
+<img width="219" height="242" alt="image" src="https://github.com/user-attachments/assets/09e8b3eb-a2dc-4909-bfc8-446914075047" />
+
+<img width="215" height="207" alt="image" src="https://github.com/user-attachments/assets/ba0b2e3c-c8e2-4b53-ab5c-bc3b6ff5d5ab" />
+
 ## 3D Printing (Frame, Axels, Wheels)
 
 <img width="623" height="202" alt="image" src="https://github.com/user-attachments/assets/5f68a1a0-985a-4741-baff-be58e3f5ec7a" />
