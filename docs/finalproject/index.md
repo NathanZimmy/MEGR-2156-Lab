@@ -70,7 +70,7 @@ The last part of the bed I needed to make were the front and the tailgate piece.
 
 <img width="396" height="254" alt="image" src="https://github.com/user-attachments/assets/c8f68ad1-5bff-405a-925d-4c3beab3d304" />
 
-Frame
+I made the frame based off the dimensions of the woodcut. This frame is going to be glued to the bottom of the woodcut pieces. 
 
 <img width="621" height="320" alt="image" src="https://github.com/user-attachments/assets/7f793d19-9214-4f1d-97fc-26785d77d473" />
 
@@ -80,7 +80,7 @@ Here I mad the axels by extruding a circle to a length of 2in. This will give me
 
 <img width="350" height="343" alt="image" src="https://github.com/user-attachments/assets/00a46add-0c46-405e-84d5-8eab430d07ff" />
 
-
+Lastly i made the wheels. I used a caliper to estimate the height I wanted to make the wheels by just using my eyes and estimating from the woodcut parts and .75in looked good. I then made a hole in the middle of .12in diameter. This will be where the axels fit in and it is supposed to be a press fit with little give. 
 
 ## Part 1 Sources
 
