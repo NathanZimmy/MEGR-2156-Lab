@@ -70,7 +70,12 @@ The last part of the bed I needed to make were the front and the tailgate piece.
 
 <img width="396" height="254" alt="image" src="https://github.com/user-attachments/assets/c8f68ad1-5bff-405a-925d-4c3beab3d304" />
 
-I made the frame based off the dimensions of the woodcut. This frame is going to be glued to the bottom of the woodcut pieces. 
+<img width="824" height="370" alt="image" src="https://github.com/user-attachments/assets/12cf7474-3dac-487b-98e3-52b44cf804e3" />
+
+<img width="143" height="236" alt="image" src="https://github.com/user-attachments/assets/632caf6a-0871-4358-a800-47519007b5b2" />
+
+I made the frame based off the dimensions of the woodcut. This frame is going to be glued to the bottom of the woodcut pieces. I also made a hitch attachment so that I can have a way of connecting the cab to the trailer bed.
+
 
 <img width="621" height="320" alt="image" src="https://github.com/user-attachments/assets/7f793d19-9214-4f1d-97fc-26785d77d473" />
 
