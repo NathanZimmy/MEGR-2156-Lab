@@ -113,6 +113,7 @@ I had to rotate the frame body diagonally so it would it on the plater. I kept t
 
 <img width="326" height="244" alt="{D6843A1B-5BC8-445A-A6FF-FE19FD466DC8}" src="https://github.com/user-attachments/assets/f821d54f-df59-485d-bb01-199255a58077" />
 
+<img width="800" height="1422" alt="ezgif com-optimize (1)" src="https://github.com/user-attachments/assets/4adc892e-0133-409b-9429-611e8fe40bc5" />
 
 During my first print the printer accidentally knocked the axels over and caused them to fail which also let so extra material getting deposited on the frame. While it looked ugly I was able to scrap off all the hanging material and the frame still came out relatively fine. 
 
