@@ -105,6 +105,17 @@ I had to rotate the frame body diagonally so it would it on the plater. I kept t
 ### Printing
 
 
+<img width="331" height="330" alt="{EA6DA8FD-B8BA-4A93-8DC3-AF1A2A62BB6C}" src="https://github.com/user-attachments/assets/57f36c30-3cbb-415c-81e6-2ef19d5e9fb2" />
+
+
+<img width="329" height="335" alt="{6C27BEE8-4487-4684-8ACB-E60AA4438CCE}" src="https://github.com/user-attachments/assets/bf4688c9-9194-45d7-ba79-9da2aff00df2" />
+
+
+<img width="326" height="244" alt="{D6843A1B-5BC8-445A-A6FF-FE19FD466DC8}" src="https://github.com/user-attachments/assets/f821d54f-df59-485d-bb01-199255a58077" />
+
+
+During my first print the printer accidentally knocked the axels over and caused them to fail which also let so extra material getting deposited on the frame. While it looked ugly I was able to scrap off all the hanging material and the frame still came out relatively fine. 
+
 ## Part 1 Sources
 
 Spiral Design Process- https://teachingagile.com/sdlc/models/spiral
