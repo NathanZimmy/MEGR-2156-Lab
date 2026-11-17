@@ -87,6 +87,15 @@ Here I mad the axels by extruding a circle to a length of 2in. This will give me
 
 Lastly i made the wheels. I used a caliper to estimate the height I wanted to make the wheels by just using my eyes and estimating from the woodcut parts and .75in looked good. I then made a hole in the middle of .12in diameter. This will be where the axels fit in and it is supposed to be a press fit with little give. 
 
+### Prusa Slicer
+
+<img width="959" height="446" alt="image" src="https://github.com/user-attachments/assets/91c94acf-2b89-4b86-96d0-b746136034ac" />
+
+I had to rotate the frame body diagonally so it would it on the plater. I kept the infill at 15% because none of these pieces will be undergoing much external forces. I did have to use organic supports on the hitch part but I oriented everything else so it would'nt require supports. 
+
+### Printing
+
+
 ## Part 1 Sources
 
 Spiral Design Process- https://teachingagile.com/sdlc/models/spiral
