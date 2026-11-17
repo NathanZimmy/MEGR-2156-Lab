@@ -43,7 +43,7 @@ Another problem I could try and solve is
 Since I want to make a display for hot wheels car I need to know the average size of a car. 
 
 
-## CAD and Sketches
+## Engineering Work
 ### Laser Cutting
 
 <img width="907" height="367" alt="image" src="https://github.com/user-attachments/assets/c1acfb23-77ff-4684-9c96-6a98dbbdf8f4" />
@@ -70,7 +70,10 @@ Here are the settings and cut time for my pieces.
 
 <img width="215" height="207" alt="image" src="https://github.com/user-attachments/assets/ba0b2e3c-c8e2-4b53-ab5c-bc3b6ff5d5ab" />
 
-## 3D Printing (Frame, Axels, Wheels)
+<img width="400" height="711" alt="IMG_2019-ezgif com-resize" src="https://github.com/user-attachments/assets/a8621bdb-9c15-4274-87df-1a7e222e3a6f" />
+
+
+### 3D Printing (Frame, Axels, Wheels)
 
 <img width="623" height="202" alt="image" src="https://github.com/user-attachments/assets/5f68a1a0-985a-4741-baff-be58e3f5ec7a" />
 
