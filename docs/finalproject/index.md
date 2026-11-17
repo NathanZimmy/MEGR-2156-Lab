@@ -37,7 +37,7 @@ Another problem I could try and solve is
 
 ### Problem selection 
 
-
+# Prototype 1
 ## Pre-design Planning and Research
 
 Since I want to make a display for hot wheels car I need to know the average size of a car. 
@@ -64,6 +64,21 @@ The last part of the bed I needed to make were the front and the tailgate piece.
 
 <img width="829" height="313" alt="image" src="https://github.com/user-attachments/assets/1129b5e1-f66f-4315-a2ca-4260cc0c0c50" />
 
+## 3D Printing (Frame, Axels, Wheels)
+
+<img width="623" height="202" alt="image" src="https://github.com/user-attachments/assets/5f68a1a0-985a-4741-baff-be58e3f5ec7a" />
+
+<img width="396" height="254" alt="image" src="https://github.com/user-attachments/assets/c8f68ad1-5bff-405a-925d-4c3beab3d304" />
+
+Frame
+
+<img width="621" height="320" alt="image" src="https://github.com/user-attachments/assets/7f793d19-9214-4f1d-97fc-26785d77d473" />
+
+Here I mad the axels by extruding a circle to a length of 2in. This will give me room to have the tires be .25in thick and stick off the sides of the frame. The diameter of the axle is .1in which is .05in less than the whole on the frame. this will give it enough clearance to spin freely. 
+
+<img width="754" height="352" alt="image" src="https://github.com/user-attachments/assets/e5e42e22-4925-476c-83c6-e6c669fe564f" />
+
+<img width="350" height="343" alt="image" src="https://github.com/user-attachments/assets/00a46add-0c46-405e-84d5-8eab430d07ff" />
 
 
 
