@@ -117,6 +117,24 @@ I had to rotate the frame body diagonally so it would it on the plater. I kept t
 
 During my first print the printer accidentally knocked the axels over and caused them to fail which also let so extra material getting deposited on the frame. While it looked ugly I was able to scrap off all the hanging material and the frame still came out relatively fine. 
 
+
+<img width="574" height="421" alt="{02D9D808-79E1-4F46-ADB4-74C0CA9E8DEF}" src="https://github.com/user-attachments/assets/07d9b678-4e5a-42d1-8bda-bfdf52c465b4" />
+
+
+<img width="327" height="430" alt="{E275C8DD-3E2E-4D4C-A99B-AFD3138CA68A}" src="https://github.com/user-attachments/assets/4080ae1a-dc33-4492-803f-9a9c0351bc2f" />
+
+Reprinting the axels was very quick though since there are small and it only took about 5 minutes. I did reorient them laying down instead of standing tall. 
+
+
+<img width="322" height="303" alt="{9959795B-D697-4559-901C-5E5960F3856D}" src="https://github.com/user-attachments/assets/1967e9d7-74c5-4d53-9f0e-cf82c0b86348" />
+
+<img width="316" height="359" alt="image" src="https://github.com/user-attachments/assets/2679f892-6002-4b6d-91b7-ba3463957de9" />
+
+<img width="320" height="218" alt="{0DD8825A-8C96-4AB2-94A9-8AE8E88E82C5}" src="https://github.com/user-attachments/assets/b6f24715-1334-4313-ad40-d6a2d591f038" />
+
+Here is the flat bed finished prototype. I have a lot of issues that need to be fixed such as the laser cutting fitment isn't quiet as tight as I'd prefer and the back and front plates keep falling off. I also have to reprint the frame and axels again because the failure went deeper than i thought and it added material into the holes where the axels go. The axels can still roll and spin but i had to force oe of them into place and it cause some deviation on the end of the axle and now one of the wheels isn't as tight of a fit because the axel is too small, but the rest of the wheels fit and roll prefectly. 
+
+  
 ## Part 1 Sources
 
 Spiral Design Process- https://teachingagile.com/sdlc/models/spiral
