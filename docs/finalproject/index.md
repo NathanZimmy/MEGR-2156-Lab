@@ -177,6 +177,15 @@ Here is the finished frame for the flatbed.
 
 ### Tailgate Hinge
 
+<img width="1451" height="830" alt="image" src="https://github.com/user-attachments/assets/7f81c8e7-705c-4f27-a63e-acee9a755767" />
+
+For the tailgate I started with a simple extruded rectangle matching the dimensions of the frame. I made the thickness .12in because the wood i am using for the rest of the wall is 3mm and that converts to .118inch or rounded to .12in. 
+
+<img width="1368" height="753" alt="image" src="https://github.com/user-attachments/assets/c10c45a9-db06-454a-a503-e60bbdf93700" />
+
+I then added a wedge shape to the end to make it a ramp and smoothed the edge off of the two connecting shapes with a fillet. I made the fillet .2in and the ramp wasn't a length but the acute angle at the very end is set to 20 degrees so there is enough slope for the cars to roll without hitting the bumper. 
+
+
 ### Prints
 
 <img width="2559" height="1309" alt="image" src="https://github.com/user-attachments/assets/85ea3603-b933-47c4-9759-53b19eef376f" />
