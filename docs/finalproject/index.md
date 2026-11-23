@@ -162,6 +162,14 @@ I started with the same frame I built previously and I'm going to edit this file
 
 <img width="975" height="600" alt="image" src="https://github.com/user-attachments/assets/1de74348-d199-4f05-a290-5331770ae91d" />
 
-First I added holes or another hotch type shape for the chains I will make on the cab to hook into. 
+First I added holes or another hotch type shape for the chains I will make on the cab to hook into. I made a few simple extrusions and extrude cuts to make the holes in the pieces sticking out for the chains to go into then I mirrored the hole and the fillets I added to make it more round about a center plane. I had to manual add in the plane to make it easier and faster than dimensioning another whole. 
 
-I made a few simple extrusions and extrude cuts to make the holes in the pieces sticking out for the chains to go into then I mirrored the hole and the fillets I added to make it more round about a center plane. I had to manual add in the plane to make it easier and faster than dimensioning another whole. 
+<img width="2133" height="894" alt="image" src="https://github.com/user-attachments/assets/97319a3d-8fd5-4c07-adbf-5f25bdbaf5e0" />
+
+<img width="1205" height="1009" alt="image" src="https://github.com/user-attachments/assets/6bed73a1-d22d-4ccc-87d1-fbd364ec8b67" />
+
+Next I wanted to add the hinge on the bad for the tailgate to make a ramp for the car to be able to roll up on. I made two side parts that will have the indention for the hinge to snap into. I made them with a diameter of .15 in and then fillet the inside with a radius of .05 in to make it rounded
+
+<img width="1509" height="679" alt="image" src="https://github.com/user-attachments/assets/d8b9a925-200f-4c85-9a14-83507bc15668" />
+
+Here is the finished frame for the flatbed. 
