@@ -88,13 +88,13 @@ I made the frame based off the dimensions of the woodcut. This frame is going to
 
 <img width="621" height="320" alt="image" src="https://github.com/user-attachments/assets/7f793d19-9214-4f1d-97fc-26785d77d473" />
 
-Here I mad the axels by extruding a circle to a length of 2in. This will give me room to have the tires be .25in thick and stick off the sides of the frame. The diameter of the axle is .1in which is .05in less than the whole on the frame. this will give it enough clearance to spin freely. 
+Here I made the axels by extruding a circle to a length of 2in. This will give me room to have the tires be .25in thick and stick off the sides of the frame. The diameter of the axle is .1in which is .05in less than the whole on the frame. this will give it enough clearance to spin freely. 
 
 <img width="754" height="352" alt="image" src="https://github.com/user-attachments/assets/e5e42e22-4925-476c-83c6-e6c669fe564f" />
 
 <img width="350" height="343" alt="image" src="https://github.com/user-attachments/assets/00a46add-0c46-405e-84d5-8eab430d07ff" />
 
-Lastly i made the wheels. I used a caliper to estimate the height I wanted to make the wheels by just using my eyes and estimating from the woodcut parts and .75in looked good. I then made a hole in the middle of .12in diameter. This will be where the axels fit in and it is supposed to be a press fit with little give. 
+Lastly I made the wheels. I used a caliper to estimate the height I wanted to make the wheels by just using my eyes and estimating from the woodcut parts and .75in looked good. I then made a hole in the middle of .12in diameter. This will be where the axels fit in and it is supposed to be a press fit with little give. 
 
 ### Prusa Slicer
 
@@ -152,3 +152,16 @@ To improve on my first prototype I have a few things I want to do. First I want 
 
 ## Prototype 2
 
+<img width="1746" height="648" alt="image" src="https://github.com/user-attachments/assets/24fea086-75cd-4d92-994b-ebf436e3292e" />
+
+I started with the same frame I built previously and I'm going to edit this file and add on the new additions that I want. 
+
+<img width="1650" height="371" alt="image" src="https://github.com/user-attachments/assets/c9dd1803-8bb7-4aba-845b-1864ed047896" />
+
+<img width="1489" height="694" alt="image" src="https://github.com/user-attachments/assets/7fb3e47a-57e4-4932-9373-d0acb0a01fd6" />
+
+<img width="975" height="600" alt="image" src="https://github.com/user-attachments/assets/1de74348-d199-4f05-a290-5331770ae91d" />
+
+First I added holes or another hotch type shape for the chains I will make on the cab to hook into. 
+
+I made a few simple extrusions and extrude cuts to make the holes in the pieces sticking out for the chains to go into then I mirrored the hole and the fillets I added to make it more round about a center plane. I had to manual add in the plane to make it easier and faster than dimensioning another whole. 
