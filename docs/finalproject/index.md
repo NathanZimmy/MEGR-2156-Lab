@@ -185,7 +185,33 @@ For the tailgate I started with a simple extruded rectangle matching the dimensi
 
 I then added a wedge shape to the end to make it a ramp and smoothed the edge off of the two connecting shapes with a fillet. I made the fillet .2in and the ramp wasn't a length but the acute angle at the very end is set to 20 degrees so there is enough slope for the cars to roll without hitting the bumper. 
 
+<img width="1154" height="819" alt="image" src="https://github.com/user-attachments/assets/c44736df-df66-4c70-a390-61816a0fa164" />
+
+<img width="1434" height="629" alt="image" src="https://github.com/user-attachments/assets/243fa734-31eb-4612-8b2c-8ab55cd5b9ab" />
+
+I then created the hinge piece on the back of the ram matching it dimensions to fit in the middle of the two pieces I made on the frame. I also added fillets to the end of the piece to make it round in case there was any rubbing between the frame and the tailgate for when the ramp is folded up. I set all the radius of the edge and the two rounded extrusions that snap it into place to .05in. 
+
+<img width="1536" height="851" alt="image" src="https://github.com/user-attachments/assets/33c037b5-d94a-4961-9e7f-519d94c46320" />
+
+<img width="1319" height="538" alt="image" src="https://github.com/user-attachments/assets/a3608a1a-e19b-4a40-a1af-28dad466cabb" />
+
+<img width="599" height="596" alt="image" src="https://github.com/user-attachments/assets/0cdaabc4-ef01-40d3-b794-7f9e04230468" />
+
+<img width="1427" height="967" alt="image" src="https://github.com/user-attachments/assets/636ce744-f990-4889-a1c2-fc873de0c6eb" />
+
+<img width="841" height="484" alt="image" src="https://github.com/user-attachments/assets/e0575e93-7eb8-432d-abc1-58a095c996f3" />
+
+<img width="467" height="283" alt="image" src="https://github.com/user-attachments/assets/e43a4c9f-22c2-4d32-95e8-8829a023788e" />
+
+After running it in an assembly I found that I made the piece too small and it wouldn't properly fit in the hinge attached to the frame. So I went back and changed the length of the hinge attached to the tailgate ramp. I made it .28in long because the gap is .3in long and I want there to be a little loose clearance so the piece can fit in properly while rotating with no friction. I also had some issues with the pieces when rotating would have to go inside each other which is not possible. so to fix that I started by making the hinge piece on tailgate extrusion longer to .3in. I then instead of filleting the extra material at the edge after the rounded extrusions, I simply cut the material off. 
+
+<img width="911" height="1005" alt="image" src="https://github.com/user-attachments/assets/d478950d-c9b8-43bd-9bc5-11db560a6623" />
+
+Now everything fits smoothly in the assembly. 
 
 ### Prints
 
 <img width="2559" height="1309" alt="image" src="https://github.com/user-attachments/assets/85ea3603-b933-47c4-9759-53b19eef376f" />
+
+## CAD FIles
+[Flatbed final.zip](https://github.com/user-attachments/files/35295975/Flatbed.final.zip)
