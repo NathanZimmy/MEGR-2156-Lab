@@ -146,5 +146,7 @@ Form labs shrinkage percentages- https://formlabs.com/global/3d-printers/resin/t
 
 [CamScanner 11-23-26 11.07.pdf](https://github.com/user-attachments/files/35285627/CamScanner.11-23-26.11.07.pdf)
 
+## Refinement Ideas
 
+To improve on my first prototype I have a few things I want to do. First I want to remove the slotted firmaments on the laser cut pieces and use glue to put the pieces together. At first I didn't realize I could glue on any piece and I think it would much easier and strong to glue the walls of the bed and cab together and it will also have a much smoother look and save space since I don't have to leave space on the edges of the bed so the laser cuter doesn't cut too far off the edge making it an open hole and not a slot. This will also in return make the bed larger for wider cars to fit. Second I want to add a hinge mechanism on the end of the FDM fram of the bed to make a ramp for the cars to be able to roll up on and be more realistic. I also want to add treads and texture to the wheels to add some design details. lastly I want to add chains on the back of the cab that can connect to the bed simiallry to the hitch because the flatbed I have used had chains that attached beisde the hitch and I think it would be a cool detail to add. 
 
