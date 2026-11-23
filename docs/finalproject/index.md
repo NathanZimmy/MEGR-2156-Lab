@@ -209,9 +209,13 @@ After running it in an assembly I found that I made the piece too small and it w
 
 Now everything fits smoothly in the assembly. 
 
-### Prints
+### Printing and Slicing
 
 <img width="2559" height="1309" alt="image" src="https://github.com/user-attachments/assets/85ea3603-b933-47c4-9759-53b19eef376f" />
+
+<img width="2559" height="1302" alt="image" src="https://github.com/user-attachments/assets/019c1d33-0f0c-421c-9582-e6e84aa2a3ec" />
+
+<img width="800" height="1422" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/2d1f5e0e-f2d8-4c00-beba-7f22a6652de5" />
 
 ## CAD FIles
 [Flatbed final.zip](https://github.com/user-attachments/files/35295975/Flatbed.final.zip)
