@@ -151,6 +151,7 @@ Form labs shrinkage percentages- https://formlabs.com/global/3d-printers/resin/t
 To improve on my first prototype I have a few things I want to do. First I want to remove the slotted firmaments on the laser cut pieces and use glue to put the pieces together. At first I didn't realize I could glue on any piece and I think it would much easier and strong to glue the walls of the bed and cab together and it will also have a much smoother look and save space since I don't have to leave space on the edges of the bed so the laser cuter doesn't cut too far off the edge making it an open hole and not a slot. This will also in return make the bed larger for wider cars to fit. Second I want to add a hinge mechanism on the end of the FDM fram of the bed to make a ramp for the cars to be able to roll up on and be more realistic. I also want to add treads and texture to the wheels to add some design details. lastly I want to add chains on the back of the cab that can connect to the bed simiallry to the hitch because the flatbed I have used had chains that attached beisde the hitch and I think it would be a cool detail to add. 
 
 ## Prototype 2
+### Flatbed Frame
 
 <img width="1746" height="648" alt="image" src="https://github.com/user-attachments/assets/24fea086-75cd-4d92-994b-ebf436e3292e" />
 
@@ -173,3 +174,9 @@ Next I wanted to add the hinge on the bad for the tailgate to make a ramp for th
 <img width="1509" height="679" alt="image" src="https://github.com/user-attachments/assets/d8b9a925-200f-4c85-9a14-83507bc15668" />
 
 Here is the finished frame for the flatbed. 
+
+### Tailgate Hinge
+
+### Prints
+
+<img width="2559" height="1309" alt="image" src="https://github.com/user-attachments/assets/85ea3603-b933-47c4-9759-53b19eef376f" />
