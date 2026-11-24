@@ -227,6 +227,7 @@ I started the cab frame by making a 1.5in wide by 4in long by .2in thick base. T
 
 <img width="1067" height="663" alt="image" src="https://github.com/user-attachments/assets/7d634296-c378-4e0c-b791-2990eeef811f" />
 
+<img width="1360" height="432" alt="image" src="https://github.com/user-attachments/assets/cab0b756-37be-46b9-9fcd-04d11a80e856" />
 
 
 Next I made the hitch piece by extruding a rectangle to .5in with matching width and thickness of the ball hitch on the flatbed. I made it a little longer however to give it clearance for turning so the bed wont hit the corners of the cab. I then cut a hole in the middle and added fillets to the edged so it could slide over top the hitch on the flatbed connecting the two pieces. I made the hoe diameter .24in which is .04in larger than the trailer so it would be a clean loose sliding fit that could rotate around. I then  added holes all the way through the side for the axels to go into.
@@ -255,8 +256,11 @@ The tailgate took about 20 minutes to print adding up the multiple times I had t
 
 The cab frame took about 15 minutes to print the first time without the chains and no support needed. 
 
-<img width="800" height="1422" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/2d1f5e0e-f2d8-4c00-beba-7f22a6652de5" />
+<img width="2558" height="1311" alt="image" src="https://github.com/user-attachments/assets/eabc1dea-992f-43cd-86ff-b9ed923a7df8" />
 
+The second time to print with the wheel holes and no chains along with the axels and wheels was about an hour. 
+
+<img width="800" height="1422" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/2d1f5e0e-f2d8-4c00-beba-7f22a6652de5" />
 
 
 ## CAD FIles
