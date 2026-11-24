@@ -225,16 +225,37 @@ I started the cab frame by making a 1.5in wide by 4in long by .2in thick base. T
 
 <img width="431" height="608" alt="image" src="https://github.com/user-attachments/assets/e0de4455-6438-415a-8854-d24e05e2e0b6" />
 
+<img width="1067" height="663" alt="image" src="https://github.com/user-attachments/assets/7d634296-c378-4e0c-b791-2990eeef811f" />
+
 Next I made the hitch piece by extruding a rectangle to .5in with matching width and thickness of the ball hitch on the flatbed. I made it a little longer however to give it clearance for turning so the bed wont hit the corners of the cab. I then cut a hole in the middle and added fillets to the edged so it could slide over top the hitch on the flatbed connecting the two pieces. I made the hoe diameter .24in which is .04in larger than the trailer so it would be a clean loose sliding fit that could rotate around. 
 
+<img width="1350" height="846" alt="image" src="https://github.com/user-attachments/assets/d8310cf9-81d8-413c-b7a6-23be55d0bd06" />
+
+<img width="620" height="276" alt="image" src="https://github.com/user-attachments/assets/be15377d-713f-4d83-bbe7-1078b190c13d" />
+
+<img width="763" height="500" alt="image" src="https://github.com/user-attachments/assets/9be82002-7990-4184-b9e6-d235d683ccc7" />
+
+<img width="650" height="660" alt="image" src="https://github.com/user-attachments/assets/3a57a016-15b3-4f93-8fcf-0d96c378962c" />
+
+Lastly I am going to make the chains that will hold into the tailgate for added details. I started by adding a reference plane in the middle so I could extruded them easily and in the middle of the base. I used a sweep feature along with the straight slot sketch feature to create a chain link and set the dimensions to what i thought looked best. Ive never done this so I didn't have much knowledge on fitments going into it. However after seeing the fitment and size these chains would have to be i am going to scrap this idea because I cant print something that small that wont break after taking it off the plate. 
 
 ### Printing and Slicing
 
 <img width="2559" height="1309" alt="image" src="https://github.com/user-attachments/assets/85ea3603-b933-47c4-9759-53b19eef376f" />
 
+The flatbed frame too about an hour a 20 to print. I used organic auto generated supports.
+
 <img width="2559" height="1302" alt="image" src="https://github.com/user-attachments/assets/019c1d33-0f0c-421c-9582-e6e84aa2a3ec" />
 
+The tailgate took about 20 minutes to print adding up the multiple times I had to print it. 
+
+<img width="2540" height="1308" alt="image" src="https://github.com/user-attachments/assets/26e27c97-0a96-49b0-afdf-f6083d1e7134" />
+
+The cab frame took about 15 minutes to print the first time without the chains and no support needed. 
+
 <img width="800" height="1422" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/2d1f5e0e-f2d8-4c00-beba-7f22a6652de5" />
+
+
 
 ## CAD FIles
 [Flatbed final.zip](https://github.com/user-attachments/files/35295975/Flatbed.final.zip)
