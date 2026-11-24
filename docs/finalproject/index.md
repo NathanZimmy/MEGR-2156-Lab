@@ -209,6 +209,25 @@ After running it in an assembly I found that I made the piece too small and it w
 
 Now everything fits smoothly in the assembly. 
 
+<img width="1618" height="787" alt="image" src="https://github.com/user-attachments/assets/e56f6d99-14af-41de-bc20-c7b692ff1fbf" />
+
+However after printing I found that the tailgate hinge was too big to fit into the flatbed piece so I had to resize it down to .25in long  and print again.
+
+### Cab Frame
+
+<img width="1437" height="728" alt="image" src="https://github.com/user-attachments/assets/99e6afa7-264a-4a81-8a67-61d3ece15057" />
+
+I started the cab frame by making a 1.5in wide by 4in long by .2in thick base. This is to match the width and thickness of the flatbed. 
+
+<img width="1414" height="941" alt="image" src="https://github.com/user-attachments/assets/7cfde622-4513-499a-b9c4-21c6d3b7de08" />
+
+<img width="938" height="762" alt="image" src="https://github.com/user-attachments/assets/2434245e-1210-4d45-bfcb-ef092883b952" />
+
+<img width="431" height="608" alt="image" src="https://github.com/user-attachments/assets/e0de4455-6438-415a-8854-d24e05e2e0b6" />
+
+Next I made the hitch piece by extruding a rectangle to .5in with matching width and thickness of the ball hitch on the flatbed. I made it a little longer however to give it clearance for turning so the bed wont hit the corners of the cab. I then cut a hole in the middle and added fillets to the edged so it could slide over top the hitch on the flatbed connecting the two pieces. I made the hoe diameter .24in which is .04in larger than the trailer so it would be a clean loose sliding fit that could rotate around. 
+
+
 ### Printing and Slicing
 
 <img width="2559" height="1309" alt="image" src="https://github.com/user-attachments/assets/85ea3603-b933-47c4-9759-53b19eef376f" />
