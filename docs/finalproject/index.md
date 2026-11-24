@@ -227,7 +227,9 @@ I started the cab frame by making a 1.5in wide by 4in long by .2in thick base. T
 
 <img width="1067" height="663" alt="image" src="https://github.com/user-attachments/assets/7d634296-c378-4e0c-b791-2990eeef811f" />
 
-Next I made the hitch piece by extruding a rectangle to .5in with matching width and thickness of the ball hitch on the flatbed. I made it a little longer however to give it clearance for turning so the bed wont hit the corners of the cab. I then cut a hole in the middle and added fillets to the edged so it could slide over top the hitch on the flatbed connecting the two pieces. I made the hoe diameter .24in which is .04in larger than the trailer so it would be a clean loose sliding fit that could rotate around. 
+
+
+Next I made the hitch piece by extruding a rectangle to .5in with matching width and thickness of the ball hitch on the flatbed. I made it a little longer however to give it clearance for turning so the bed wont hit the corners of the cab. I then cut a hole in the middle and added fillets to the edged so it could slide over top the hitch on the flatbed connecting the two pieces. I made the hoe diameter .24in which is .04in larger than the trailer so it would be a clean loose sliding fit that could rotate around. I then  added holes all the way through the side for the axels to go into.
 
 <img width="1350" height="846" alt="image" src="https://github.com/user-attachments/assets/d8310cf9-81d8-413c-b7a6-23be55d0bd06" />
 
