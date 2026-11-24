@@ -242,6 +242,13 @@ Next I made the hitch piece by extruding a rectangle to .5in with matching width
 
 Lastly I am going to make the chains that will hold into the tailgate for added details. I started by adding a reference plane in the middle so I could extruded them easily and in the middle of the base. I used a sweep feature along with the straight slot sketch feature to create a chain link and set the dimensions to what i thought looked best. Ive never done this so I didn't have much knowledge on fitments going into it. However after seeing the fitment and size these chains would have to be i am going to scrap this idea because I cant print something that small that wont break after taking it off the plate. 
 
+### Cab Laser cutting
+
+<img width="532" height="440" alt="{1B0E80C6-757E-4538-898E-09731D439D4A}" src="https://github.com/user-attachments/assets/a89c1e54-9739-494b-8c9d-ebad64104b47" />
+
+<img width="335" height="441" alt="{F811473D-6ECA-4ABC-87D7-D9AC04543D66}" src="https://github.com/user-attachments/assets/871cd4bf-5d25-4f4f-93c3-fe60c3eed781" />
+
+
 ### Printing and Slicing
 
 <img width="2559" height="1309" alt="image" src="https://github.com/user-attachments/assets/85ea3603-b933-47c4-9759-53b19eef376f" />
