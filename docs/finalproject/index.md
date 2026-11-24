@@ -258,10 +258,12 @@ The cab frame took about 15 minutes to print the first time without the chains a
 
 <img width="2558" height="1311" alt="image" src="https://github.com/user-attachments/assets/eabc1dea-992f-43cd-86ff-b9ed923a7df8" />
 
-The second time to print with the wheel holes and no chains along with the axels and wheels was about an hour. 
+The second time to print with the wheel holes and no chains along with the axels and wheels was about an hour. I did have to use organic supports on the frame for the hitch to print because I made the wheels holes and I need those to be smooth on this inside, so I had to orient it standing upright. 
 
 <img width="800" height="1422" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/2d1f5e0e-f2d8-4c00-beba-7f22a6652de5" />
 
 
 ## CAD FIles
 [Flatbed final.zip](https://github.com/user-attachments/files/35295975/Flatbed.final.zip)
+
+[Cab final.zip](https://github.com/user-attachments/files/35316620/Cab.final.zip)
